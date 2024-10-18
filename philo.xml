@@ -1,3 +1,19 @@
-test 123
-
-this is from Mike's personal computer
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>
+      <!-- title of the resource -->
+      </title>
+    </titleStmt>
+    <publicationStmt>
+      <p>
+      <!-- Information about distribution of the resource -->
+      </p>
+    </publicationStmt>
+      <sourceDesc>
+        <p>
+        <!-- Information about source from which the resource derives -->
+        </p>
+      </sourceDesc>
+  </fileDesc>
+</teiHeader>
