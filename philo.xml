@@ -2,14 +2,14 @@
   <teiHeaderxml:lang="en">
     <fileDesc>
       <titleStmt>
-        <title>Philosophische Versuche: a digital edition</title>
-        <author>Tetens, Johannes Nikolaus (1736-1807)</author>
+        <title>Philosophische Versuche: a digital edition </title>
+        <author>Tetens, Johannes Nikolaus (1736-1807) </author>
       </titleStmt>
       <publicationStmt>
-        <publisher>Publisher unknown</publisher>
+        <publisher>Publisher unknown </publisher>
       </publicationStmt>
         <sourceDesc>
-          <bibl>The first half of Tetens's Philosophische Versuche</bibl>
+          <bibl>The first half of Tetens's Philosophische Versuche </bibl>
         </sourceDesc>
     </fileDesc>
   </teiHeader>
