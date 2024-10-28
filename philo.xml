@@ -1,19 +1,68 @@
-<teiHeader>
-  <fileDesc>
-    <titleStmt>
-      <title>
-      <!-- title of the resource -->
-      </title>
-    </titleStmt>
-    <publicationStmt>
-      <p>
-      <!-- Information about distribution of the resource -->
-      </p>
-    </publicationStmt>
-      <sourceDesc>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+        <!-- title of the resource -->
+        </title>
+      </titleStmt>
+      <publicationStmt>
         <p>
-        <!-- Information about source from which the resource derives -->
+        <!-- Information about distribution of the resource -->
         </p>
-      </sourceDesc>
-  </fileDesc>
-</teiHeader>
+      </publicationStmt>
+        <sourceDesc>
+          <p>
+          <!-- Information about source from which the resource derives -->
+          </p>
+        </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  
+  <text>
+    <body>
+      <p linenum="1" paragraph="1" pagenum="??">[[I]] Philosophische Versuche </p>
+      <p linenum="2" paragraph="1" pagenum="??">über </p>
+      <p linenum="3" paragraph="1" pagenum="??">die menschliche Natur </p>
+      <p linenum="4" paragraph="1" pagenum="??">und </p>
+      <p linenum="5" paragraph="1" pagenum="??">ihre Entwickelung </p>
+      <p linenum="6" paragraph="1" pagenum="??">von </p>
+      <p linenum="7" paragraph="1" pagenum="??">Johann Nicolas Tetens, </p>
+      <p linenum="8" paragraph="1" pagenum="??">Professor der Philosophie zu Kiel.</p>
+      <p linenum="9" paragraph="2" pagenum="??">[Abbildung]</p>
+      <p linenum="10" paragraph="3" pagenum="??">Erster Band.</p>
+      <p linenum="11" paragraph="4" pagenum="??">Leipzig, </p>
+      <p linenum="12" paragraph="4" pagenum="??">bey M. G. Weidmanns Erben und Reich. 1777.</p>
+      <p linenum="13" paragraph="5" pagenum="??"> [[II]] </p>
+      <p linenum="14" paragraph="6" pagenum="??"> [[III]]</p>
+      <p linenum="15" paragraph="7" pagenum="??">Vorrede. </p>
+      <p linenum="16" paragraph="8" pagenum="??">Die nachstehenden Versuche betreffen die </p>
+      <p linenum="17" paragraph="8" pagenum="??">Wirkungen des menschlichen Verstand-</p>
+      <p linenum="18" paragraph="8" pagenum="??">es, seine Denkgesetze und seine Grundvermögen; </p>
+      <p linenum="19" paragraph="8" pagenum="??">ferner die thätige Willenskraft, den Grund-</p>
+      <p linenum="20" paragraph="8" pagenum="??">charakter der Menschheit, die Freyheit, die </p>
+      <p linenum="21" paragraph="8" pagenum="??">Natur der Seele, und ihre Entwickelung. </p>
+      <p linenum="22" paragraph="8" pagenum="??">Dieß sind ohne Zweifel die wesentlichsten Punkte </p>
+      <p linenum="23" paragraph="8" pagenum="??">in unserer Natur. Ich verehre die großen Män</p>
+      <p linenum="24" paragraph="8" pagenum="??">ner, die ihren Scharfsinn auf diese Gegenstände </p>
+      <p linenum="25" paragraph="8" pagenum="??">schon verwendet haben, und ich habe gesucht, </p>
+      <p linenum="26" paragraph="8" pagenum="??">ihre Bemühungen zu nutzen. Aber ich meine nicht, </p>
+      <p linenum="27" paragraph="8" pagenum="??">daß daraus ein Vorurtheil gegen die meinigen, </p>
+      <p linenum="28" paragraph="8" pagenum="??">wenn sie auch jener ihren nicht gleichen, entstehen </p>
+      <p linenum="29" paragraph="8" pagenum="??">werde. Die Menschheit ist noch lange eine Gru- </p>
+      <p linenum="30" paragraph="8" pagenum="??">be, aus der sich jeder Forscher eine gute Ausbeute </p>
+      <p linenum="31" paragraph="8" pagenum="??">versprechen kann, und ich möchte hinzusetzen, auch </p>
+      <p linenum="32" paragraph="8" pagenum="??">dann sogar, wenn er nur die schon oft bearbeiteten </p>
+      <p linenum="33" paragraph="8" pagenum="??">Gänge von neuem vornimmt. Denn auch bey </p>
+      <p linenum="34" paragraph="8" pagenum="??">den angelegentlichsten Wahrheiten, über welche </p>
+      <p linenum="35" paragraph="8" pagenum="??">schon einiges Licht verbreitet ist, fehlet noch hie </p>
+      <p linenum="36" paragraph="8" pagenum="??">und da sehr viel an der völligen Evidenz, die alle </p>
+      <p linenum="37" paragraph="8" pagenum="??">vernünftige Zweifel ausschließt.</p>
+      <p linenum="38" paragraph="9" pagenum="??">Was die Methode betrifft, deren ich mich </p>
+      <p linenum="39" paragraph="9" pagenum="??">bedient habe, so halte ichs für nöthig, darüber zum</p>
+      <p linenum="40" paragraph="10" pagenum="??">voraus</p>
+      <p linenum="41" paragraph="11" pagenum="??">a 2</p>
+    </body>
+  </text>
+  
+</TEI>
