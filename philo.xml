@@ -16,6 +16,15 @@
   
   <text>
     <body>
+      <SOME SORT OF SECTION ELEMENT>
+        <p>
+          <TITLE ELEMENT>
+          </TITLE>
+        </p>
+        <p>
+          line of text <lb/ n="1"> line of text <lb/ n="2"> ..... etc..... <pb/ n="5"> ..... etc....
+        </p>
+            
       <p linenum="1" paragraph="1" pagenum="??">[[I]] Philosophische Versuche </p>
       <p linenum="2" paragraph="1" pagenum="??">über </p>
       <p linenum="3" paragraph="1" pagenum="??">die menschliche Natur </p>
