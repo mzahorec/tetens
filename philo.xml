@@ -1,10 +1,9 @@
 <TEI>
-  <teiHeader>
+  <teiHeaderxml:lang="en">
     <fileDesc>
       <titleStmt>
-        <title>
-        <!-- title of the resource -->
-        </title>
+        <title>Philosophische Versuche</title>
+        <author>Tetens, Johannes Nikolaus (1736-1807)</author>
       </titleStmt>
       <publicationStmt>
         <p>
