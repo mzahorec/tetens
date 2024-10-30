@@ -79,11 +79,15 @@
       <p>
         <lb n="25" break="yes"/>Was die Methode betrifft, deren ich mich 
         <lb n="26" break="yes"/>bedient habe, so halte ichs für nöthig, darüber zum
-        <lb n="27" break="yes"/>voraus
-        <lb n="28" break="yes"/>a 2
+        <head>
+          <lb n="27" break="yes"/>voraus
+          <lb n="28" break="yes"/>a 2
+        </head>
         <pb n="4">
-        <lb n="1" break="yes">[IV] Vorrede.
-        <lb n="2" break="yes"> CONTINUE PARAGRAPH HERE? WHAT ABOUT THE PREVIOUS LINES THAT AREN'T ACTUALLY PARAGRAPH LINES?
+          <head>
+            <lb n="1" break="yes">[IV] Vorrede.
+          </head>
+        <lb n="2" break="yes"> CONTINUE PARAGRAPH HERE? WHAT ABOUT THE PREVIOUS LINES THAT AREN'T ACTUALLY PARAGRAPH LINES? CONFUSING. AND SHOULD I USE "HEAD" ELEMENT FOR BOTTOM OF PREV PAGE??
       </p>
     </body>
   
