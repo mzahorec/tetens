@@ -17,6 +17,7 @@
   <text>
     <front>
       <titlePage>
+        <pb n="1">
         <docTitle>
           <lb n="1" break="yes"/>[[I]] Philosophische Versuche
           <lb n="2" break="yes"/>über
@@ -39,42 +40,48 @@
     </front>
                   
     <body>
-
-      [[II]]</p>
-
-          <p>
-            <pb n="3">
-            <lb n="1" break="yes"/>[III]
-            <lb n="2" break ="yes"/>Vorrede. 
-            <lb n="3" break="yes"/>Die nachstehenden Versuche betreffen die 
-            <lb n="4" break="yes"/>Wirkungen des menschlichen Verstand-
-            <lb n="5" break="no"/>es, seine Denkgesetze und seine Grundvermögen; 
-            <lb n="6" break="yes"/>ferner die thätige Willenskraft, den Grund-
-            <lb n="7" break="no"/>charakter der Menschheit, die Freyheit, die 
-            <lb n="8" break="yes"/>Natur der Seele, und ihre Entwickelung. 
-            <lb n="9" break="yes"/>Dieß sind ohne Zweifel die wesentlichsten Punkte 
-            <lb n="10" break="yes"/>in unserer Natur. Ich verehre die großen Män
-            <lb n="11" break="yes"/>ner, die ihren Scharfsinn auf diese Gegenstände 
-            <lb n="12" break="yes"/>schon verwendet haben, und ich habe gesucht, 
-            <lb n="13" break="yes"/>ihre Bemühungen zu nutzen. Aber ich meine nicht, 
-            <lb n="14" break="yes"/>daß daraus ein Vorurtheil gegen die meinigen, 
-            <lb n="15" break="yes"/>wenn sie auch jener ihren nicht gleichen, entstehen 
-            <lb n="16" break="yes"/>werde. Die Menschheit ist noch lange eine Gru- 
-            <lb n="17" break="yes"/>be, aus der sich jeder Forscher eine gute Ausbeute 
-            <lb n="18" break="yes"/>versprechen kann, und ich möchte hinzusetzen, auch 
-            <lb n="19" break="yes"/>dann sogar, wenn er nur die schon oft bearbeiteten 
-            <lb n="20" break="yes"/>Gänge von neuem vornimmt. Denn auch bey 
-            <lb n="21" break="yes"/>den angelegentlichsten Wahrheiten, über welche 
-            <lb n="22" break="yes"/>schon einiges Licht verbreitet ist, fehlet noch hie 
-            <lb n="23" break="yes"/>und da sehr viel an der völligen Evidenz, die alle 
-            <lb n="24" break="yes"/>vernünftige Zweifel ausschließt.
-        </p>
+      <head>
+        <pb n="2">
+        <lb n="1">[II]
+      </head>
+      <head>
+        <pb n="3">
+        <lb n="1" break="yes"/>[III]
+      </head>
+      <head>
+        <lb n="2" break ="yes"/>Vorrede.
+      </head>
+      <p>
+        <lb n="3" break="yes"/>Die nachstehenden Versuche betreffen die 
+        <lb n="4" break="yes"/>Wirkungen des menschlichen Verstand-
+        <lb n="5" break="no"/>es, seine Denkgesetze und seine Grundvermögen; 
+        <lb n="6" break="yes"/>ferner die thätige Willenskraft, den Grund-
+        <lb n="7" break="no"/>charakter der Menschheit, die Freyheit, die 
+        <lb n="8" break="yes"/>Natur der Seele, und ihre Entwickelung. 
+        <lb n="9" break="yes"/>Dieß sind ohne Zweifel die wesentlichsten Punkte 
+        <lb n="10" break="yes"/>in unserer Natur. Ich verehre die großen Män
+        <lb n="11" break="yes"/>ner, die ihren Scharfsinn auf diese Gegenstände 
+        <lb n="12" break="yes"/>schon verwendet haben, und ich habe gesucht, 
+        <lb n="13" break="yes"/>ihre Bemühungen zu nutzen. Aber ich meine nicht, 
+        <lb n="14" break="yes"/>daß daraus ein Vorurtheil gegen die meinigen, 
+        <lb n="15" break="yes"/>wenn sie auch jener ihren nicht gleichen, entstehen 
+        <lb n="16" break="yes"/>werde. Die Menschheit ist noch lange eine Gru- 
+        <lb n="17" break="yes"/>be, aus der sich jeder Forscher eine gute Ausbeute 
+        <lb n="18" break="yes"/>versprechen kann, und ich möchte hinzusetzen, auch 
+        <lb n="19" break="yes"/>dann sogar, wenn er nur die schon oft bearbeiteten 
+        <lb n="20" break="yes"/>Gänge von neuem vornimmt. Denn auch bey 
+        <lb n="21" break="yes"/>den angelegentlichsten Wahrheiten, über welche 
+        <lb n="22" break="yes"/>schon einiges Licht verbreitet ist, fehlet noch hie 
+        <lb n="23" break="yes"/>und da sehr viel an der völligen Evidenz, die alle 
+        <lb n="24" break="yes"/>vernünftige Zweifel ausschließt.
+      </p>
         
       <p linenum="38" paragraph="9" pagenum="??">Was die Methode betrifft, deren ich mich </p>
       <p linenum="39" paragraph="9" pagenum="??">bedient habe, so halte ichs für nöthig, darüber zum</p>
       <p linenum="40" paragraph="10" pagenum="??">voraus</p>
       <p linenum="41" paragraph="11" pagenum="??">a 2</p>
     </body>
+  
   </text>
   
 </TEI>
