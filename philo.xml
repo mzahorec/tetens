@@ -4,15 +4,26 @@
       <titleStmt>
         <title>Philosophische Versuche: a digital edition </title>
         <author>Tetens, Johannes Nikolaus (1736-1807) </author>
+        <respStmt>
+          <resp>Transcribed by </resp>
+          <name xml:id="JH">John Hymers </resp>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by </resp>
+          <name xml:id="CF">Courtney Fugate </resp>
+          <name xml:id="MH">Michael Zahorec </resp>
+          <name xml:id="MS">Micah Summers </resp>
+        </respStmt>
       </titleStmt>
       <publicationStmt>
         <publisher>The Tetens Project </publisher>
-        <pubPlace>Tallahassee, FL <pubPlace>
+        <pubPlace>Tallahassee, FL </pubPlace>
         <address>
-          <addrLine>Department of Philosophy <addrLine>
-          <addrLine>Dodd Hall <addrLine>
-          <addrLine>Florida State University <addrLine>
-          <addrLine>Tallahassee, FL 32306 <addrLine>
+          <addrLine>Department of Philosophy </addrLine>
+          <addrLine>Dodd Hall </addrLine>
+          <addrLine>Florida State University </addrLine>
+          <addrLine>Tallahassee, FL 32306 </addrLine>
+        </address>
       </publicationStmt>
         <sourceDesc>
           <bibl>The first half of Tetens's Philosophische Versuche </bibl>
