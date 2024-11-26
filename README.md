@@ -9,5 +9,12 @@ Link to Tetens dropbox: https://www.dropbox.com/scl/fo/delphoqfh0mxvhssi3qb5/h?r
 - in the CISCO client, connect to "vpn.fsu.edu"
 - should prompt 2FA request
 
+- https://servicecenter.fsu.edu/s/article/How-do-I-connect-to-the-HPC-or-other-RCC-resources-from-off-campus
+- the VPN we have to connect to is "vpn.fsu.edu/hpc"
+- https://vpn.fsu.edu/+CSCOE+/logon.html
+- https://its.fsu.edu/research/rcc-user-accounts
+- 
+
 # web development environment from digital humanities department
 - Fugate-Tetens (fsu.edu): https://idhi.rcc.fsu.edu/exist/apps/Tetens/index.html
+
