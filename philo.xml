@@ -1,18 +1,18 @@
 <TEI>
-  <teiHeaderxml:lang="en">
+  <teiHeader xml:lang="en">
     <fileDesc>
       <titleStmt>
         <title>Philosophische Versuche: a digital edition </title>
         <author>Tetens, Johannes Nikolaus (1736-1807) </author>
         <respStmt>
           <resp>Transcribed by </resp>
-          <name xml:id="JH">John Hymers </resp>
+          <name xml:id="JH">John Hymers </name>
         </respStmt>
         <respStmt>
           <resp>Encoded by </resp>
-          <name xml:id="CF">Courtney Fugate </resp>
-          <name xml:id="MH">Michael Zahorec </resp>
-          <name xml:id="MS">Micah Summers </resp>
+          <name xml:id="CF">Courtney Fugate </name>
+          <name xml:id="MH">Michael Zahorec </name>
+          <name xml:id="MS">Micah Summers </name>
         </respStmt>
       </titleStmt>
       <publicationStmt>
@@ -34,7 +34,7 @@
   <text>
     <front>
       <titlePage>
-        <pb n="1">
+        <pb n="1"/>
         <docTitle>
           <lb n="1" break="yes"/>[[I]] Philosophische Versuche
           <lb n="2" break="yes"/>über
@@ -58,11 +58,11 @@
                   
     <body>
       <head>
-        <pb n="2">
-        <lb n="1">[II]
+        <pb n="2"/>
+        <lb n="1"/>[II]
       </head>
       <head>
-        <pb n="3">
+        <pb n="3"/>
         <lb n="1" break="yes"/>[III]
       </head>
       <head>
@@ -100,11 +100,11 @@
           <lb n="27" break="yes"/>voraus
           <lb n="28" break="yes"/>a 2
         </head>
-        <pb n="4">
+        <pb n="4"/>
           <head>
-            <lb n="1" break="yes">[IV] Vorrede.
+            <lb n="1" break="yes"/>[IV] Vorrede.
           </head>
-        <lb n="2" break="yes"> CONTINUE PARAGRAPH HERE? WHAT ABOUT THE PREVIOUS LINES THAT AREN'T ACTUALLY PARAGRAPH LINES? CONFUSING. AND SHOULD I USE "HEAD" ELEMENT FOR BOTTOM OF PREV PAGE??
+        <lb n="2" break="yes"/> CONTINUE PARAGRAPH HERE? WHAT ABOUT THE PREVIOUS LINES THAT AREN'T ACTUALLY PARAGRAPH LINES? CONFUSING. AND SHOULD I USE "HEAD" ELEMENT FOR BOTTOM OF PREV PAGE??
       </p>
     </body>
   
