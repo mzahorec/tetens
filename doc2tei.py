@@ -7,10 +7,30 @@ def myread(myfilename):                 ## Read paragraphs from docx file
     document = Document(myfilename)     ## then store them in a dictionary
     listofpars = document.paragraphs
     mydict = {}
-    for x in range(len(listofpars)):
-        mydict[x] = listofpars[x].text
+    
+    '''
+    for para in range(len(listofpars)):
+        print(para)
+        print(listofpars[para].text)
+        print("\n")
+        mydict[para] = listofpars[para].text
+    ''' 
+        
+        
+    
+    
+    for para in range(len(listofpars)):
+        mydict[para] = ""
+        for run in listofpars[para].runs:
+            if run.bold:
+                mydict[para] += "<hi rend=\"bold\">" + run.text + "</hi>"    
+            else:
+                #print(run.text)
+                #print("just printed")
+                mydict[para] += run.text 
+        
     return mydict
-
+    
 
 def printdict(mydict):                  ## Loop print dictionary contents
     for x in range(len(mydict)):
@@ -71,7 +91,10 @@ def popuxml(basicxml,dictoflists):      ## populate xml with source data
     tree = ET.fromstring(basicxml)
     cnav = tree.find(".//body")
     count=0
+    #print(dictoflists)
     for x in range(len(dictoflists)):
+        #print(dictoflists[x])
+        #print("\n")
         for y in range(len(dictoflists[x])):
             count+=1
             curel = ET.Element("p", linenum=str(count), paragraph=str(x+1), pagenum="??")
@@ -89,13 +112,13 @@ def writexml(myxml,myfilename):         ## write xml structure to file
 
 def main():
     print("starting program...\n")
-    dictofpars = myread('PV_Critical_1777_2014_downloaded2024_02_08_first35pages.docx')
+    dictofpars = myread('/home/michael/Downloads/11_PV_Vorrede_pres (1).docx')
     #printdict(dictofpars)
     dictoflists = splitlines(dictofpars)
     #printdict(dictoflists)
     basixml = genxml(dictoflists)
     populatedxml = popuxml(basixml,dictoflists)
-    writexml(populatedxml,'testxml01.xml')
+    writexml(populatedxml,'/home/michael/Downloads/testxml03.xml')
     print("\nending program...")
 
 if __name__ == '__main__':
