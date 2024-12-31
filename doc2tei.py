@@ -3,102 +3,32 @@ import lxml.etree
 import lxml.builder
 
 
-def myread(myfilename):                 ## Read paragraphs from docx file
-    document = Document(myfilename)     ## then store them in a dictionary
+def myread(myfilename):                 ## Read lines from docx file
+    document = Document(myfilename)     ## then store them in a list
     listofpars = document.paragraphs
-    #print(listofpars[10].text)
-    mydict = {}
-    
-    '''
-    for para in range(len(listofpars)):
-        print(para)
-        print(listofpars[para].text)
-        print("\n")
-        mydict[para] = listofpars[para].text
-    ''' 
-        
-        
-    page_breaks = []
-    count = 0
-    
-    '''
-    for para in range(len(listofpars)):
-        mydict[para] = ""
-        for run in listofpars[para].runs:
-            if run.bold:
-                mydict[para] += "<hi rend=\"bold\">" + run.text + "</hi>"    
-            else:
-                #print(run.text)
-                #print("just printed")
-                mydict[para] += run.text
-                
-            if run._r.getchildren():
-                #print(run.text)
-                for child in run._r.getchildren():
-                    #print(child.tag)
-                    #if child.tag.endswith('br') and 'type' in child.attrib and child.attrib['type'] == 'page':
-                    if 'w:br' in run._element.xml and 'type="page"' in run._element.xml:
-                        page_breaks.append(run.text)
-                        count+=1
-    '''
-    
-    '''
-    pagecount = 0
-    linecount = 0
-    for parindex in range(len(listofpars)):
-        #linecount = 1
-        linecount +=1
-        mydict[parindex] = ""
-        print("para num: ", parindex)
-        for runindex in range(len(listofpars[parindex].runs)):
-            if runindex < len(listofpars[parindex].runs) - 1:
-                #print("run num:", runindex, "\t", linecount, repr(listofpars[parindex].runs[runindex].text) )
-                if listofpars[parindex].runs[runindex]._r.getchildren():
-                    #for child in listofpars[parindex].runs[runindex]._r.getchildren():
-                        if 'w:br' in listofpars[parindex].runs[runindex]._element.xml and 'type="page"' in listofpars[parindex].runs[runindex]._element.xml:
-                            pagecount+=1
-                            linecount=1
-                            print("PG BR: ", pagecount)
-                        elif '\n' in listofpars[parindex].runs[runindex+1].text:
-                            linecount+=1
-                            print("Line", linecount, repr(listofpars[parindex].runs[runindex].text), listofpars[parindex].runs[runindex].bold)
-                            
-                        else:
-                            print("Line", linecount, repr(listofpars[parindex].runs[runindex].text), listofpars[parindex].runs[runindex].bold)
-            else:
-                print("end: ", "run num:", runindex, "\t", linecount, repr(listofpars[parindex].runs[runindex].text) )
-       '''
     masterlist=[]
     pagecount = 1
     linecount = 0
     for parindex in range(len(listofpars)):
         linecount +=1
-        mydict[parindex] = ""
-        print("para num: ", parindex)
+        #print("para num: ", parindex)
         for runindex in range(len(listofpars[parindex].runs)):
             if listofpars[parindex].runs[runindex]._r.getchildren():
                 if 'w:br' in listofpars[parindex].runs[runindex]._element.xml and 'type="page"' in listofpars[parindex].runs[runindex]._element.xml:
                     pagecount+=1
                     linecount=1
-                    #print("PG BR: ", pagecount)
                 elif '\n' in listofpars[parindex].runs[runindex].text:
                     linecount+=1
-                    #print("P", pagecount, "Line", linecount, repr(listofpars[parindex].runs[runindex].text), listofpars[parindex].runs[runindex].bold)
-                #else:
-                    #print("Line", linecount, repr(listofpars[parindex].runs[runindex].text), listofpars[parindex].runs[runindex].bold)
-            print("P", pagecount, "Line", linecount, repr(listofpars[parindex].runs[runindex].text), listofpars[parindex].runs[runindex].bold)
-                                  
+            #print("P", pagecount, "Line", linecount, repr(listofpars[parindex].runs[runindex].text), listofpars[parindex].runs[runindex].bold)
+            tag = ""
+            if listofpars[parindex].runs[runindex].bold:
+                tag += "B"
+            masterlist.append([pagecount,linecount,listofpars[parindex].runs[runindex].text.replace("\n",""), tag])
+            
+    for current in masterlist:
+        print(current)
     
-    
-                    
-    
-    print("\n\nI found this many paragraphs with page breaks: ", pagecount)
-    for para in page_breaks:
-        print(para)
-        
-    
-        
-    return mydict
+    return masterlist
     
 
 def printdict(mydict):                  ## Loop print dictionary contents
@@ -154,12 +84,14 @@ def genxml(listdict):                   ## generate xml structure
     return myxml
 
 
-def popuxml(basicxml,dictoflists):      ## populate xml with source data
+def popuxml(basicxml,masterlist):      ## populate xml with source data
     E = lxml.builder.ElementMaker()
     ET = lxml.etree
     tree = ET.fromstring(basicxml)
     cnav = tree.find(".//body")
     count=0
+    
+    '''
     #print(dictoflists)
     for x in range(len(dictoflists)):
         #print(dictoflists[x])
@@ -169,6 +101,14 @@ def popuxml(basicxml,dictoflists):      ## populate xml with source data
             curel = ET.Element("p", linenum=str(count), paragraph=str(x+1), pagenum="??")
             curel.text = dictoflists[x][y]
             cnav.append(curel)
+    '''
+
+#    for item in masterlist:
+#        page =    
+            
+            
+            
+            
     myxml = ET.tostring(tree)
     return myxml
 
@@ -181,12 +121,12 @@ def writexml(myxml,myfilename):         ## write xml structure to file
 
 def main():
     print("starting program...\n")
-    dictofpars = myread('/home/michael/Downloads/11_PV_Vorrede_pres (1).docx')
+    masterlist = myread('/home/michael/Downloads/11_PV_Vorrede_pres (1).docx')
     #printdict(dictofpars)
-    dictoflists = splitlines(dictofpars)
+    #dictoflists = splitlines(dictofpars)
     #printdict(dictoflists)
-    basixml = genxml(dictoflists)
-    populatedxml = popuxml(basixml,dictoflists)
+    basicxml = genxml(dictoflists)
+    populatedxml = popuxml(basicxml,masterlist)
     writexml(populatedxml,'/home/michael/Downloads/testxml04.xml')
     print("\nending program...")
 
