@@ -6,6 +6,7 @@ import lxml.builder
 def myread(myfilename):                 ## Read paragraphs from docx file
     document = Document(myfilename)     ## then store them in a dictionary
     listofpars = document.paragraphs
+    #print(listofpars[10].text)
     mydict = {}
     
     '''
@@ -17,8 +18,10 @@ def myread(myfilename):                 ## Read paragraphs from docx file
     ''' 
         
         
+    page_breaks = []
+    count = 0
     
-    
+    '''
     for para in range(len(listofpars)):
         mydict[para] = ""
         for run in listofpars[para].runs:
@@ -27,7 +30,73 @@ def myread(myfilename):                 ## Read paragraphs from docx file
             else:
                 #print(run.text)
                 #print("just printed")
-                mydict[para] += run.text 
+                mydict[para] += run.text
+                
+            if run._r.getchildren():
+                #print(run.text)
+                for child in run._r.getchildren():
+                    #print(child.tag)
+                    #if child.tag.endswith('br') and 'type' in child.attrib and child.attrib['type'] == 'page':
+                    if 'w:br' in run._element.xml and 'type="page"' in run._element.xml:
+                        page_breaks.append(run.text)
+                        count+=1
+    '''
+    
+    '''
+    pagecount = 0
+    linecount = 0
+    for parindex in range(len(listofpars)):
+        #linecount = 1
+        linecount +=1
+        mydict[parindex] = ""
+        print("para num: ", parindex)
+        for runindex in range(len(listofpars[parindex].runs)):
+            if runindex < len(listofpars[parindex].runs) - 1:
+                #print("run num:", runindex, "\t", linecount, repr(listofpars[parindex].runs[runindex].text) )
+                if listofpars[parindex].runs[runindex]._r.getchildren():
+                    #for child in listofpars[parindex].runs[runindex]._r.getchildren():
+                        if 'w:br' in listofpars[parindex].runs[runindex]._element.xml and 'type="page"' in listofpars[parindex].runs[runindex]._element.xml:
+                            pagecount+=1
+                            linecount=1
+                            print("PG BR: ", pagecount)
+                        elif '\n' in listofpars[parindex].runs[runindex+1].text:
+                            linecount+=1
+                            print("Line", linecount, repr(listofpars[parindex].runs[runindex].text), listofpars[parindex].runs[runindex].bold)
+                            
+                        else:
+                            print("Line", linecount, repr(listofpars[parindex].runs[runindex].text), listofpars[parindex].runs[runindex].bold)
+            else:
+                print("end: ", "run num:", runindex, "\t", linecount, repr(listofpars[parindex].runs[runindex].text) )
+       '''
+    masterlist=[]
+    pagecount = 1
+    linecount = 0
+    for parindex in range(len(listofpars)):
+        linecount +=1
+        mydict[parindex] = ""
+        print("para num: ", parindex)
+        for runindex in range(len(listofpars[parindex].runs)):
+            if listofpars[parindex].runs[runindex]._r.getchildren():
+                if 'w:br' in listofpars[parindex].runs[runindex]._element.xml and 'type="page"' in listofpars[parindex].runs[runindex]._element.xml:
+                    pagecount+=1
+                    linecount=1
+                    #print("PG BR: ", pagecount)
+                elif '\n' in listofpars[parindex].runs[runindex].text:
+                    linecount+=1
+                    #print("P", pagecount, "Line", linecount, repr(listofpars[parindex].runs[runindex].text), listofpars[parindex].runs[runindex].bold)
+                #else:
+                    #print("Line", linecount, repr(listofpars[parindex].runs[runindex].text), listofpars[parindex].runs[runindex].bold)
+            print("P", pagecount, "Line", linecount, repr(listofpars[parindex].runs[runindex].text), listofpars[parindex].runs[runindex].bold)
+                                  
+    
+    
+                    
+    
+    print("\n\nI found this many paragraphs with page breaks: ", pagecount)
+    for para in page_breaks:
+        print(para)
+        
+    
         
     return mydict
     
@@ -118,7 +187,7 @@ def main():
     #printdict(dictoflists)
     basixml = genxml(dictoflists)
     populatedxml = popuxml(basixml,dictoflists)
-    writexml(populatedxml,'/home/michael/Downloads/testxml03.xml')
+    writexml(populatedxml,'/home/michael/Downloads/testxml04.xml')
     print("\nending program...")
 
 if __name__ == '__main__':
