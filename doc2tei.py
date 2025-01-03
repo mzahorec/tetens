@@ -2,7 +2,6 @@ from docx import Document
 import lxml.etree
 import lxml.builder
 
-
 def myread(myfilename):                 ## Read lines from docx file
     document = Document(myfilename)     ## then store them in a list
     listofpars = document.paragraphs
@@ -24,7 +23,7 @@ def myread(myfilename):                 ## Read lines from docx file
             bold = False
             if listofpars[parindex].runs[runindex].bold:
                 bold = True
-            
+                
             #masterlist.append([pagecount,parindex,linecount,listofpars[parindex].runs[runindex].text.replace("\n",""), tag])
             curdict = {
                 "page":pagecount,
@@ -35,9 +34,22 @@ def myread(myfilename):                 ## Read lines from docx file
             }
             masterlist.append(curdict)
             
-    #for current in masterlist:
-    #    print(current)
+    for index in range(len(masterlist)-1):
+        #print("item",index,"is",masterlist[index])
+        tempindex = index
+        while(True):
+            if masterlist[tempindex]["line"]!=masterlist[tempindex+1]["line"]:
+                if masterlist[tempindex]["text"][-1] == "-" or masterlist[tempindex]["text"][-2:] == "- ":
+                    masterlist[index]["isbreak"] = "no"
+                else:
+                    masterlist[index]["isbreak"] = "yes"
+                break
+            tempindex+=1
+    masterlist[-1]["isbreak"]="yes"
     
+    for index in range(len(masterlist)):
+        print("item",index,"is",masterlist[index])
+        
     return masterlist
     
 
@@ -60,52 +72,63 @@ def genxml():                   ## generate xml structure
     
     ns = "http://www.tei-c.org/ns/1.0"
     
-    E = lxml.builder.ElementMaker()
+    E = lxml.builder.ElementMaker(namespace=ns, nsmap={None: "http://www.tei-c.org/ns/1.0"})
     ET = lxml.etree
-    the_doc = E.TEI(
+    the_doc =   E.TEI(
                     E.teiHeader(
                         E.fileDesc(
                             E.titleStmt(
-                                E.title(
-
+                                E.title("Philosophische Versuche: a digital edition"),
+                                E.author("Tetens, Johannes Nikolaus (1736-1807)"),
+                                E.respStmt(
+                                    E.resp("Transcribed by"),
+                                    E.name("John Hymers")
                                 ),
                                 E.respStmt(
-                                    E.resp('we can put some info here'
-
-                                    ),
-                                    E.name('the name of the text goes here'
-
-                                    )
-                                ),
-                                E.publicationStmt(
-
-                                ),
-                                E.sourceDesc(
-                                    E.p('insert some source desciption here'
-
-                                    )
+                                    E.resp("Encoded by"),
+                                    E.name("Michael Zahorec"),
+                                    E.name("Micah Summers"),
+                                    E.name("Courtney Fugate")
                                 )
+                            ),
+                            E.publicationStmt(
+                                E.publisher("The Tetens Project"),
+                                E.pubPlace("Tallahassee, FL"),
+                                E.address(
+                                    E.addrLine("Department of Philosophy"),
+                                    E.addrLine("Dodd Hall"),
+                                    E.addrLine("Florida State University"),
+                                    E.addrLine("Tallahassee, FL 32306")
+                                )
+                            ),
+                            E.sourceDesc(
+                                E.bibl("The first half of Teten's Philosophische Versuche")        
                             )
                         )
                     ),
                     E.text(
                         E.body(
-                            E.p()
                         )
                     )
-              )
+                )
     
-    myxml =  ET.tostring(the_doc, pretty_print=False)
-    print(myxml)
-    return myxml
+    #myxml =  ET.tostring(the_doc, pretty_print=False)
+    #print(myxml)
+    #return myxml
+    
+    return the_doc
 
 
-def popuxml(basicxml,masterlist):      ## populate xml with source data
-    E = lxml.builder.ElementMaker()
+def popuxml(myxml,masterlist):      ## populate xml with source data
+    
+    #E = lxml.builder.ElementMaker()
     etree = lxml.etree
-    tree = etree.fromstring(basicxml)
-    cnav = tree.find(".//body")
-    count=0
+    #tree = etree.fromstring(basicxml)
+    #cnav = tree.find(".//body")
+    #count=0
+    
+    body = myxml.xpath('//tei:text//tei:body', namespaces={'tei': 'http://www.tei-c.org/ns/1.0'})[0]
+    
     
     '''
     #print(dictoflists)
@@ -173,7 +196,7 @@ def popuxml(basicxml,masterlist):      ## populate xml with source data
             
         if item["para"]!=prevpara:
             if prevpara != -1:
-                cnav.append(p)
+                body.append(p)
             p = etree.Element("p")
             prevline = -1
         
@@ -190,6 +213,7 @@ def popuxml(basicxml,masterlist):      ## populate xml with source data
                 curelem.tail = curtext
                 curtext = ""
             curelem = etree.SubElement(p, "lb", n=str(item["line"]))
+            curelem.set("break",item["isbreak"])
          
         if item["bold"]==True:
             if 'curelem' in locals():
@@ -211,15 +235,20 @@ def popuxml(basicxml,masterlist):      ## populate xml with source data
             
             
             
-    myxml = etree.tostring(tree)
-    return myxml
+    xmlstr = etree.tostring(myxml)
+    return xmlstr
 
 
-def writexml(myxml,myfilename):         ## write xml structure to file
-    f = open(myfilename, "wb")
+def writexml(myxml,filename):         ## write xml structure to file
+    f = open(filename, "wb")
     f.write(myxml)
     f.close()
 
+def writetxt(masterlist, filename):
+    with open(filename, "w") as f:
+        for index in range(len(masterlist)):
+            f.write( "run "+str(index)+": "+str(masterlist[index])+"\n" )
+    
 
 def main():
     print("starting program...\n")
@@ -229,7 +258,8 @@ def main():
     #printdict(dictoflists)
     basicxml = genxml()
     populatedxml = popuxml(basicxml,masterlist)
-    writexml(populatedxml,'/home/michael/Downloads/testxml04.xml')
+    writetxt(masterlist, '/home/michael/Downloads/tetenstxt05.txt')
+    writexml(populatedxml,'/home/michael/Downloads/tetensxml05.xml')
     print("\nending program...")
 
 if __name__ == '__main__':

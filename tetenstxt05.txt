@@ -1,0 +1,1598 @@
+run 0: {'page': 1, 'para': 0, 'line': 1, 'text': '[', 'bold': False, 'isbreak': 'yes'}
+run 1: {'page': 1, 'para': 0, 'line': 1, 'text': 'I] Philosophische Versuche ', 'bold': False, 'isbreak': 'yes'}
+run 2: {'page': 1, 'para': 0, 'line': 2, 'text': 'über ', 'bold': False, 'isbreak': 'yes'}
+run 3: {'page': 1, 'para': 0, 'line': 3, 'text': 'die menschliche Natur ', 'bold': False, 'isbreak': 'yes'}
+run 4: {'page': 1, 'para': 0, 'line': 4, 'text': 'und ', 'bold': False, 'isbreak': 'yes'}
+run 5: {'page': 1, 'para': 0, 'line': 5, 'text': 'ihre Entwickelung ', 'bold': False, 'isbreak': 'yes'}
+run 6: {'page': 1, 'para': 0, 'line': 6, 'text': 'von ', 'bold': False, 'isbreak': 'yes'}
+run 7: {'page': 1, 'para': 0, 'line': 7, 'text': 'Johann Nicolas Tetens, ', 'bold': False, 'isbreak': 'yes'}
+run 8: {'page': 1, 'para': 0, 'line': 8, 'text': 'Professor der Philosophie zu Kiel.', 'bold': False, 'isbreak': 'yes'}
+run 9: {'page': 1, 'para': 1, 'line': 9, 'text': '[Abbildung]', 'bold': False, 'isbreak': 'yes'}
+run 10: {'page': 1, 'para': 2, 'line': 10, 'text': 'Erster Band.', 'bold': False, 'isbreak': 'yes'}
+run 11: {'page': 1, 'para': 3, 'line': 11, 'text': 'Leipzig, ', 'bold': False, 'isbreak': 'yes'}
+run 12: {'page': 1, 'para': 3, 'line': 12, 'text': 'bey M. G. Weidmanns Erben und Reich. 1777.', 'bold': False, 'isbreak': 'yes'}
+run 13: {'page': 2, 'para': 4, 'line': 1, 'text': '', 'bold': False, 'isbreak': 'yes'}
+run 14: {'page': 2, 'para': 4, 'line': 1, 'text': '[II] ', 'bold': False, 'isbreak': 'yes'}
+run 15: {'page': 3, 'para': 4, 'line': 1, 'text': '', 'bold': False, 'isbreak': 'yes'}
+run 16: {'page': 3, 'para': 4, 'line': 1, 'text': '[', 'bold': False, 'isbreak': 'yes'}
+run 17: {'page': 3, 'para': 4, 'line': 1, 'text': 'III', 'bold': False, 'isbreak': 'yes'}
+run 18: {'page': 3, 'para': 4, 'line': 1, 'text': ']', 'bold': False, 'isbreak': 'yes'}
+run 19: {'page': 3, 'para': 5, 'line': 2, 'text': 'Vorrede. ', 'bold': False, 'isbreak': 'yes'}
+run 20: {'page': 3, 'para': 6, 'line': 3, 'text': 'Die nachstehenden Versuche betreffen die ', 'bold': False, 'isbreak': 'yes'}
+run 21: {'page': 3, 'para': 6, 'line': 4, 'text': 'Wirkungen des menschlichen ', 'bold': False, 'isbreak': 'no'}
+run 22: {'page': 3, 'para': 6, 'line': 4, 'text': 'Verstand-', 'bold': True, 'isbreak': 'no'}
+run 23: {'page': 3, 'para': 6, 'line': 5, 'text': 'es', 'bold': True, 'isbreak': 'yes'}
+run 24: {'page': 3, 'para': 6, 'line': 5, 'text': ', seine Denkgesetze und seine Grundvermögen; ', 'bold': False, 'isbreak': 'yes'}
+run 25: {'page': 3, 'para': 6, 'line': 6, 'text': 'ferner die thätige ', 'bold': False, 'isbreak': 'no'}
+run 26: {'page': 3, 'para': 6, 'line': 6, 'text': 'Willenskraft', 'bold': True, 'isbreak': 'no'}
+run 27: {'page': 3, 'para': 6, 'line': 6, 'text': ', den ', 'bold': False, 'isbreak': 'no'}
+run 28: {'page': 3, 'para': 6, 'line': 6, 'text': 'Grund-', 'bold': True, 'isbreak': 'no'}
+run 29: {'page': 3, 'para': 6, 'line': 7, 'text': 'charakter', 'bold': True, 'isbreak': 'yes'}
+run 30: {'page': 3, 'para': 6, 'line': 7, 'text': ' ', 'bold': False, 'isbreak': 'yes'}
+run 31: {'page': 3, 'para': 6, 'line': 7, 'text': 'der', 'bold': True, 'isbreak': 'yes'}
+run 32: {'page': 3, 'para': 6, 'line': 7, 'text': ' ', 'bold': False, 'isbreak': 'yes'}
+run 33: {'page': 3, 'para': 6, 'line': 7, 'text': 'Menschheit', 'bold': True, 'isbreak': 'yes'}
+run 34: {'page': 3, 'para': 6, 'line': 7, 'text': ', die ', 'bold': False, 'isbreak': 'yes'}
+run 35: {'page': 3, 'para': 6, 'line': 7, 'text': 'Freyheit', 'bold': True, 'isbreak': 'yes'}
+run 36: {'page': 3, 'para': 6, 'line': 7, 'text': ', die ', 'bold': False, 'isbreak': 'yes'}
+run 37: {'page': 3, 'para': 6, 'line': 8, 'text': '', 'bold': False, 'isbreak': 'yes'}
+run 38: {'page': 3, 'para': 6, 'line': 8, 'text': 'Natur', 'bold': True, 'isbreak': 'yes'}
+run 39: {'page': 3, 'para': 6, 'line': 8, 'text': ' ', 'bold': False, 'isbreak': 'yes'}
+run 40: {'page': 3, 'para': 6, 'line': 8, 'text': 'der', 'bold': True, 'isbreak': 'yes'}
+run 41: {'page': 3, 'para': 6, 'line': 8, 'text': ' ', 'bold': False, 'isbreak': 'yes'}
+run 42: {'page': 3, 'para': 6, 'line': 8, 'text': 'Seele', 'bold': True, 'isbreak': 'yes'}
+run 43: {'page': 3, 'para': 6, 'line': 8, 'text': ', und ihre ', 'bold': False, 'isbreak': 'yes'}
+run 44: {'page': 3, 'para': 6, 'line': 8, 'text': 'Entwickelung', 'bold': True, 'isbreak': 'yes'}
+run 45: {'page': 3, 'para': 6, 'line': 8, 'text': '. ', 'bold': False, 'isbreak': 'yes'}
+run 46: {'page': 3, 'para': 6, 'line': 9, 'text': 'Dieß sind ohne Zweifel die wesentlichsten Punkte ', 'bold': False, 'isbreak': 'yes'}
+run 47: {'page': 3, 'para': 6, 'line': 10, 'text': 'in unserer Natur. Ich verehre die großen Män', 'bold': False, 'isbreak': 'yes'}
+run 48: {'page': 3, 'para': 6, 'line': 11, 'text': 'ner, die ihren Scharfsinn auf diese Gegenstände ', 'bold': False, 'isbreak': 'yes'}
+run 49: {'page': 3, 'para': 6, 'line': 12, 'text': 'schon verwendet haben, und ich habe gesucht, ', 'bold': False, 'isbreak': 'yes'}
+run 50: {'page': 3, 'para': 6, 'line': 13, 'text': 'ihre Bemühungen zu nutzen. Aber ich meine nicht, ', 'bold': False, 'isbreak': 'yes'}
+run 51: {'page': 3, 'para': 6, 'line': 14, 'text': 'daß daraus ein Vorurtheil gegen die meinigen, ', 'bold': False, 'isbreak': 'yes'}
+run 52: {'page': 3, 'para': 6, 'line': 15, 'text': 'wenn sie auch jener ihren nicht gleichen, entstehen ', 'bold': False, 'isbreak': 'yes'}
+run 53: {'page': 3, 'para': 6, 'line': 16, 'text': 'werde. Die Menschheit ist noch lange eine Gru- ', 'bold': False, 'isbreak': 'no'}
+run 54: {'page': 3, 'para': 6, 'line': 17, 'text': 'be, aus der sich jeder Forscher eine gute Ausbeute ', 'bold': False, 'isbreak': 'yes'}
+run 55: {'page': 3, 'para': 6, 'line': 18, 'text': 'versprechen kann, und ich möchte hinzusetzen, auch ', 'bold': False, 'isbreak': 'yes'}
+run 56: {'page': 3, 'para': 6, 'line': 19, 'text': 'dann sogar, wenn er nur die schon oft bearbeiteten ', 'bold': False, 'isbreak': 'yes'}
+run 57: {'page': 3, 'para': 6, 'line': 20, 'text': 'Gänge von neuem vornimmt. Denn auch bey ', 'bold': False, 'isbreak': 'yes'}
+run 58: {'page': 3, 'para': 6, 'line': 21, 'text': 'den angelegentlichsten Wahrheiten, über welche ', 'bold': False, 'isbreak': 'yes'}
+run 59: {'page': 3, 'para': 6, 'line': 22, 'text': 'schon einiges Licht verbreitet ist, fehlet noch hie ', 'bold': False, 'isbreak': 'yes'}
+run 60: {'page': 3, 'para': 6, 'line': 23, 'text': 'und da sehr viel an der völligen Evidenz, die alle ', 'bold': False, 'isbreak': 'yes'}
+run 61: {'page': 3, 'para': 6, 'line': 24, 'text': 'vernünftige Zweifel ausschließt.', 'bold': False, 'isbreak': 'yes'}
+run 62: {'page': 3, 'para': 7, 'line': 25, 'text': 'Was ', 'bold': False, 'isbreak': 'yes'}
+run 63: {'page': 3, 'para': 7, 'line': 25, 'text': 'die', 'bold': True, 'isbreak': 'yes'}
+run 64: {'page': 3, 'para': 7, 'line': 25, 'text': ' ', 'bold': False, 'isbreak': 'yes'}
+run 65: {'page': 3, 'para': 7, 'line': 25, 'text': 'Methode', 'bold': True, 'isbreak': 'yes'}
+run 66: {'page': 3, 'para': 7, 'line': 25, 'text': ' betrifft, deren ich mich ', 'bold': False, 'isbreak': 'yes'}
+run 67: {'page': 3, 'para': 7, 'line': 26, 'text': 'bedient habe, so halte ichs für nöthig, darüber zum', 'bold': False, 'isbreak': 'yes'}
+run 68: {'page': 3, 'para': 8, 'line': 27, 'text': 'voraus', 'bold': False, 'isbreak': 'yes'}
+run 69: {'page': 3, 'para': 9, 'line': 28, 'text': 'a 2', 'bold': False, 'isbreak': 'yes'}
+run 70: {'page': 4, 'para': 9, 'line': 1, 'text': '', 'bold': False, 'isbreak': 'yes'}
+run 71: {'page': 4, 'para': 9, 'line': 1, 'text': '[', 'bold': False, 'isbreak': 'yes'}
+run 72: {'page': 4, 'para': 9, 'line': 1, 'text': 'IV] Vorrede.', 'bold': False, 'isbreak': 'yes'}
+run 73: {'page': 4, 'para': 10, 'line': 2, 'text': 'voraus mich zu erklären. Sie ist die ', 'bold': False, 'isbreak': 'no'}
+run 74: {'page': 4, 'para': 10, 'line': 2, 'text': 'beobach-', 'bold': True, 'isbreak': 'no'}
+run 75: {'page': 4, 'para': 10, 'line': 3, 'text': 'tende', 'bold': True, 'isbreak': 'yes'}
+run 76: {'page': 4, 'para': 10, 'line': 3, 'text': ', die ', 'bold': False, 'isbreak': 'yes'}
+run 77: {'page': 4, 'para': 10, 'line': 3, 'text': 'Lock', 'bold': False, 'isbreak': 'yes'}
+run 78: {'page': 4, 'para': 10, 'line': 3, 'text': 'Locke', 'bold': True, 'isbreak': 'yes'}
+run 79: {'page': 4, 'para': 10, 'line': 3, 'text': ' bey dem Verstande, und unsere ', 'bold': False, 'isbreak': 'yes'}
+run 80: {'page': 4, 'para': 10, 'line': 4, 'text': 'Psychologen in der Erfahrungs-Seelenlehre be-', 'bold': False, 'isbreak': 'no'}
+run 81: {'page': 4, 'para': 10, 'line': 5, 'text': 'folgt haben. Die Modifikationen der Seele so ', 'bold': False, 'isbreak': 'yes'}
+run 82: {'page': 4, 'para': 10, 'line': 6, 'text': 'nehmen, wie sie durch das Selbstgefühl erkannt ', 'bold': False, 'isbreak': 'yes'}
+run 83: {'page': 4, 'para': 10, 'line': 7, 'text': 'werden; diese sorgfältig wiederholt, und mit Ab-', 'bold': False, 'isbreak': 'no'}
+run 84: {'page': 4, 'para': 10, 'line': 8, 'text': 'änderung der Umstände gewahrnehmen, beobach-', 'bold': False, 'isbreak': 'no'}
+run 85: {'page': 4, 'para': 10, 'line': 9, 'text': 'ten, ihre Entstehungsart und die Wirkungsge-', 'bold': False, 'isbreak': 'no'}
+run 86: {'page': 4, 'para': 10, 'line': 10, 'text': 'setze der Kräfte, die sie hervorbringen, bemerken; ', 'bold': False, 'isbreak': 'yes'}
+run 87: {'page': 4, 'para': 10, 'line': 11, 'text': 'alsdenn die Beobachtungen vergleichen, auflösen, ', 'bold': False, 'isbreak': 'yes'}
+run 88: {'page': 4, 'para': 10, 'line': 12, 'text': 'und daraus die einfachsten Vermögen und Wir', 'bold': False, 'isbreak': 'yes'}
+run 89: {'page': 4, 'para': 10, 'line': 13, 'text': 'kungsarten und deren Beziehung auf einander ', 'bold': False, 'isbreak': 'yes'}
+run 90: {'page': 4, 'para': 10, 'line': 14, 'text': 'aufsuchen; dieß sind die wesentlichsten Verrichtun-', 'bold': False, 'isbreak': 'no'}
+run 91: {'page': 4, 'para': 10, 'line': 15, 'text': 'gen bey der psychologischen Analysis der Seele, ', 'bold': False, 'isbreak': 'yes'}
+run 92: {'page': 4, 'para': 10, 'line': 16, 'text': 'die auf Erfahrungen beruhet. Diese Methode ist ', 'bold': False, 'isbreak': 'yes'}
+run 93: {'page': 4, 'para': 10, 'line': 17, 'text': 'die Methode in der Naturlehre; und die einzige, ', 'bold': False, 'isbreak': 'yes'}
+run 94: {'page': 4, 'para': 10, 'line': 18, 'text': 'die uns zunächst die Wirkungen der Seele, und ', 'bold': False, 'isbreak': 'yes'}
+run 95: {'page': 4, 'para': 10, 'line': 19, 'text': 'ihre Verbindungen unter einander so zeiget, wie ', 'bold': False, 'isbreak': 'yes'}
+run 96: {'page': 4, 'para': 10, 'line': 20, 'text': 'sie wirklich sind, und dann hoffen läßt, Grund-', 'bold': False, 'isbreak': 'no'}
+run 97: {'page': 4, 'para': 10, 'line': 21, 'text': 'sätze zu finden, woraus sich mit Zuverlässigkeit auf ', 'bold': False, 'isbreak': 'yes'}
+run 98: {'page': 4, 'para': 10, 'line': 22, 'text': 'ihre Ursachen schließen, und dann etwas gewisses,', 'bold': False, 'isbreak': 'yes'}
+run 99: {'page': 4, 'para': 10, 'line': 23, 'text': ' welches mehr als bloße Muthmaßung ist, über ', 'bold': False, 'isbreak': 'yes'}
+run 100: {'page': 4, 'para': 10, 'line': 24, 'text': 'die Natur der Seele, als des Subjekts der beob-', 'bold': False, 'isbreak': 'no'}
+run 101: {'page': 4, 'para': 10, 'line': 25, 'text': 'achteten Kraftäußerungen, festsetzen läßt.', 'bold': False, 'isbreak': 'yes'}
+run 102: {'page': 4, 'para': 11, 'line': 26, 'text': 'Was man in der neuern Psychologie die ', 'bold': False, 'isbreak': 'no'}
+run 103: {'page': 4, 'para': 11, 'line': 26, 'text': 'ana-', 'bold': True, 'isbreak': 'no'}
+run 104: {'page': 4, 'para': 11, 'line': 27, 'text': 'lytische', 'bold': True, 'isbreak': 'no'}
+run 105: {'page': 4, 'para': 11, 'line': 27, 'text': ', auch wohl die ', 'bold': False, 'isbreak': 'no'}
+run 106: {'page': 4, 'para': 11, 'line': 27, 'text': 'anthropologische', 'bold': True, 'isbreak': 'no'}
+run 107: {'page': 4, 'para': 11, 'line': 27, 'text': ' ', 'bold': False, 'isbreak': 'no'}
+run 108: {'page': 4, 'para': 11, 'line': 27, 'text': 'Me-', 'bold': True, 'isbreak': 'no'}
+run 109: {'page': 4, 'para': 11, 'line': 28, 'text': 'thode', 'bold': True, 'isbreak': 'yes'}
+run 110: {'page': 4, 'para': 11, 'line': 28, 'text': ' nennet, ist ein hievon ganz unterschiedenes ', 'bold': False, 'isbreak': 'yes'}
+run 111: {'page': 4, 'para': 11, 'line': 29, 'text': 'Verfahren. Man betrachtet die Seelenverände-', 'bold': False, 'isbreak': 'no'}
+run 112: {'page': 4, 'para': 11, 'line': 30, 'text': 'rungen von der Seite, da sie etwas in ', 'bold': False, 'isbreak': 'no'}
+run 113: {'page': 4, 'para': 11, 'line': 30, 'text': 'dem', 'bold': True, 'isbreak': 'no'}
+run 114: {'page': 4, 'para': 11, 'line': 30, 'text': ' ', 'bold': False, 'isbreak': 'no'}
+run 115: {'page': 4, 'para': 11, 'line': 30, 'text': 'Ge-', 'bold': True, 'isbreak': 'no'}
+run 116: {'page': 4, 'para': 11, 'line': 31, 'text': 'hirn', 'bold': True, 'isbreak': 'yes'}
+run 117: {'page': 4, 'para': 11, 'line': 31, 'text': ', als dem innern Organ der Seele sind, und ', 'bold': False, 'isbreak': 'yes'}
+run 118: {'page': 4, 'para': 11, 'line': 32, 'text': 'sucht sie als solche Gehirnsbeschaffenheiten und', 'bold': False, 'isbreak': 'yes'}
+run 119: {'page': 4, 'para': 11, 'line': 33, 'text': ' Veränderungen zu erklären. Der Materialist', 'bold': False, 'isbreak': 'yes'}
+run 120: {'page': 4, 'para': 12, 'line': 34, 'text': 'löst', 'bold': False, 'isbreak': 'yes'}
+run 121: {'page': 5, 'para': 13, 'line': 1, 'text': '', 'bold': False, 'isbreak': 'yes'}
+run 122: {'page': 5, 'para': 13, 'line': 1, 'text': '[V] Vorrede.', 'bold': False, 'isbreak': 'yes'}
+run 123: {'page': 5, 'para': 14, 'line': 2, 'text': 'löst alles in Körperveränderungen auf, die eine ', 'bold': False, 'isbreak': 'yes'}
+run 124: {'page': 5, 'para': 14, 'line': 3, 'text': 'Folge der innern Organisation sind; die ', 'bold': False, 'isbreak': 'no'}
+run 125: {'page': 5, 'para': 14, 'line': 3, 'text': 'mecha-', 'bold': True, 'isbreak': 'no'}
+run 126: {'page': 5, 'para': 14, 'line': 4, 'text': 'nischen', 'bold': True, 'isbreak': 'no'}
+run 127: {'page': 5, 'para': 14, 'line': 4, 'text': ' Psychologen unterscheiden zwar die un-', 'bold': False, 'isbreak': 'no'}
+run 128: {'page': 5, 'para': 14, 'line': 5, 'text': 'körperliche Seele, das ', 'bold': False, 'isbreak': 'yes'}
+run 129: {'page': 5, 'para': 14, 'line': 5, 'text': 'Ich', 'bold': True, 'isbreak': 'yes'}
+run 130: {'page': 5, 'para': 14, 'line': 5, 'text': ', von dem körperlichen ', 'bold': False, 'isbreak': 'yes'}
+run 131: {'page': 5, 'para': 14, 'line': 6, 'text': 'Organ, und lassen auch jener ihren eigenen An-', 'bold': False, 'isbreak': 'no'}
+run 132: {'page': 5, 'para': 14, 'line': 7, 'text': 'theil an den Seelenäußerungen, der von dem An-', 'bold': False, 'isbreak': 'no'}
+run 133: {'page': 5, 'para': 14, 'line': 8, 'text': 'theil, den das Organ daran hat, verschieden ist; ', 'bold': False, 'isbreak': 'yes'}
+run 134: {'page': 5, 'para': 14, 'line': 9, 'text': 'aber es geht doch bey ihren Analysen eben sowohl, ', 'bold': False, 'isbreak': 'yes'}
+run 135: {'page': 5, 'para': 14, 'line': 10, 'text': 'als bey den Erklärungen der erstern alles dahin, ', 'bold': False, 'isbreak': 'yes'}
+run 136: {'page': 5, 'para': 14, 'line': 11, 'text': 'zu zeigen, wie weit Fühlen, Vorstellen, Bewußt-', 'bold': False, 'isbreak': 'no'}
+run 137: {'page': 5, 'para': 14, 'line': 12, 'text': 'seyn, Denken, Lust, Unlust, Wollen, Thun, ', 'bold': False, 'isbreak': 'yes'}
+run 138: {'page': 5, 'para': 14, 'line': 13, 'text': 'nicht nur von der Organisation des Gehirns ab-', 'bold': False, 'isbreak': 'no'}
+run 139: {'page': 5, 'para': 14, 'line': 14, 'text': 'hängen, sondern selbst in Veränderungen und Be-', 'bold': False, 'isbreak': 'no'}
+run 140: {'page': 5, 'para': 14, 'line': 15, 'text': 'schaffenheiten desselben bestehen. Und was nun ', 'bold': False, 'isbreak': 'yes'}
+run 141: {'page': 5, 'para': 14, 'line': 16, 'text': 'in dem körperlichen Organ seinen Sitz nicht haben ', 'bold': False, 'isbreak': 'yes'}
+run 142: {'page': 5, 'para': 14, 'line': 17, 'text': 'kann, das ', 'bold': False, 'isbreak': 'no'}
+run 143: {'page': 5, 'para': 14, 'line': 17, 'text': ' ', 'bold': False, 'isbreak': 'no'}
+run 144: {'page': 5, 'para': 14, 'line': 17, 'text': 'hat ihn denn in der immateriellen See-', 'bold': False, 'isbreak': 'no'}
+run 145: {'page': 5, 'para': 14, 'line': 18, 'text': 'le bey denen, die eine solche annehmen. Das ', 'bold': False, 'isbreak': 'yes'}
+run 146: {'page': 5, 'para': 14, 'line': 19, 'text': 'Denkorgan ist eine Maschine, wozu die Seele die ', 'bold': False, 'isbreak': 'yes'}
+run 147: {'page': 5, 'para': 14, 'line': 20, 'text': 'bewegende Kraft ist. Was der Seele im ge-', 'bold': False, 'isbreak': 'no'}
+run 148: {'page': 5, 'para': 14, 'line': 21, 'text': 'wöhnlichen Verstande oder dem ', 'bold': False, 'isbreak': 'yes'}
+run 149: {'page': 5, 'para': 14, 'line': 21, 'text': 'Seelenwesen', 'bold': True, 'isbreak': 'yes'}
+run 150: {'page': 5, 'para': 14, 'line': 21, 'text': ' ', 'bold': False, 'isbreak': 'yes'}
+run 151: {'page': 5, 'para': 14, 'line': 22, 'text': 'zugeschrieben wird, ist etwas in diesem beseelten ', 'bold': False, 'isbreak': 'yes'}
+run 152: {'page': 5, 'para': 14, 'line': 23, 'text': 'Organ, als in seinem Subjekt. Es kömmt also ', 'bold': False, 'isbreak': 'yes'}
+run 153: {'page': 5, 'para': 14, 'line': 24, 'text': 'bey diesen analytischen Erklärungen der Seelen', 'bold': False, 'isbreak': 'yes'}
+run 154: {'page': 5, 'para': 14, 'line': 25, 'text': 'veränderungen darauf an, genauer die Art zu be-', 'bold': False, 'isbreak': 'no'}
+run 155: {'page': 5, 'para': 14, 'line': 26, 'text': 'stimmen, wie sie es sind. Diese Auflösungen soll-', 'bold': False, 'isbreak': 'no'}
+run 156: {'page': 5, 'para': 14, 'line': 27, 'text': 'ten billig die ', 'bold': False, 'isbreak': 'no'}
+run 157: {'page': 5, 'para': 14, 'line': 27, 'text': 'metaphysischen', 'bold': True, 'isbreak': 'no'}
+run 158: {'page': 5, 'para': 14, 'line': 27, 'text': ' heißen. Sie lie-', 'bold': False, 'isbreak': 'no'}
+run 159: {'page': 5, 'para': 14, 'line': 28, 'text': 'gen ganz außer den Gränzen der Beobachtung, ', 'bold': False, 'isbreak': 'yes'}
+run 160: {'page': 5, 'para': 14, 'line': 29, 'text': 'und bestehen am Ende in einer Reduktion dessen, ', 'bold': False, 'isbreak': 'yes'}
+run 161: {'page': 5, 'para': 14, 'line': 30, 'text': 'was man bey der Seele beobachtet, auf Modifi-', 'bold': False, 'isbreak': 'no'}
+run 162: {'page': 5, 'para': 14, 'line': 31, 'text': 'kationen des Gehirns, woran aber ein immate-', 'bold': False, 'isbreak': 'no'}
+run 163: {'page': 5, 'para': 14, 'line': 32, 'text': 'rielles Ich, als wirkende und bewegende Kraft ', 'bold': False, 'isbreak': 'yes'}
+run 164: {'page': 5, 'para': 15, 'line': 33, 'text': 'Antheil', 'bold': False, 'isbreak': 'yes'}
+run 165: {'page': 5, 'para': 16, 'line': 34, 'text': 'a 3', 'bold': False, 'isbreak': 'yes'}
+run 166: {'page': 6, 'para': 16, 'line': 1, 'text': '', 'bold': False, 'isbreak': 'yes'}
+run 167: {'page': 6, 'para': 16, 'line': 1, 'text': '[', 'bold': False, 'isbreak': 'yes'}
+run 168: {'page': 6, 'para': 16, 'line': 1, 'text': 'VI] Vorrede.', 'bold': False, 'isbreak': 'yes'}
+run 169: {'page': 6, 'para': 17, 'line': 2, 'text': 'Antheil haben, und zugleich mit dem Gehirn mo-', 'bold': False, 'isbreak': 'no'}
+run 170: {'page': 6, 'para': 17, 'line': 3, 'text': 'dificirt werden kann.', 'bold': False, 'isbreak': 'yes'}
+run 171: {'page': 6, 'para': 18, 'line': 4, 'text': 'Ich habe unten in einem besondern Aufsatz ', 'bold': False, 'isbreak': 'yes'}
+run 172: {'page': 6, 'para': 18, 'line': 5, 'text': 'die Gründe dieses Verfahrens ausführlicher zu ', 'bold': False, 'isbreak': 'yes'}
+run 173: {'page': 6, 'para': 18, 'line': 6, 'text': 'prüfen gesucht. Ohne also darüber hier schon zu ', 'bold': False, 'isbreak': 'yes'}
+run 174: {'page': 6, 'para': 18, 'line': 7, 'text': 'urtheilen, will ich vorläufig nur eine Anmerkung ', 'bold': False, 'isbreak': 'yes'}
+run 175: {'page': 6, 'para': 18, 'line': 8, 'text': 'machen, die mich rechtfertigen soll, daß ich auch ', 'bold': False, 'isbreak': 'yes'}
+run 176: {'page': 6, 'para': 18, 'line': 9, 'text': 'in den erstern Versuchen über die Verstandeswir', 'bold': False, 'isbreak': 'yes'}
+run 177: {'page': 6, 'para': 18, 'line': 10, 'text': 'kungen fast gar keine Rücksicht auf den sogenann-', 'bold': False, 'isbreak': 'no'}
+run 178: {'page': 6, 'para': 18, 'line': 11, 'text': 'ten ', 'bold': False, 'isbreak': 'yes'}
+run 179: {'page': 6, 'para': 18, 'line': 11, 'text': 'Mechanismus', 'bold': True, 'isbreak': 'yes'}
+run 180: {'page': 6, 'para': 18, 'line': 11, 'text': ' ', 'bold': False, 'isbreak': 'yes'}
+run 181: {'page': 6, 'para': 18, 'line': 11, 'text': 'der', 'bold': True, 'isbreak': 'yes'}
+run 182: {'page': 6, 'para': 18, 'line': 11, 'text': ' ', 'bold': False, 'isbreak': 'yes'}
+run 183: {'page': 6, 'para': 18, 'line': 11, 'text': 'Ideen', 'bold': True, 'isbreak': 'yes'}
+run 184: {'page': 6, 'para': 18, 'line': 11, 'text': ' genommen habe, ', 'bold': False, 'isbreak': 'yes'}
+run 185: {'page': 6, 'para': 18, 'line': 12, 'text': 'obgleich dieser von vielen als das wichtigste ange-', 'bold': False, 'isbreak': 'no'}
+run 186: {'page': 6, 'para': 18, 'line': 13, 'text': 'sehen wird, was jetzo bey einer Auflösung des ', 'bold': False, 'isbreak': 'yes'}
+run 187: {'page': 6, 'para': 18, 'line': 14, 'text': 'Verstandes zu erklären übrig sey.', 'bold': False, 'isbreak': 'yes'}
+run 188: {'page': 6, 'para': 19, 'line': 15, 'text': 'Sobald man bey den Grundsätzen, worauf ', 'bold': False, 'isbreak': 'yes'}
+run 189: {'page': 6, 'para': 19, 'line': 16, 'text': 'die metaphysischen Analysen beruhen, das Gewisse ', 'bold': False, 'isbreak': 'yes'}
+run 190: {'page': 6, 'para': 19, 'line': 17, 'text': 'und Wahrscheinliche von dem absondert, was ', 'bold': False, 'isbreak': 'yes'}
+run 191: {'page': 6, 'para': 19, 'line': 18, 'text': 'noch jetzo nichts ist, als bloße Muthmaßung, und ', 'bold': False, 'isbreak': 'yes'}
+run 192: {'page': 6, 'para': 19, 'line': 19, 'text': 'auch noch lange nichts mehr werden wird; so zeigt ', 'bold': False, 'isbreak': 'yes'}
+run 193: {'page': 6, 'para': 19, 'line': 20, 'text': 'es sich, daß jenes nur etwas ', 'bold': False, 'isbreak': 'no'}
+run 194: {'page': 6, 'para': 19, 'line': 20, 'text': 'allgemeines', 'bold': False, 'isbreak': 'no'}
+run 195: {'page': 6, 'para': 19, 'line': 20, 'text': 'Allgemeines', 'bold': False, 'isbreak': 'no'}
+run 196: {'page': 6, 'para': 19, 'line': 20, 'text': ' und ', 'bold': False, 'isbreak': 'no'}
+run 197: {'page': 6, 'para': 19, 'line': 20, 'text': 'un', 'bold': False, 'isbreak': 'no'}
+run 198: {'page': 6, 'para': 19, 'line': 20, 'text': '-', 'bold': False, 'isbreak': 'no'}
+run 199: {'page': 6, 'para': 19, 'line': 21, 'text': '', 'bold': False, 'isbreak': 'no'}
+run 200: {'page': 6, 'para': 19, 'line': 21, 'text': 'bestimmtes', 'bold': False, 'isbreak': 'no'}
+run 201: {'page': 6, 'para': 19, 'line': 21, 'text': 'Unbestimmtes', 'bold': False, 'isbreak': 'no'}
+run 202: {'page': 6, 'para': 19, 'line': 21, 'text': ' sey, welches man als das metaphysi-', 'bold': False, 'isbreak': 'no'}
+run 203: {'page': 6, 'para': 19, 'line': 22, 'text': 'sche hiebey ansehen könnte, dagegen das näher ', 'bold': False, 'isbreak': 'yes'}
+run 204: {'page': 6, 'para': 19, 'line': 23, 'text': 'bestimmte, was eigentlich eine Physik des Gehirns ', 'bold': False, 'isbreak': 'yes'}
+run 205: {'page': 6, 'para': 19, 'line': 24, 'text': 'seyn würde, zu den bloß angenommenen und ver-', 'bold': False, 'isbreak': 'no'}
+run 206: {'page': 6, 'para': 19, 'line': 25, 'text': 'mutheten gehöre, das nur auf Hypothesen be-', 'bold': False, 'isbreak': 'no'}
+run 207: {'page': 6, 'para': 19, 'line': 26, 'text': 'ruhet.', 'bold': False, 'isbreak': 'yes'}
+run 208: {'page': 6, 'para': 20, 'line': 27, 'text': 'Es ist ein alter, und nun durch die ', 'bold': False, 'isbreak': 'no'}
+run 209: {'page': 6, 'para': 20, 'line': 27, 'text': 'Ueberein', 'bold': False, 'isbreak': 'no'}
+run 210: {'page': 6, 'para': 20, 'line': 27, 'text': '-', 'bold': False, 'isbreak': 'no'}
+run 211: {'page': 6, 'para': 20, 'line': 28, 'text': '', 'bold': False, 'isbreak': 'yes'}
+run 212: {'page': 6, 'para': 20, 'line': 28, 'text': 'stimmung', 'bold': False, 'isbreak': 'yes'}
+run 213: {'page': 6, 'para': 20, 'line': 28, 'text': 'Übereinstimmung', 'bold': False, 'isbreak': 'yes'}
+run 214: {'page': 6, 'para': 20, 'line': 28, 'text': ' der Erfahrungen bestätigter Grundsatz, ', 'bold': False, 'isbreak': 'yes'}
+run 215: {'page': 6, 'para': 20, 'line': 29, 'text': 'daß der Körper, und noch näher das Gehirn, zu ', 'bold': False, 'isbreak': 'yes'}
+run 216: {'page': 6, 'para': 20, 'line': 30, 'text': 'allen Seelenveränderungen, zu ihren Thätigkei-', 'bold': False, 'isbreak': 'no'}
+run 217: {'page': 6, 'para': 20, 'line': 31, 'text': 'ten und Leidenheiten beywirke, und so unentbehr-', 'bold': False, 'isbreak': 'no'}
+run 218: {'page': 6, 'para': 20, 'line': 32, 'text': 'lich dazu sey; daß ohne selbiges weder Gefühl, ', 'bold': False, 'isbreak': 'yes'}
+run 219: {'page': 6, 'para': 20, 'line': 33, 'text': 'noch irgend eine thätige Kraftäußerung in der', 'bold': False, 'isbreak': 'yes'}
+run 220: {'page': 6, 'para': 21, 'line': 34, 'text': 'Maße', 'bold': False, 'isbreak': 'yes'}
+run 221: {'page': 7, 'para': 22, 'line': 1, 'text': '', 'bold': False, 'isbreak': 'yes'}
+run 222: {'page': 7, 'para': 22, 'line': 1, 'text': '[', 'bold': False, 'isbreak': 'yes'}
+run 223: {'page': 7, 'para': 22, 'line': 1, 'text': 'VII] Vorrede.', 'bold': False, 'isbreak': 'yes'}
+run 224: {'page': 7, 'para': 23, 'line': 2, 'text': 'Maße vorhanden sey, daß wir solche bey uns ge-', 'bold': False, 'isbreak': 'no'}
+run 225: {'page': 7, 'para': 23, 'line': 3, 'text': 'wahrnehmen könnten. Sollen nun solche Ge-', 'bold': False, 'isbreak': 'no'}
+run 226: {'page': 7, 'para': 23, 'line': 4, 'text': 'hirnsveränderungen materielle Ideen heißen, so ', 'bold': False, 'isbreak': 'yes'}
+run 227: {'page': 7, 'para': 23, 'line': 5, 'text': 'ist es gewiß, daß es ', 'bold': False, 'isbreak': 'yes'}
+run 228: {'page': 7, 'para': 23, 'line': 5, 'text': 'materielle', 'bold': True, 'isbreak': 'yes'}
+run 229: {'page': 7, 'para': 23, 'line': 5, 'text': ' ', 'bold': False, 'isbreak': 'yes'}
+run 230: {'page': 7, 'para': 23, 'line': 5, 'text': 'Ideen', 'bold': True, 'isbreak': 'yes'}
+run 231: {'page': 7, 'para': 23, 'line': 5, 'text': ' gebe, und ', 'bold': False, 'isbreak': 'yes'}
+run 232: {'page': 7, 'para': 23, 'line': 6, 'text': 'man wird nicht leicht Gründe finden, deren Wirk-', 'bold': False, 'isbreak': 'no'}
+run 233: {'page': 7, 'para': 23, 'line': 7, 'text': 'lichkeit zu bezweifeln.', 'bold': False, 'isbreak': 'yes'}
+run 234: {'page': 7, 'para': 24, 'line': 8, 'text': 'Noch weiter will ich es gerne als sehr wahr-', 'bold': False, 'isbreak': 'no'}
+run 235: {'page': 7, 'para': 24, 'line': 9, 'text': 'scheinlich zugeben, oder gar für gewiß halten, daß ', 'bold': False, 'isbreak': 'yes'}
+run 236: {'page': 7, 'para': 24, 'line': 10, 'text': 'jede Gehirnsveränderung ', 'bold': False, 'isbreak': 'no'}
+run 237: {'page': 7, 'para': 24, 'line': 10, 'text': '—', 'bold': False, 'isbreak': 'no'}
+run 238: {'page': 7, 'para': 24, 'line': 10, 'text': '–', 'bold': False, 'isbreak': 'no'}
+run 239: {'page': 7, 'para': 24, 'line': 10, 'text': ' welche als eine Ver-', 'bold': False, 'isbreak': 'no'}
+run 240: {'page': 7, 'para': 24, 'line': 11, 'text': 'änderung eines Körpers überhaupt in einer ', 'bold': False, 'isbreak': 'no'}
+run 241: {'page': 7, 'para': 24, 'line': 11, 'text': 'Be-', 'bold': True, 'isbreak': 'no'}
+run 242: {'page': 7, 'para': 24, 'line': 12, 'text': 'wegung', 'bold': True, 'isbreak': 'yes'}
+run 243: {'page': 7, 'para': 24, 'line': 12, 'text': ' bestehen muß ', 'bold': False, 'isbreak': 'yes'}
+run 244: {'page': 7, 'para': 24, 'line': 12, 'text': '—', 'bold': False, 'isbreak': 'yes'}
+run 245: {'page': 7, 'para': 24, 'line': 12, 'text': '–', 'bold': False, 'isbreak': 'yes'}
+run 246: {'page': 7, 'para': 24, 'line': 12, 'text': ' auch eine bleibende ', 'bold': False, 'isbreak': 'yes'}
+run 247: {'page': 7, 'para': 24, 'line': 13, 'text': 'Spur in dem Gehirn nachlasse, die, worinn sie ', 'bold': False, 'isbreak': 'yes'}
+run 248: {'page': 7, 'para': 24, 'line': 14, 'text': 'auch bestehen mag, die bewegten Fasern aufgelegt ', 'bold': False, 'isbreak': 'yes'}
+run 249: {'page': 7, 'para': 24, 'line': 15, 'text': 'mache, nachher leichter die erstmaligen Bewegun-', 'bold': False, 'isbreak': 'no'}
+run 250: {'page': 7, 'para': 24, 'line': 16, 'text': 'gen von neuem anzunehmen, und zwar so leicht, ', 'bold': False, 'isbreak': 'yes'}
+run 251: {'page': 7, 'para': 24, 'line': 17, 'text': 'daß es des nämlichen Eindrucks von außen nicht ', 'bold': False, 'isbreak': 'yes'}
+run 252: {'page': 7, 'para': 24, 'line': 18, 'text': 'bedarf, der das erstemal erfodert ward. Wenn ', 'bold': False, 'isbreak': 'yes'}
+run 253: {'page': 7, 'para': 24, 'line': 19, 'text': 'diese zurückgebliebene bestehende Spuren auch ', 'bold': False, 'isbreak': 'yes'}
+run 254: {'page': 7, 'para': 24, 'line': 20, 'text': '', 'bold': False, 'isbreak': 'no'}
+run 255: {'page': 7, 'para': 24, 'line': 20, 'text': 'materielle Ideen', 'bold': True, 'isbreak': 'no'}
+run 256: {'page': 7, 'para': 24, 'line': 20, 'text': ' im Gedächtniß genennet wer-', 'bold': False, 'isbreak': 'no'}
+run 257: {'page': 7, 'para': 24, 'line': 21, 'text': 'den, so ist es ungemein wahrscheinlich, daß es der-', 'bold': False, 'isbreak': 'no'}
+run 258: {'page': 7, 'para': 24, 'line': 22, 'text': 'gleichen in dem innern Seelenkörper gebe, und ', 'bold': False, 'isbreak': 'yes'}
+run 259: {'page': 7, 'para': 24, 'line': 23, 'text': 'daß diese vorhanden sind, auch wenn wir an die ', 'bold': False, 'isbreak': 'yes'}
+run 260: {'page': 7, 'para': 24, 'line': 24, 'text': 'vorgestellte Sache nicht gedenken. Diese Spuren ', 'bold': False, 'isbreak': 'yes'}
+run 261: {'page': 7, 'para': 24, 'line': 25, 'text': 'sind wieder erweckbar, und wenn sie wirklich wie-', 'bold': False, 'isbreak': 'no'}
+run 262: {'page': 7, 'para': 24, 'line': 26, 'text': 'der erwecket werden, so sind auch die ehemaligen ', 'bold': False, 'isbreak': 'yes'}
+run 263: {'page': 7, 'para': 24, 'line': 27, 'text': 'sinnlichen Bewegungen wiederum gegenwärtig.', 'bold': False, 'isbreak': 'yes'}
+run 264: {'page': 7, 'para': 25, 'line': 28, 'text': 'So weit geht das Wahrscheinliche auch in ', 'bold': False, 'isbreak': 'yes'}
+run 265: {'page': 7, 'para': 25, 'line': 29, 'text': 'dem Allgemeinen nur. Aber es ist eine neue Vor-', 'bold': False, 'isbreak': 'no'}
+run 266: {'page': 7, 'para': 25, 'line': 30, 'text': 'aussetzung, wenn man annimmt, daß diese Ge-', 'bold': False, 'isbreak': 'no'}
+run 267: {'page': 7, 'para': 25, 'line': 31, 'text': 'hirnsbeschaffenheiten das ausmachen, was wir die ', 'bold': False, 'isbreak': 'yes'}
+run 268: {'page': 7, 'para': 25, 'line': 32, 'text': '', 'bold': False, 'isbreak': 'no'}
+run 269: {'page': 7, 'para': 25, 'line': 32, 'text': 'Vorstellungen', 'bold': True, 'isbreak': 'no'}
+run 270: {'page': 7, 'para': 25, 'line': 32, 'text': ' nennen, in so fern die Seele da-', 'bold': False, 'isbreak': 'no'}
+run 271: {'page': 7, 'para': 25, 'line': 33, 'text': 'von zugleich verändert wird, und sie fühlet, wenn', 'bold': False, 'isbreak': 'yes'}
+run 272: {'page': 7, 'para': 26, 'line': 34, 'text': 'sie', 'bold': False, 'isbreak': 'yes'}
+run 273: {'page': 7, 'para': 27, 'line': 35, 'text': 'a 4', 'bold': False, 'isbreak': 'yes'}
+run 274: {'page': 8, 'para': 27, 'line': 1, 'text': '', 'bold': False, 'isbreak': 'yes'}
+run 275: {'page': 8, 'para': 27, 'line': 1, 'text': '[', 'bold': False, 'isbreak': 'yes'}
+run 276: {'page': 8, 'para': 27, 'line': 1, 'text': 'VIII] Vorrede.', 'bold': False, 'isbreak': 'yes'}
+run 277: {'page': 8, 'para': 28, 'line': 2, 'text': 'sie gegenwärtig sind; auch solche zuweilen durch ', 'bold': False, 'isbreak': 'yes'}
+run 278: {'page': 8, 'para': 28, 'line': 3, 'text': 'ihre bewegende Einwirkung auf die Fasern des ', 'bold': False, 'isbreak': 'yes'}
+run 279: {'page': 8, 'para': 28, 'line': 4, 'text': 'Gehirns erwecket. Wenn die Idee im Gedächt', 'bold': False, 'isbreak': 'yes'}
+run 280: {'page': 8, 'para': 28, 'line': 5, 'text': 'niß ruhet, so soll die Seele so wenig in sich selbst ', 'bold': False, 'isbreak': 'yes'}
+run 281: {'page': 8, 'para': 28, 'line': 6, 'text': 'eine Spur ihrer Empfindung übrig haben, als ', 'bold': False, 'isbreak': 'yes'}
+run 282: {'page': 8, 'para': 28, 'line': 7, 'text': 'das in einem Gefäß eingeschlossene Wasser etwas ', 'bold': False, 'isbreak': 'yes'}
+run 283: {'page': 8, 'para': 28, 'line': 8, 'text': 'von der vorigen Figur behalten hat, wenn die Ge-', 'bold': False, 'isbreak': 'no'}
+run 284: {'page': 8, 'para': 28, 'line': 9, 'text': 'stalt des Gefäßes verändert worden ist. Dieser ', 'bold': False, 'isbreak': 'yes'}
+run 285: {'page': 8, 'para': 28, 'line': 10, 'text': 'Begriff von der Natur unserer Vorstellungen ist ', 'bold': False, 'isbreak': 'yes'}
+run 286: {'page': 8, 'para': 28, 'line': 11, 'text': 'eine pure Hypothese. Sie stellet die Seele und ', 'bold': False, 'isbreak': 'yes'}
+run 287: {'page': 8, 'para': 28, 'line': 12, 'text': 'ihr organisirtes Gehirn in einer solchen Beziehung ', 'bold': False, 'isbreak': 'yes'}
+run 288: {'page': 8, 'para': 28, 'line': 13, 'text': 'dar, die das Wasser zu seinem Gefäß hat, oder ', 'bold': False, 'isbreak': 'yes'}
+run 289: {'page': 8, 'para': 28, 'line': 14, 'text': 'die Luft zu der Blase, in der sie eingeschlossen ist, ', 'bold': False, 'isbreak': 'yes'}
+run 290: {'page': 8, 'para': 28, 'line': 15, 'text': 'nur mit dem Zusatz, das Gefäß verändere seine ', 'bold': False, 'isbreak': 'yes'}
+run 291: {'page': 8, 'para': 28, 'line': 16, 'text': 'Figur sehr leicht, behalte aber von jedweder seiner ', 'bold': False, 'isbreak': 'yes'}
+run 292: {'page': 8, 'para': 28, 'line': 17, 'text': 'vorigen Formen eine Leichtigkeit — solche wieder ', 'bold': False, 'isbreak': 'yes'}
+run 293: {'page': 8, 'para': 28, 'line': 18, 'text': 'anzunehmen. Dieß ist der Mittelpunkt der Bon-', 'bold': False, 'isbreak': 'no'}
+run 294: {'page': 8, 'para': 28, 'line': 19, 'text': 'netischen Auflösung, dessen Richtigkeit man da-', 'bold': False, 'isbreak': 'no'}
+run 295: {'page': 8, 'para': 28, 'line': 20, 'text': 'durch beweisen will, weil sich die Erscheinungen ', 'bold': False, 'isbreak': 'yes'}
+run 296: {'page': 8, 'para': 28, 'line': 21, 'text': 'auf diese Weise am besten begreifen lassen; und ', 'bold': False, 'isbreak': 'yes'}
+run 297: {'page': 8, 'para': 28, 'line': 22, 'text': 'dieß ist es auch, was unten besonders untersucht ', 'bold': False, 'isbreak': 'yes'}
+run 298: {'page': 8, 'para': 28, 'line': 23, 'text': 'worden ist, und ich hier noch dahin gestellet las-', 'bold': False, 'isbreak': 'no'}
+run 299: {'page': 8, 'para': 28, 'line': 24, 'text': 'sen will.', 'bold': False, 'isbreak': 'yes'}
+run 300: {'page': 8, 'para': 29, 'line': 25, 'text': 'Die übrigen nähern Bestimmungen der be-', 'bold': False, 'isbreak': 'no'}
+run 301: {'page': 8, 'para': 29, 'line': 26, 'text': 'sondern Art und Beschaffenheit dieser ', 'bold': False, 'isbreak': 'no'}
+run 302: {'page': 8, 'para': 29, 'line': 26, 'text': 'materiel-', 'bold': True, 'isbreak': 'no'}
+run 303: {'page': 8, 'para': 29, 'line': 27, 'text': 'len Ideen ', 'bold': True, 'isbreak': 'yes'}
+run 304: {'page': 8, 'para': 29, 'line': 27, 'text': 'gehören zu der Physik des Gehirns, ', 'bold': False, 'isbreak': 'yes'}
+run 305: {'page': 8, 'para': 29, 'line': 28, 'text': 'und sind schlechthin nur Vermuthungen, denen, ', 'bold': False, 'isbreak': 'yes'}
+run 306: {'page': 8, 'para': 29, 'line': 29, 'text': 'das mindeste zu sagen, bisher noch die Zuverläs-', 'bold': False, 'isbreak': 'no'}
+run 307: {'page': 8, 'para': 29, 'line': 30, 'text': 'sigkeit fehlet. Sehr witzig hat man die Spuren ', 'bold': False, 'isbreak': 'yes'}
+run 308: {'page': 8, 'para': 29, 'line': 31, 'text': 'im Gehirn, als gewisse ', 'bold': False, 'isbreak': 'yes'}
+run 309: {'page': 8, 'para': 29, 'line': 31, 'text': 'Abdrücke', 'bold': True, 'isbreak': 'yes'}
+run 310: {'page': 8, 'para': 29, 'line': 31, 'text': ' oder Bilder von ', 'bold': False, 'isbreak': 'yes'}
+run 311: {'page': 8, 'para': 29, 'line': 32, 'text': 'den Objekten vorgestellet, die etwan den Bildern ', 'bold': False, 'isbreak': 'yes'}
+run 312: {'page': 8, 'para': 29, 'line': 33, 'text': 'auf der Netzhaut ähnlich sind. Die ', 'bold': False, 'isbreak': 'yes'}
+run 313: {'page': 8, 'para': 29, 'line': 33, 'text': 'Hartleyische', 'bold': True, 'isbreak': 'yes'}
+run 314: {'page': 8, 'para': 30, 'line': 34, 'text': 'Hypo-', 'bold': False, 'isbreak': 'no'}
+run 315: {'page': 9, 'para': 31, 'line': 1, 'text': '', 'bold': False, 'isbreak': 'yes'}
+run 316: {'page': 9, 'para': 31, 'line': 1, 'text': '[', 'bold': False, 'isbreak': 'yes'}
+run 317: {'page': 9, 'para': 31, 'line': 1, 'text': 'IX] Vorrede.', 'bold': False, 'isbreak': 'yes'}
+run 318: {'page': 9, 'para': 32, 'line': 2, 'text': 'Hypothese, daß die Gehirnsbewegungen, welche ', 'bold': False, 'isbreak': 'yes'}
+run 319: {'page': 9, 'para': 32, 'line': 3, 'text': 'die Empfindungen begleiten, und wieder erneuert ', 'bold': False, 'isbreak': 'yes'}
+run 320: {'page': 9, 'para': 32, 'line': 4, 'text': 'werden, so oft die Phantasie Ideen reproduciret, ', 'bold': False, 'isbreak': 'yes'}
+run 321: {'page': 9, 'para': 32, 'line': 5, 'text': 'in gewissen ', 'bold': False, 'isbreak': 'yes'}
+run 322: {'page': 9, 'para': 32, 'line': 5, 'text': 'Schwingungen', 'bold': True, 'isbreak': 'yes'}
+run 323: {'page': 9, 'para': 32, 'line': 5, 'text': ' der Gehirnsfasern ', 'bold': False, 'isbreak': 'yes'}
+run 324: {'page': 9, 'para': 32, 'line': 6, 'text': 'oder auch des Aethers im Gehirn bestehen, ist ', 'bold': False, 'isbreak': 'yes'}
+run 325: {'page': 9, 'para': 32, 'line': 7, 'text': 'von Hr. ', 'bold': False, 'isbreak': 'no'}
+run 326: {'page': 9, 'para': 32, 'line': 7, 'text': 'Priestley', 'bold': True, 'isbreak': 'no'}
+run 327: {'page': 9, 'para': 32, 'line': 7, 'text': ' von neuem, in etwas verän-', 'bold': False, 'isbreak': 'no'}
+run 328: {'page': 9, 'para': 32, 'line': 8, 'text': 'dert, vorgetragen, und als die beyfallswürdigste ', 'bold': False, 'isbreak': 'yes'}
+run 329: {'page': 9, 'para': 32, 'line': 9, 'text': 'Voraussetzung gerühmt worden. Seitdem hat ', 'bold': False, 'isbreak': 'yes'}
+run 330: {'page': 9, 'para': 32, 'line': 10, 'text': 'man sichs vorzüglich angewöhnt, die Ideen für ', 'bold': False, 'isbreak': 'yes'}
+run 331: {'page': 9, 'para': 32, 'line': 11, 'text': 'Gehirnsschwingungen anzusehen. ', 'bold': False, 'isbreak': 'no'}
+run 332: {'page': 9, 'para': 32, 'line': 11, 'text': 'Newton', 'bold': True, 'isbreak': 'no'}
+run 333: {'page': 9, 'para': 32, 'line': 11, 'text': ' hat-', 'bold': False, 'isbreak': 'no'}
+run 334: {'page': 9, 'para': 32, 'line': 12, 'text': 'te nur gemuthmaßet, daß vielleicht die Bewegun-', 'bold': False, 'isbreak': 'no'}
+run 335: {'page': 9, 'para': 32, 'line': 13, 'text': 'gen in dem Auge und auf der Netzhaut, denen in ', 'bold': False, 'isbreak': 'yes'}
+run 336: {'page': 9, 'para': 32, 'line': 14, 'text': 'dem Aether oder dem Licht, das auf sie fällt, ähn-', 'bold': False, 'isbreak': 'no'}
+run 337: {'page': 9, 'para': 32, 'line': 15, 'text': 'lich und ', 'bold': False, 'isbreak': 'yes'}
+run 338: {'page': 9, 'para': 32, 'line': 15, 'text': 'oscillatorisch', 'bold': True, 'isbreak': 'yes'}
+run 339: {'page': 9, 'para': 32, 'line': 15, 'text': ' seyn möchten, aber nach ', 'bold': False, 'isbreak': 'yes'}
+run 340: {'page': 9, 'para': 32, 'line': 16, 'text': 'seiner männlichen Art zu philosophiren, wagte ers ', 'bold': False, 'isbreak': 'yes'}
+run 341: {'page': 9, 'para': 32, 'line': 17, 'text': 'nicht einmal, von den Eindrücken auf das Gehör ', 'bold': False, 'isbreak': 'yes'}
+run 342: {'page': 9, 'para': 32, 'line': 18, 'text': 'dasselbige zu vermuthen, obgleich auch hier die ', 'bold': False, 'isbreak': 'yes'}
+run 343: {'page': 9, 'para': 32, 'line': 19, 'text': 'Bewegungen der Luft, die diese Eindrücke verur', 'bold': False, 'isbreak': 'yes'}
+run 344: {'page': 9, 'para': 32, 'line': 20, 'text': 'sachen, in Schwingungen bestehen. Herr Priest-', 'bold': False, 'isbreak': 'no'}
+run 345: {'page': 9, 'para': 32, 'line': 21, 'text': 'ley glaubet nach der Analogie berechtiget zu seyn, ', 'bold': False, 'isbreak': 'yes'}
+run 346: {'page': 9, 'para': 32, 'line': 22, 'text': 'dasselbige von allen Arten der Sensationen auch ', 'bold': False, 'isbreak': 'yes'}
+run 347: {'page': 9, 'para': 32, 'line': 23, 'text': 'bey den übrigen Sinnen annehmen zu dürfen.', 'bold': False, 'isbreak': 'yes'}
+run 348: {'page': 9, 'para': 33, 'line': 24, 'text': 'Wenn man auch über die Schwierigkeiten ', 'bold': False, 'isbreak': 'yes'}
+run 349: {'page': 9, 'para': 33, 'line': 25, 'text': 'wegsieht, die daraus entstehen, daß die weichen ', 'bold': False, 'isbreak': 'yes'}
+run 350: {'page': 9, 'para': 33, 'line': 26, 'text': 'Nerven und das klebrichte Hirnmark zu keiner Art ', 'bold': False, 'isbreak': 'yes'}
+run 351: {'page': 9, 'para': 33, 'line': 27, 'text': 'von Bewegungen weniger aufgelegt zu seyn schei-', 'bold': False, 'isbreak': 'no'}
+run 352: {'page': 9, 'para': 33, 'line': 28, 'text': 'nen, als zu Vibrationen, so deucht mich doch, nichts ', 'bold': False, 'isbreak': 'yes'}
+run 353: {'page': 9, 'para': 33, 'line': 29, 'text': 'sey weniger wahrscheinlich, als daß die gesamte ', 'bold': False, 'isbreak': 'yes'}
+run 354: {'page': 9, 'para': 33, 'line': 30, 'text': 'sinnliche Bewegung des Gehirns, die die mate-', 'bold': False, 'isbreak': 'no'}
+run 355: {'page': 9, 'para': 33, 'line': 31, 'text': 'rielle Idee ausmacht, ganz und gar in Schwin-', 'bold': False, 'isbreak': 'no'}
+run 356: {'page': 9, 'para': 33, 'line': 32, 'text': 'gungen bestehen könne, wie es angegeben wird. ', 'bold': False, 'isbreak': 'yes'}
+run 357: {'page': 9, 'para': 33, 'line': 33, 'text': 'Priestley hat, um dem erstern Einwurf auszuwei-', 'bold': False, 'isbreak': 'no'}
+run 358: {'page': 9, 'para': 34, 'line': 34, 'text': 'chen', 'bold': False, 'isbreak': 'yes'}
+run 359: {'page': 9, 'para': 35, 'line': 35, 'text': 'a 5', 'bold': False, 'isbreak': 'yes'}
+run 360: {'page': 10, 'para': 35, 'line': 1, 'text': '', 'bold': False, 'isbreak': 'yes'}
+run 361: {'page': 10, 'para': 35, 'line': 1, 'text': '[', 'bold': False, 'isbreak': 'yes'}
+run 362: {'page': 10, 'para': 35, 'line': 1, 'text': 'X] Vorrede.', 'bold': False, 'isbreak': 'yes'}
+run 363: {'page': 10, 'para': 36, 'line': 2, 'text': 'chen, bemerkt, daß statt der Vibrationen, wohl ', 'bold': False, 'isbreak': 'yes'}
+run 364: {'page': 10, 'para': 36, 'line': 3, 'text': 'eine andere Art von fortgehenden Bewegungen ', 'bold': False, 'isbreak': 'yes'}
+run 365: {'page': 10, 'para': 36, 'line': 4, 'text': 'oder auch Druckungen gedacht werden könne; ', 'bold': False, 'isbreak': 'yes'}
+run 366: {'page': 10, 'para': 36, 'line': 5, 'text': 'allein dieß heißt in Hinsicht derselben uns wieder-', 'bold': False, 'isbreak': 'no'}
+run 367: {'page': 10, 'para': 36, 'line': 6, 'text': 'um auf unsere vorige Unwissenheit verweisen, und ', 'bold': False, 'isbreak': 'yes'}
+run 368: {'page': 10, 'para': 36, 'line': 7, 'text': 'die besondern Bestimmungen zurücknehmen, die ', 'bold': False, 'isbreak': 'yes'}
+run 369: {'page': 10, 'para': 36, 'line': 8, 'text': 'man doch als ihre Unterscheidungsmerkmale an-', 'bold': False, 'isbreak': 'no'}
+run 370: {'page': 10, 'para': 36, 'line': 9, 'text': 'gegeben hatte. Es mag vielmehr seyn, daß wahre ', 'bold': False, 'isbreak': 'yes'}
+run 371: {'page': 10, 'para': 36, 'line': 10, 'text': 'Oscillationen oder Wallungen in einem flüssigen ', 'bold': False, 'isbreak': 'yes'}
+run 372: {'page': 10, 'para': 36, 'line': 11, 'text': 'elastischen Körper, wie die in der Luft und in dem ', 'bold': False, 'isbreak': 'yes'}
+run 373: {'page': 10, 'para': 36, 'line': 12, 'text': 'Aether sind, in dem Gehirn vorhanden sind, wenn ', 'bold': False, 'isbreak': 'yes'}
+run 374: {'page': 10, 'para': 36, 'line': 13, 'text': 'wir empfinden. Denn nach dem Urtheil der größ-', 'bold': False, 'isbreak': 'no'}
+run 375: {'page': 10, 'para': 36, 'line': 14, 'text': 'ten Physiologen ist man fast genöthigt, außer den ', 'bold': False, 'isbreak': 'yes'}
+run 376: {'page': 10, 'para': 36, 'line': 15, 'text': 'sichtbaren Theilen des Gehirns noch eine andere ', 'bold': False, 'isbreak': 'yes'}
+run 377: {'page': 10, 'para': 36, 'line': 16, 'text': '', 'bold': False, 'isbreak': 'yes'}
+run 378: {'page': 10, 'para': 36, 'line': 16, 'text': 'seine', 'bold': False, 'isbreak': 'yes'}
+run 379: {'page': 10, 'para': 36, 'line': 16, 'text': ' ', 'bold': False, 'isbreak': 'yes'}
+run 380: {'page': 10, 'para': 36, 'line': 16, 'text': 'feine', 'bold': False, 'isbreak': 'yes'}
+run 381: {'page': 10, 'para': 36, 'line': 16, 'text': '[', 'bold': False, 'isbreak': 'yes'}
+run 382: {'page': 10, 'para': 36, 'line': 16, 'text': '[note: ', 'bold': False, 'isbreak': 'yes'}
+run 383: {'page': 10, 'para': 36, 'line': 16, 'text': 'error in DTA', 'bold': False, 'isbreak': 'yes'}
+run 384: {'page': 10, 'para': 36, 'line': 16, 'text': ']] Materie in demselben anzunehmen, und also ', 'bold': False, 'isbreak': 'yes'}
+run 385: {'page': 10, 'para': 36, 'line': 17, 'text': 'kann es wohl seyn, daß diese Materie, Lebensgei-', 'bold': False, 'isbreak': 'no'}
+run 386: {'page': 10, 'para': 36, 'line': 18, 'text': 'ster, Aether, oder wie wir sie nennen wollen, die ', 'bold': False, 'isbreak': 'yes'}
+run 387: {'page': 10, 'para': 36, 'line': 19, 'text': 'man aber in dem todten Körper nicht mehr suchen ', 'bold': False, 'isbreak': 'yes'}
+run 388: {'page': 10, 'para': 36, 'line': 20, 'text': 'muß, von solcher elastischer Natur sey, wie die ', 'bold': False, 'isbreak': 'yes'}
+run 389: {'page': 10, 'para': 36, 'line': 21, 'text': 'Materie des Lichts, und also auch eigentliche ', 'bold': False, 'isbreak': 'yes'}
+run 390: {'page': 10, 'para': 36, 'line': 22, 'text': 'Schwingungen annehme. Aber wie soll man sich ', 'bold': False, 'isbreak': 'yes'}
+run 391: {'page': 10, 'para': 36, 'line': 23, 'text': 'diese Schwingungen als fortdauernd vorstellen, ', 'bold': False, 'isbreak': 'yes'}
+run 392: {'page': 10, 'para': 36, 'line': 24, 'text': 'und sie für die materiellen Ideen ansehen, die zu ', 'bold': False, 'isbreak': 'yes'}
+run 393: {'page': 10, 'para': 36, 'line': 25, 'text': 'den ruhenden Ideen im Gedächtniß gehören? und ', 'bold': False, 'isbreak': 'yes'}
+run 394: {'page': 10, 'para': 36, 'line': 26, 'text': 'wenn dieß wenigstens sehr schwer ist, wird man ', 'bold': False, 'isbreak': 'yes'}
+run 395: {'page': 10, 'para': 36, 'line': 27, 'text': 'denn nicht ganz natürlich zu dem Gedanken ge-', 'bold': False, 'isbreak': 'no'}
+run 396: {'page': 10, 'para': 36, 'line': 28, 'text': 'bracht, jene Schwingungen in dem Aether müß-', 'bold': False, 'isbreak': 'no'}
+run 397: {'page': 10, 'para': 36, 'line': 29, 'text': 'ten wohl noch auf eine andere beugsame und wei-', 'bold': False, 'isbreak': 'no'}
+run 398: {'page': 10, 'para': 36, 'line': 30, 'text': 'che Materie im Gehirn wirken, die nicht so ela-', 'bold': False, 'isbreak': 'no'}
+run 399: {'page': 10, 'para': 36, 'line': 31, 'text': 'stisch sey, daß sie sich jedesmal nach erlittener Ver-', 'bold': False, 'isbreak': 'no'}
+run 400: {'page': 10, 'para': 36, 'line': 32, 'text': 'änderung völlig wieder in ihre erste Form herstel-', 'bold': False, 'isbreak': 'no'}
+run 401: {'page': 10, 'para': 36, 'line': 33, 'text': 'le, und in der also auch eigentlich die Spuren von', 'bold': False, 'isbreak': 'yes'}
+run 402: {'page': 10, 'para': 37, 'line': 34, 'text': 'den', 'bold': False, 'isbreak': 'yes'}
+run 403: {'page': 11, 'para': 38, 'line': 1, 'text': '', 'bold': False, 'isbreak': 'yes'}
+run 404: {'page': 11, 'para': 38, 'line': 1, 'text': '[', 'bold': False, 'isbreak': 'yes'}
+run 405: {'page': 11, 'para': 38, 'line': 1, 'text': 'XI] Vorrede.', 'bold': False, 'isbreak': 'yes'}
+run 406: {'page': 11, 'para': 39, 'line': 2, 'text': 'den Vibrationen aufbehalten werden können, die ', 'bold': False, 'isbreak': 'yes'}
+run 407: {'page': 11, 'para': 39, 'line': 3, 'text': 'man für die materiellen Ideen in dem Gedächtniß ', 'bold': False, 'isbreak': 'yes'}
+run 408: {'page': 11, 'para': 39, 'line': 4, 'text': 'ansieht. Kann es nicht wenigstens sich also ver-', 'bold': False, 'isbreak': 'no'}
+run 409: {'page': 11, 'para': 39, 'line': 5, 'text': 'halten? Und alsdenn ist es schon keine richtige ', 'bold': False, 'isbreak': 'yes'}
+run 410: {'page': 11, 'para': 39, 'line': 6, 'text': 'Anwendung der Analogie mehr, wenn Priestley ', 'bold': False, 'isbreak': 'yes'}
+run 411: {'page': 11, 'para': 39, 'line': 7, 'text': 'schließet, daß derselbige Antheil, den die oscillato-', 'bold': False, 'isbreak': 'no'}
+run 412: {'page': 11, 'para': 39, 'line': 8, 'text': 'rischen Bewegungen an den Sensationen des Au-', 'bold': False, 'isbreak': 'no'}
+run 413: {'page': 11, 'para': 39, 'line': 9, 'text': 'ges und vielleicht auch des Gehörs haben, ihnen ', 'bold': False, 'isbreak': 'yes'}
+run 414: {'page': 11, 'para': 39, 'line': 10, 'text': 'auch bey den Eindrücken des Gefühls, des Ge-', 'bold': False, 'isbreak': 'no'}
+run 415: {'page': 11, 'para': 39, 'line': 11, 'text': 'schmacks und des Geruchs in gleicher Maße zu-', 'bold': False, 'isbreak': 'no'}
+run 416: {'page': 11, 'para': 39, 'line': 12, 'text': 'komme. Die Natur suchet Stufenverschiedenhei-', 'bold': False, 'isbreak': 'no'}
+run 417: {'page': 11, 'para': 39, 'line': 13, 'text': 'ten. Wenn die Bewegung in der Sensation nur ', 'bold': False, 'isbreak': 'yes'}
+run 418: {'page': 11, 'para': 39, 'line': 14, 'text': 'zum Theil oscillatorisch ist, oder nur von Einer ', 'bold': False, 'isbreak': 'yes'}
+run 419: {'page': 11, 'para': 39, 'line': 15, 'text': 'Seite es ist, so wird es wahrscheinlicher, daß sie ', 'bold': False, 'isbreak': 'yes'}
+run 420: {'page': 11, 'para': 39, 'line': 16, 'text': 'bey den Sensationen des Gesichts es am meisten ', 'bold': False, 'isbreak': 'yes'}
+run 421: {'page': 11, 'para': 39, 'line': 17, 'text': 'sey, weniger schon bey den Eindrücken aufs Ge-', 'bold': False, 'isbreak': 'no'}
+run 422: {'page': 11, 'para': 39, 'line': 18, 'text': 'hör, und noch weniger bey den übrigen Sinnen;', 'bold': False, 'isbreak': 'yes'}
+run 423: {'page': 11, 'para': 39, 'line': 19, 'text': ' als daß sie es bey allen auf gleiche Weise seyn ', 'bold': False, 'isbreak': 'yes'}
+run 424: {'page': 11, 'para': 39, 'line': 20, 'text': 'sollte.', 'bold': False, 'isbreak': 'yes'}
+run 425: {'page': 11, 'para': 40, 'line': 21, 'text': 'Eine Hypothese ist vielleicht der andern werth. ', 'bold': False, 'isbreak': 'yes'}
+run 426: {'page': 11, 'para': 40, 'line': 22, 'text': 'Kann die Ausbildung und Entwickelung des See-', 'bold': False, 'isbreak': 'no'}
+run 427: {'page': 11, 'para': 40, 'line': 23, 'text': 'lenwesens, die Entstehung der Ideenreihen, und ', 'bold': False, 'isbreak': 'yes'}
+run 428: {'page': 11, 'para': 40, 'line': 24, 'text': 'das Wachsen des ganzen innern Gedankensystems, ', 'bold': False, 'isbreak': 'yes'}
+run 429: {'page': 11, 'para': 40, 'line': 25, 'text': 'der Ursprung der Fertigkeiten u. s. f. in so weit ', 'bold': False, 'isbreak': 'yes'}
+run 430: {'page': 11, 'para': 40, 'line': 26, 'text': 'dieß alles etwas körperliches in dem Gehirn ist, ', 'bold': False, 'isbreak': 'yes'}
+run 431: {'page': 11, 'para': 40, 'line': 27, 'text': 'nicht füglich auf eine ähnliche Art vorgestellet wer-', 'bold': False, 'isbreak': 'no'}
+run 432: {'page': 11, 'para': 40, 'line': 28, 'text': 'den, wie die ', 'bold': False, 'isbreak': 'no'}
+run 433: {'page': 11, 'para': 40, 'line': 28, 'text': 'Ausbildung', 'bold': True, 'isbreak': 'no'}
+run 434: {'page': 11, 'para': 40, 'line': 28, 'text': ', oder die Entwicke-', 'bold': False, 'isbreak': 'no'}
+run 435: {'page': 11, 'para': 40, 'line': 29, 'text': 'lung, und ', 'bold': False, 'isbreak': 'yes'}
+run 436: {'page': 11, 'para': 40, 'line': 29, 'text': 'das Auswachsen der organisirten ', 'bold': True, 'isbreak': 'yes'}
+run 437: {'page': 11, 'para': 40, 'line': 30, 'text': 'Körper', 'bold': True, 'isbreak': 'no'}
+run 438: {'page': 11, 'para': 40, 'line': 30, 'text': '? Brauchte denn die Bonnetische Sta-', 'bold': False, 'isbreak': 'no'}
+run 439: {'page': 11, 'para': 40, 'line': 31, 'text': 'tue, da sie noch ganz ideenlos war, schon ein völ-', 'bold': False, 'isbreak': 'no'}
+run 440: {'page': 11, 'para': 40, 'line': 32, 'text': 'lig ausgewachsenes, mit allen ausgebildeten Vor-', 'bold': False, 'isbreak': 'no'}
+run 441: {'page': 11, 'para': 40, 'line': 33, 'text': 'stellungsfibern versehenes Organ zu haben, dem', 'bold': False, 'isbreak': 'yes'}
+run 442: {'page': 11, 'para': 41, 'line': 34, 'text': 'nichts', 'bold': False, 'isbreak': 'yes'}
+run 443: {'page': 12, 'para': 42, 'line': 1, 'text': '', 'bold': False, 'isbreak': 'yes'}
+run 444: {'page': 12, 'para': 42, 'line': 1, 'text': '[', 'bold': False, 'isbreak': 'yes'}
+run 445: {'page': 12, 'para': 42, 'line': 1, 'text': 'XII] Vorrede.', 'bold': False, 'isbreak': 'yes'}
+run 446: {'page': 12, 'para': 43, 'line': 2, 'text': 'nichts fehlet, als nur, daß es von den Eindrücken ', 'bold': False, 'isbreak': 'yes'}
+run 447: {'page': 12, 'para': 43, 'line': 3, 'text': 'äußerer Dinge in Bewegung gesetzt werde, und ', 'bold': False, 'isbreak': 'yes'}
+run 448: {'page': 12, 'para': 43, 'line': 4, 'text': 'dadurch gewisse Dispositionen erlange? Ist nicht ', 'bold': False, 'isbreak': 'yes'}
+run 449: {'page': 12, 'para': 43, 'line': 5, 'text': 'vielleicht das Gehirn in Hinsicht derjenigen Orga-', 'bold': False, 'isbreak': 'no'}
+run 450: {'page': 12, 'para': 43, 'line': 6, 'text': 'nisation, die es zum Werkzeug der Seele macht, ', 'bold': False, 'isbreak': 'yes'}
+run 451: {'page': 12, 'para': 43, 'line': 7, 'text': 'vor der Entwickelung der Seele, ehe diese Em-', 'bold': False, 'isbreak': 'no'}
+run 452: {'page': 12, 'para': 43, 'line': 8, 'text': 'pfindungen und Ideen aufgesammlet hat, in ei-', 'bold': False, 'isbreak': 'no'}
+run 453: {'page': 12, 'para': 43, 'line': 9, 'text': 'nem ähnlichen ', 'bold': False, 'isbreak': 'yes'}
+run 454: {'page': 12, 'para': 43, 'line': 9, 'text': 'eingewickelten Zustande', 'bold': True, 'isbreak': 'yes'}
+run 455: {'page': 12, 'para': 43, 'line': 9, 'text': ', als ein ', 'bold': False, 'isbreak': 'yes'}
+run 456: {'page': 12, 'para': 43, 'line': 10, 'text': 'organisirter Körper in seinem Keim ist, der nur ', 'bold': False, 'isbreak': 'yes'}
+run 457: {'page': 12, 'para': 43, 'line': 11, 'text': '', 'bold': False, 'isbreak': 'no'}
+run 458: {'page': 12, 'para': 43, 'line': 11, 'text': 'Anlagen', 'bold': True, 'isbreak': 'no'}
+run 459: {'page': 12, 'para': 43, 'line': 11, 'text': ' hat, ein System von Fasern zu bekom-', 'bold': False, 'isbreak': 'no'}
+run 460: {'page': 12, 'para': 43, 'line': 12, 'text': 'men, oder doch, wenn man nach der Idee von der ', 'bold': False, 'isbreak': 'yes'}
+run 461: {'page': 12, 'para': 43, 'line': 13, 'text': 'Bonnetischen Evolution sich die Sache vorstellet, ', 'bold': False, 'isbreak': 'yes'}
+run 462: {'page': 12, 'para': 43, 'line': 14, 'text': 'diese Fasern nur in ihren ersten Anfängen besitzet? ', 'bold': False, 'isbreak': 'yes'}
+run 463: {'page': 12, 'para': 43, 'line': 15, 'text': 'Die Einrichtung der Denkmaschine würde auf ', 'bold': False, 'isbreak': 'yes'}
+run 464: {'page': 12, 'para': 43, 'line': 16, 'text': 'diese Art der Entwickelung des ganzen organisir-', 'bold': False, 'isbreak': 'no'}
+run 465: {'page': 12, 'para': 43, 'line': 17, 'text': 'ten Körpers ähnlich und gleichartig seyn; die zu-', 'bold': False, 'isbreak': 'no'}
+run 466: {'page': 12, 'para': 43, 'line': 18, 'text': 'rückbleibenden Spuren der Eindrücke würden bey ', 'bold': False, 'isbreak': 'yes'}
+run 467: {'page': 12, 'para': 43, 'line': 19, 'text': 'dem Gehirn solche Verlängerungen und Verdi-', 'bold': False, 'isbreak': 'no'}
+run 468: {'page': 12, 'para': 43, 'line': 20, 'text': 'ckungen der Denkfasern seyn, wie bey der Entwi-', 'bold': False, 'isbreak': 'no'}
+run 469: {'page': 12, 'para': 43, 'line': 21, 'text': 'ckelung des Embryons, und bey dem Auswachsen ', 'bold': False, 'isbreak': 'yes'}
+run 470: {'page': 12, 'para': 43, 'line': 22, 'text': 'vorkommen. Aber so wie jeder Schritt in der ', 'bold': False, 'isbreak': 'yes'}
+run 471: {'page': 12, 'para': 43, 'line': 23, 'text': 'Entwickelung des organisirten Körpers Bewegun-', 'bold': False, 'isbreak': 'no'}
+run 472: {'page': 12, 'para': 43, 'line': 24, 'text': 'gen erfodert, wodurch die nährende Materie durch ', 'bold': False, 'isbreak': 'yes'}
+run 473: {'page': 12, 'para': 43, 'line': 25, 'text': 'die schon vorhandene Organisation vertheilet ', 'bold': False, 'isbreak': 'yes'}
+run 474: {'page': 12, 'para': 43, 'line': 26, 'text': 'wird, so könnten bey dem Organ des Denkens die ', 'bold': False, 'isbreak': 'yes'}
+run 475: {'page': 12, 'para': 43, 'line': 27, 'text': 'sinnlichen Eindrücke von außen die Stelle dieser ', 'bold': False, 'isbreak': 'yes'}
+run 476: {'page': 12, 'para': 43, 'line': 28, 'text': 'Bewegungen vertreten, und wenigstens die ersten ', 'bold': False, 'isbreak': 'yes'}
+run 477: {'page': 12, 'para': 43, 'line': 29, 'text': 'Reizungen der Kräfte dazu abgeben. Und dann ', 'bold': False, 'isbreak': 'yes'}
+run 478: {'page': 12, 'para': 43, 'line': 30, 'text': 'mag auch die Hartleyische Idee hier eingeschoben ', 'bold': False, 'isbreak': 'yes'}
+run 479: {'page': 12, 'para': 43, 'line': 31, 'text': 'werden, daß nämlich diese reizende und die Ent-', 'bold': False, 'isbreak': 'no'}
+run 480: {'page': 12, 'para': 43, 'line': 32, 'text': 'wickelung befördernde Bewegungen in Vibratio-', 'bold': False, 'isbreak': 'no'}
+run 481: {'page': 12, 'para': 43, 'line': 33, 'text': 'nen bestehen. Es ist meine Absicht nicht, eine', 'bold': False, 'isbreak': 'yes'}
+run 482: {'page': 12, 'para': 44, 'line': 34, 'text': 'neue', 'bold': False, 'isbreak': 'yes'}
+run 483: {'page': 13, 'para': 45, 'line': 1, 'text': '', 'bold': False, 'isbreak': 'yes'}
+run 484: {'page': 13, 'para': 45, 'line': 1, 'text': '[', 'bold': False, 'isbreak': 'yes'}
+run 485: {'page': 13, 'para': 45, 'line': 1, 'text': 'XIII] Vorrede.', 'bold': False, 'isbreak': 'yes'}
+run 486: {'page': 13, 'para': 46, 'line': 2, 'text': 'neue Hypothese in Gang zu bringen, da wir ihrer ', 'bold': False, 'isbreak': 'yes'}
+run 487: {'page': 13, 'para': 46, 'line': 3, 'text': 'ohne dieß schon genug haben, ob ich gleich glaube, ', 'bold': False, 'isbreak': 'yes'}
+run 488: {'page': 13, 'para': 46, 'line': 4, 'text': 'daß man dieser letztern eben so viel Ansehen aus ', 'bold': False, 'isbreak': 'yes'}
+run 489: {'page': 13, 'para': 46, 'line': 5, 'text': 'der Analogie geben könne, als jeder andern. Ich ', 'bold': False, 'isbreak': 'yes'}
+run 490: {'page': 13, 'para': 46, 'line': 6, 'text': 'führe diese noch mögliche Erklärungsart nur an, ', 'bold': False, 'isbreak': 'yes'}
+run 491: {'page': 13, 'para': 46, 'line': 7, 'text': 'um zu zeigen, daß man noch jetzo alle Möglichkei-', 'bold': False, 'isbreak': 'no'}
+run 492: {'page': 13, 'para': 46, 'line': 8, 'text': 'ten, die hierbey Statt finden können, nicht durch-', 'bold': False, 'isbreak': 'no'}
+run 493: {'page': 13, 'para': 46, 'line': 9, 'text': 'gerathen habe. Ich wage es nicht, etwas zu be-', 'bold': False, 'isbreak': 'no'}
+run 494: {'page': 13, 'para': 46, 'line': 10, 'text': 'stimmen, so lange die innere Einrichtung des Ge-', 'bold': False, 'isbreak': 'no'}
+run 495: {'page': 13, 'para': 46, 'line': 11, 'text': 'hirns, die Natur seiner organischen Kräfte, und ', 'bold': False, 'isbreak': 'yes'}
+run 496: {'page': 13, 'para': 46, 'line': 12, 'text': 'deren Wirkungsarten und Gesetze in so dicker ', 'bold': False, 'isbreak': 'yes'}
+run 497: {'page': 13, 'para': 46, 'line': 13, 'text': 'Finsterniß gehüllet sind, als sie es zur Zeit noch ', 'bold': False, 'isbreak': 'yes'}
+run 498: {'page': 13, 'para': 46, 'line': 14, 'text': 'sind.', 'bold': False, 'isbreak': 'yes'}
+run 499: {'page': 13, 'para': 47, 'line': 15, 'text': 'Ist diese Anmerkung gegründet, so läßt es ', 'bold': False, 'isbreak': 'yes'}
+run 500: {'page': 13, 'para': 47, 'line': 16, 'text': 'sich leicht übersehen, wohin man am Ende mit al-', 'bold': False, 'isbreak': 'no'}
+run 501: {'page': 13, 'para': 47, 'line': 17, 'text': 'len Bemühungen, den Mechanismus der Seelen-', 'bold': False, 'isbreak': 'no'}
+run 502: {'page': 13, 'para': 47, 'line': 18, 'text': 'veränderungen darzustellen, kommen werde. Kei-', 'bold': False, 'isbreak': 'no'}
+run 503: {'page': 13, 'para': 47, 'line': 19, 'text': 'nen Schritt weiter, als daß man etwan mehrere ', 'bold': False, 'isbreak': 'yes'}
+run 504: {'page': 13, 'para': 47, 'line': 20, 'text': 'Fakta aufsammlet, die das Daseyn gewisser blei-', 'bold': False, 'isbreak': 'no'}
+run 505: {'page': 13, 'para': 47, 'line': 21, 'text': 'bender Spuren in dem innern Seelenkörper be-', 'bold': False, 'isbreak': 'no'}
+run 506: {'page': 13, 'para': 47, 'line': 22, 'text': 'stätigen, deren Natur wir aber nicht erkennen. ', 'bold': False, 'isbreak': 'yes'}
+run 507: {'page': 13, 'para': 47, 'line': 23, 'text': 'Unsere Einsicht von der Beschaffenheit dieses Me-', 'bold': False, 'isbreak': 'no'}
+run 508: {'page': 13, 'para': 47, 'line': 24, 'text': 'chanismus ist durch die neuern ', 'bold': False, 'isbreak': 'yes'}
+run 509: {'page': 13, 'para': 47, 'line': 24, 'text': 'Auslösungen', 'bold': False, 'isbreak': 'yes'}
+run 510: {'page': 13, 'para': 47, 'line': 24, 'text': 'Auflösungen', 'bold': False, 'isbreak': 'yes'}
+run 511: {'page': 13, 'para': 47, 'line': 24, 'text': '[', 'bold': False, 'isbreak': 'yes'}
+run 512: {'page': 13, 'para': 47, 'line': 24, 'text': '[note: DTA incorrectly reads ', 'bold': False, 'isbreak': 'yes'}
+run 513: {'page': 13, 'para': 47, 'line': 24, 'text': 'ſ for f]] ', 'bold': False, 'isbreak': 'yes'}
+run 514: {'page': 13, 'para': 47, 'line': 24, 'text': 'um ', 'bold': False, 'isbreak': 'yes'}
+run 515: {'page': 13, 'para': 47, 'line': 25, 'text': 'nichts verbessert, und noch weniger gewinnt sie da-', 'bold': False, 'isbreak': 'no'}
+run 516: {'page': 13, 'para': 47, 'line': 26, 'text': 'durch, daß man die Ausdrücke ändert, und Fiber-', 'bold': False, 'isbreak': 'no'}
+run 517: {'page': 13, 'para': 47, 'line': 27, 'text': 'schwingungen nennet, was man sonsten Vorstel-', 'bold': False, 'isbreak': 'no'}
+run 518: {'page': 13, 'para': 47, 'line': 28, 'text': 'lungen oder Ideen genennet hat.', 'bold': False, 'isbreak': 'yes'}
+run 519: {'page': 13, 'para': 48, 'line': 29, 'text': 'Allein die zwote Folge, die ich aus dem Ge-', 'bold': False, 'isbreak': 'no'}
+run 520: {'page': 13, 'para': 48, 'line': 30, 'text': 'sagten hier vornehmlich ziehen will, ist auffallen-', 'bold': False, 'isbreak': 'no'}
+run 521: {'page': 13, 'para': 48, 'line': 31, 'text': 'der. Wenn auch diese metaphysischen Analysen ', 'bold': False, 'isbreak': 'yes'}
+run 522: {'page': 13, 'para': 48, 'line': 32, 'text': 'etwas reelleres lehrten, als sie wirklich nicht leh-', 'bold': False, 'isbreak': 'no'}
+run 523: {'page': 13, 'para': 48, 'line': 33, 'text': 'ren, so darf man doch die Untersuchung der Seele', 'bold': False, 'isbreak': 'yes'}
+run 524: {'page': 13, 'para': 49, 'line': 34, 'text': 'mit', 'bold': False, 'isbreak': 'yes'}
+run 525: {'page': 14, 'para': 50, 'line': 1, 'text': '', 'bold': False, 'isbreak': 'yes'}
+run 526: {'page': 14, 'para': 50, 'line': 1, 'text': '[', 'bold': False, 'isbreak': 'yes'}
+run 527: {'page': 14, 'para': 50, 'line': 1, 'text': 'XIV] Vorrede.', 'bold': False, 'isbreak': 'yes'}
+run 528: {'page': 14, 'para': 51, 'line': 2, 'text': 'mit ihnen nicht anfangen, sondern nur endigen. ', 'bold': False, 'isbreak': 'yes'}
+run 529: {'page': 14, 'para': 51, 'line': 3, 'text': 'Die ', 'bold': False, 'isbreak': 'yes'}
+run 530: {'page': 14, 'para': 51, 'line': 3, 'text': 'psychologische', 'bold': True, 'isbreak': 'yes'}
+run 531: {'page': 14, 'para': 51, 'line': 3, 'text': ' Auflösung muß vorhergehen. ', 'bold': False, 'isbreak': 'yes'}
+run 532: {'page': 14, 'para': 51, 'line': 4, 'text': 'Ist diese einmal beschaffet, so ist die ', 'bold': False, 'isbreak': 'no'}
+run 533: {'page': 14, 'para': 51, 'line': 4, 'text': 'metaphysi', 'bold': True, 'isbreak': 'no'}
+run 534: {'page': 14, 'para': 51, 'line': 4, 'text': '-', 'bold': False, 'isbreak': 'no'}
+run 535: {'page': 14, 'para': 51, 'line': 5, 'text': '', 'bold': False, 'isbreak': 'no'}
+run 536: {'page': 14, 'para': 51, 'line': 5, 'text': 'sche', 'bold': True, 'isbreak': 'no'}
+run 537: {'page': 14, 'para': 51, 'line': 5, 'text': ' auf eine Auflösung einiger weniger Grund-', 'bold': False, 'isbreak': 'no'}
+run 538: {'page': 14, 'para': 51, 'line': 6, 'text': 'vermögen und Wirkungsarten zurückgebracht, ', 'bold': False, 'isbreak': 'yes'}
+run 539: {'page': 14, 'para': 51, 'line': 7, 'text': 'und ist alsdenn, wofern sie sonst nur auf zuverläs-', 'bold': False, 'isbreak': 'no'}
+run 540: {'page': 14, 'para': 51, 'line': 8, 'text': 'sigen Gründen beruhet, in der Kürze so weit zu ', 'bold': False, 'isbreak': 'yes'}
+run 541: {'page': 14, 'para': 51, 'line': 9, 'text': 'bringen, als sie überhaupt gebracht werden kann. ', 'bold': False, 'isbreak': 'yes'}
+run 542: {'page': 14, 'para': 51, 'line': 10, 'text': 'Fehlet es aber noch an jener Erfahrungskenntniß ', 'bold': False, 'isbreak': 'yes'}
+run 543: {'page': 14, 'para': 51, 'line': 11, 'text': 'von den Grundvermögen, so ist es vergeblich, diese ', 'bold': False, 'isbreak': 'yes'}
+run 544: {'page': 14, 'para': 51, 'line': 12, 'text': 'aus einer uns so sehr verborgenen Organisation ', 'bold': False, 'isbreak': 'yes'}
+run 545: {'page': 14, 'para': 51, 'line': 13, 'text': 'begreiflich machen zu wollen. Hiezu kömmt noch, ', 'bold': False, 'isbreak': 'yes'}
+run 546: {'page': 14, 'para': 51, 'line': 14, 'text': 'daß, so weit man auch in der metaphysischen Psy', 'bold': False, 'isbreak': 'yes'}
+run 547: {'page': 14, 'para': 51, 'line': 15, 'text': 'chologie fortgehet, die Richtigkeit ihrer Sätze im-', 'bold': False, 'isbreak': 'no'}
+run 548: {'page': 14, 'para': 51, 'line': 16, 'text': 'merfort durch die Beobachtungskenntnisse geprüft ', 'bold': False, 'isbreak': 'yes'}
+run 549: {'page': 14, 'para': 51, 'line': 17, 'text': 'werden müsse.', 'bold': False, 'isbreak': 'yes'}
+run 550: {'page': 14, 'para': 52, 'line': 18, 'text': 'Indessen ist es, so zu sagen, ein neuer Ge-', 'bold': False, 'isbreak': 'no'}
+run 551: {'page': 14, 'para': 52, 'line': 19, 'text': 'sichtspunkt, wenn man die Seelenveränderungen ', 'bold': False, 'isbreak': 'yes'}
+run 552: {'page': 14, 'para': 52, 'line': 20, 'text': 'sich von der Seite vorstellet, wo das Gehirn An-', 'bold': False, 'isbreak': 'no'}
+run 553: {'page': 14, 'para': 52, 'line': 21, 'text': 'theil daran hat, und dieser kann eine Gelegenheit ', 'bold': False, 'isbreak': 'yes'}
+run 554: {'page': 14, 'para': 52, 'line': 22, 'text': 'geben, sie besser und völliger zu sehen. Vielleicht ', 'bold': False, 'isbreak': 'yes'}
+run 555: {'page': 14, 'para': 52, 'line': 23, 'text': 'wird die neuere Analysis auch der Erfahrungs-', 'bold': False, 'isbreak': 'no'}
+run 556: {'page': 14, 'para': 52, 'line': 24, 'text': 'kenntniß endlich diesen Nutzen bringen; aber zur ', 'bold': False, 'isbreak': 'yes'}
+run 557: {'page': 14, 'para': 52, 'line': 25, 'text': 'Zeit scheint es nicht, daß sie es gethan habe. Nicht ', 'bold': False, 'isbreak': 'yes'}
+run 558: {'page': 14, 'para': 52, 'line': 26, 'text': 'einmal die Wirkungen des Verstandes und die ', 'bold': False, 'isbreak': 'yes'}
+run 559: {'page': 14, 'para': 52, 'line': 27, 'text': 'Natur der Erkenntnisse sind besser und deutlicher ', 'bold': False, 'isbreak': 'yes'}
+run 560: {'page': 14, 'para': 52, 'line': 28, 'text': 'von denen entwickelt, die nach des Herrn Bon-', 'bold': False, 'isbreak': 'no'}
+run 561: {'page': 14, 'para': 52, 'line': 29, 'text': 'nets Beyspiel sie zergliedert haben, als von ', 'bold': False, 'isbreak': 'no'}
+run 562: {'page': 14, 'para': 52, 'line': 29, 'text': 'den ', 'bold': False, 'isbreak': 'no'}
+run 563: {'page': 14, 'para': 52, 'line': 29, 'text': 'an-', 'bold': False, 'isbreak': 'no'}
+run 564: {'page': 14, 'para': 52, 'line': 30, 'text': 'dern, sondern man möchte eher sagen, daß die ', 'bold': False, 'isbreak': 'yes'}
+run 565: {'page': 14, 'para': 52, 'line': 31, 'text': 'neue Methode in dieser Hinsicht geschadet habe. ', 'bold': False, 'isbreak': 'yes'}
+run 566: {'page': 14, 'para': 52, 'line': 32, 'text': 'Was fast ', 'bold': False, 'isbreak': 'no'}
+run 567: {'page': 14, 'para': 52, 'line': 32, 'text': 'jedesmal', 'bold': False, 'isbreak': 'no'}
+run 568: {'page': 14, 'para': 52, 'line': 32, 'text': 'jedes Mal', 'bold': False, 'isbreak': 'no'}
+run 569: {'page': 14, 'para': 52, 'line': 32, 'text': ' in den Wissenschaften ge-', 'bold': False, 'isbreak': 'no'}
+run 570: {'page': 14, 'para': 52, 'line': 33, 'text': 'schieht, wenn Epoche gemacht wird, das ist auch', 'bold': False, 'isbreak': 'yes'}
+run 571: {'page': 14, 'para': 53, 'line': 34, 'text': 'hier', 'bold': False, 'isbreak': 'yes'}
+run 572: {'page': 15, 'para': 54, 'line': 1, 'text': '', 'bold': False, 'isbreak': 'yes'}
+run 573: {'page': 15, 'para': 54, 'line': 1, 'text': '[', 'bold': False, 'isbreak': 'yes'}
+run 574: {'page': 15, 'para': 54, 'line': 1, 'text': 'XV] Vorrede.', 'bold': False, 'isbreak': 'yes'}
+run 575: {'page': 15, 'para': 55, 'line': 2, 'text': 'hier geschehen. Die neue Betrachtungsart, wel-', 'bold': False, 'isbreak': 'no'}
+run 576: {'page': 15, 'para': 55, 'line': 3, 'text': 'che gemeiniglich auch eine Umänderung des Rede-', 'bold': False, 'isbreak': 'no'}
+run 577: {'page': 15, 'para': 55, 'line': 4, 'text': 'gebrauchs nach sich zieht, zeiget die ', 'bold': False, 'isbreak': 'yes'}
+run 578: {'page': 15, 'para': 55, 'line': 4, 'text': 'Sachen', 'bold': False, 'isbreak': 'yes'}
+run 579: {'page': 15, 'para': 55, 'line': 4, 'text': 'Sache', 'bold': False, 'isbreak': 'yes'}
+run 580: {'page': 15, 'para': 55, 'line': 4, 'text': ' aus ', 'bold': False, 'isbreak': 'yes'}
+run 581: {'page': 15, 'para': 55, 'line': 5, 'text': 'einem neuen Standort, an dem man noch nicht ', 'bold': False, 'isbreak': 'yes'}
+run 582: {'page': 15, 'para': 55, 'line': 6, 'text': 'gewohnt ist, und wo man sie daher auch', 'bold': False, 'isbreak': 'yes'}
+run 583: {'page': 15, 'para': 55, 'line': 6, 'text': ' noch', 'bold': False, 'isbreak': 'yes'}
+run 584: {'page': 15, 'para': 55, 'line': 6, 'text': ' nicht so ', 'bold': False, 'isbreak': 'yes'}
+run 585: {'page': 15, 'para': 55, 'line': 7, 'text': 'bestimmt und deutlich fasset, als man sie vorher ', 'bold': False, 'isbreak': 'yes'}
+run 586: {'page': 15, 'para': 55, 'line': 8, 'text': 'aus dem alten gefaßt hatte; man sieht sie also im ', 'bold': False, 'isbreak': 'yes'}
+run 587: {'page': 15, 'para': 55, 'line': 9, 'text': 'Anfang verwirrter und schlechter. Die Begierde, ', 'bold': False, 'isbreak': 'yes'}
+run 588: {'page': 15, 'para': 55, 'line': 10, 'text': 'Seelenbeschaffenheiten als Gehirnsveränderungen ', 'bold': False, 'isbreak': 'yes'}
+run 589: {'page': 15, 'para': 55, 'line': 11, 'text': 'sich vorzustellen, hat einige neuere Beobachter ', 'bold': False, 'isbreak': 'yes'}
+run 590: {'page': 15, 'para': 55, 'line': 12, 'text': 'manches in den Gesetzen des Denkens übersehen ', 'bold': False, 'isbreak': 'yes'}
+run 591: {'page': 15, 'para': 55, 'line': 13, 'text': 'lassen, was ihrer Scharfsinnigkeit nicht entwischt ', 'bold': False, 'isbreak': 'yes'}
+run 592: {'page': 15, 'para': 55, 'line': 14, 'text': 'seyn würde, wenn sie diesen Theil unsers Innern ', 'bold': False, 'isbreak': 'yes'}
+run 593: {'page': 15, 'para': 55, 'line': 15, 'text': 'nicht in der unvortheilhaften Stellung der Hypo', 'bold': False, 'isbreak': 'yes'}
+run 594: {'page': 15, 'para': 55, 'line': 16, 'text': 'these gesehen hätten. Beyspiele davon werden in ', 'bold': False, 'isbreak': 'yes'}
+run 595: {'page': 15, 'para': 55, 'line': 17, 'text': 'den folgenden Versuchen vorkommen.', 'bold': False, 'isbreak': 'yes'}
+run 596: {'page': 15, 'para': 56, 'line': 18, 'text': 'Gleichwohl ist der Hang der Forscher, mit ', 'bold': False, 'isbreak': 'yes'}
+run 597: {'page': 15, 'para': 56, 'line': 19, 'text': 'Vermuthungen da durchzubrechen, wo mit Er-', 'bold': False, 'isbreak': 'no'}
+run 598: {'page': 15, 'para': 56, 'line': 20, 'text': 'fahrung und Vernunft allein nichts auszurichten ', 'bold': False, 'isbreak': 'yes'}
+run 599: {'page': 15, 'para': 56, 'line': 21, 'text': 'ist, so nützlich als natürlich, und in der Psycholo-', 'bold': False, 'isbreak': 'no'}
+run 600: {'page': 15, 'para': 56, 'line': 22, 'text': 'gie sowohl als in andern Wissenschaften. Der ', 'bold': False, 'isbreak': 'yes'}
+run 601: {'page': 15, 'para': 56, 'line': 23, 'text': 'Hypothesendichter trägt das seinige zur Fortbrin-', 'bold': False, 'isbreak': 'no'}
+run 602: {'page': 15, 'para': 56, 'line': 24, 'text': 'gung der Erkenntniß bey, wie der Beobachter, und ', 'bold': False, 'isbreak': 'yes'}
+run 603: {'page': 15, 'para': 56, 'line': 25, 'text': 'der luftige ', 'bold': False, 'isbreak': 'yes'}
+run 604: {'page': 15, 'para': 56, 'line': 25, 'text': 'Systemenmacher', 'bold': False, 'isbreak': 'yes'}
+run 605: {'page': 15, 'para': 56, 'line': 25, 'text': 'Systemmacher', 'bold': False, 'isbreak': 'yes'}
+run 606: {'page': 15, 'para': 56, 'line': 25, 'text': ' hat ein Verdienst, ', 'bold': False, 'isbreak': 'yes'}
+run 607: {'page': 15, 'para': 56, 'line': 26, 'text': 'wie der, welcher Vernunft auf ', 'bold': False, 'isbreak': 'yes'}
+run 608: {'page': 15, 'para': 56, 'line': 26, 'text': 'Erfahrungen', 'bold': False, 'isbreak': 'yes'}
+run 609: {'page': 15, 'para': 56, 'line': 26, 'text': 'Erfahrung', 'bold': False, 'isbreak': 'yes'}
+run 610: {'page': 15, 'para': 56, 'line': 26, 'text': ' bauet; ', 'bold': False, 'isbreak': 'yes'}
+run 611: {'page': 15, 'para': 56, 'line': 27, 'text': 'nur jeder in seiner Maße. ', 'bold': False, 'isbreak': 'no'}
+run 612: {'page': 15, 'para': 56, 'line': 27, 'text': 'Ueberdieß', 'bold': False, 'isbreak': 'no'}
+run 613: {'page': 15, 'para': 56, 'line': 27, 'text': 'Überdieß', 'bold': False, 'isbreak': 'no'}
+run 614: {'page': 15, 'para': 56, 'line': 27, 'text': ' ist es in an-', 'bold': False, 'isbreak': 'no'}
+run 615: {'page': 15, 'para': 56, 'line': 28, 'text': 'dern Hinsichten nützlich, zuweilen gar nothwendig, ', 'bold': False, 'isbreak': 'yes'}
+run 616: {'page': 15, 'para': 56, 'line': 29, 'text': 'die festen Kenntnisse mit leichten Vermuthungen ', 'bold': False, 'isbreak': 'yes'}
+run 617: {'page': 15, 'para': 56, 'line': 30, 'text': 'zu versetzen, wie das Gold mit unedlern Metal-', 'bold': False, 'isbreak': 'no'}
+run 618: {'page': 15, 'para': 56, 'line': 31, 'text': 'len, wenn man es zum gemeinen Gebrauch ver-', 'bold': False, 'isbreak': 'no'}
+run 619: {'page': 15, 'para': 56, 'line': 32, 'text': 'arbeitet. Aber der Freund der Wahrheit wird ', 'bold': False, 'isbreak': 'yes'}
+run 620: {'page': 15, 'para': 56, 'line': 33, 'text': 'es doch eingestehen, daß man nicht sagen könne,', 'bold': False, 'isbreak': 'yes'}
+run 621: {'page': 15, 'para': 57, 'line': 34, 'text': 'daß', 'bold': False, 'isbreak': 'yes'}
+run 622: {'page': 16, 'para': 58, 'line': 1, 'text': '', 'bold': False, 'isbreak': 'yes'}
+run 623: {'page': 16, 'para': 58, 'line': 1, 'text': '[', 'bold': False, 'isbreak': 'yes'}
+run 624: {'page': 16, 'para': 58, 'line': 1, 'text': 'XVI] Vorrede.', 'bold': False, 'isbreak': 'yes'}
+run 625: {'page': 16, 'para': 59, 'line': 2, 'text': 'daß Kenntnisse zweckmäßig bearbeitet werden; ', 'bold': False, 'isbreak': 'yes'}
+run 626: {'page': 16, 'para': 59, 'line': 3, 'text': 'von solchen ist nämlich ', 'bold': False, 'isbreak': 'yes'}
+run 627: {'page': 16, 'para': 59, 'line': 3, 'text': 'die', 'bold': False, 'isbreak': 'yes'}
+run 628: {'page': 16, 'para': 59, 'line': 3, 'text': 'der', 'bold': False, 'isbreak': 'yes'}
+run 629: {'page': 16, 'para': 59, 'line': 3, 'text': ' Rede, wobey es nicht ', 'bold': False, 'isbreak': 'yes'}
+run 630: {'page': 16, 'para': 59, 'line': 4, 'text': 'sowohl auf ', 'bold': False, 'isbreak': 'no'}
+run 631: {'page': 16, 'para': 59, 'line': 4, 'text': 'eine', 'bold': False, 'isbreak': 'no'}
+run 632: {'page': 16, 'para': 59, 'line': 4, 'text': 'die', 'bold': False, 'isbreak': 'no'}
+run 633: {'page': 16, 'para': 59, 'line': 4, 'text': ' Unterhaltung als auf wahre Be-', 'bold': False, 'isbreak': 'no'}
+run 634: {'page': 16, 'para': 59, 'line': 5, 'text': 'lehrung des Verstandes ankommt; wenn nicht die ', 'bold': False, 'isbreak': 'yes'}
+run 635: {'page': 16, 'para': 59, 'line': 6, 'text': 'Mittelrichtung aller Bemühungen auf richtige ', 'bold': False, 'isbreak': 'yes'}
+run 636: {'page': 16, 'para': 59, 'line': 7, 'text': 'Beobachtungen und Vernunftschlüsse hingehet, ', 'bold': False, 'isbreak': 'yes'}
+run 637: {'page': 16, 'para': 59, 'line': 8, 'text': 'von welchen allein nur die starke und feststehende ', 'bold': False, 'isbreak': 'yes'}
+run 638: {'page': 16, 'para': 59, 'line': 9, 'text': '', 'bold': False, 'isbreak': 'yes'}
+run 639: {'page': 16, 'para': 59, 'line': 9, 'text': 'Ueberzeugung', 'bold': False, 'isbreak': 'yes'}
+run 640: {'page': 16, 'para': 59, 'line': 9, 'text': 'Überzeugung', 'bold': False, 'isbreak': 'yes'}
+run 641: {'page': 16, 'para': 59, 'line': 9, 'text': ' zu erwarten ist, die der Forscher ', 'bold': False, 'isbreak': 'yes'}
+run 642: {'page': 16, 'para': 59, 'line': 10, 'text': 'verlanget. Es darf nicht gesagt werden, daß es ', 'bold': False, 'isbreak': 'yes'}
+run 643: {'page': 16, 'para': 59, 'line': 11, 'text': 'an solchen Kenntnissen in der beobachtenden Psy-', 'bold': False, 'isbreak': 'no'}
+run 644: {'page': 16, 'para': 59, 'line': 12, 'text': 'chologie noch fehle. Es fehlet ihr auch noch an ', 'bold': False, 'isbreak': 'yes'}
+run 645: {'page': 16, 'para': 59, 'line': 13, 'text': 'solchen Stellen daran, die schon mehrmalen unter-', 'bold': False, 'isbreak': 'no'}
+run 646: {'page': 16, 'para': 59, 'line': 14, 'text': 'sucht sind. Genauere Beobachtungen über den ', 'bold': False, 'isbreak': 'yes'}
+run 647: {'page': 16, 'para': 59, 'line': 15, 'text': 'Verstand; so hören z. B. die Verwirrungen in der ', 'bold': False, 'isbreak': 'yes'}
+run 648: {'page': 16, 'para': 59, 'line': 16, 'text': 'Lehre von dem ', 'bold': False, 'isbreak': 'yes'}
+run 649: {'page': 16, 'para': 59, 'line': 16, 'text': 'gemeinen Menschenverstande', 'bold': True, 'isbreak': 'yes'}
+run 650: {'page': 16, 'para': 59, 'line': 16, 'text': ' ', 'bold': False, 'isbreak': 'yes'}
+run 651: {'page': 16, 'para': 59, 'line': 17, 'text': 'von selbst auf. Die heftigen Angriffe auf die rai-', 'bold': False, 'isbreak': 'no'}
+run 652: {'page': 16, 'para': 59, 'line': 18, 'text': 'sonnirende Vernunft, welche den Menschenver-', 'bold': False, 'isbreak': 'no'}
+run 653: {'page': 16, 'para': 59, 'line': 19, 'text': 'stand aufheben sollte, und die Ungewißheit, wor-', 'bold': False, 'isbreak': 'no'}
+run 654: {'page': 16, 'para': 59, 'line': 20, 'text': 'an man sich zu halten habe, wenn das Raisonne-', 'bold': False, 'isbreak': 'no'}
+run 655: {'page': 16, 'para': 59, 'line': 21, 'text': 'ment wirklich von dem gemeinen Verstande ab-', 'bold': False, 'isbreak': 'no'}
+run 656: {'page': 16, 'para': 59, 'line': 22, 'text': 'weichet, wie es zuweilen geschieht, haben keinen ', 'bold': False, 'isbreak': 'yes'}
+run 657: {'page': 16, 'para': 59, 'line': 23, 'text': 'andern Grund, als Mißkenntniß von beiden, und ', 'bold': False, 'isbreak': 'yes'}
+run 658: {'page': 16, 'para': 59, 'line': 24, 'text': 'von ihrer natürlichen Beziehung auf einander, die ', 'bold': False, 'isbreak': 'yes'}
+run 659: {'page': 16, 'para': 59, 'line': 25, 'text': 'man nicht genau genug betrachtet hatte. Beob-', 'bold': False, 'isbreak': 'no'}
+run 660: {'page': 16, 'para': 59, 'line': 26, 'text': 'achten und Vergleichen weiset uns, wie ich meine, ', 'bold': False, 'isbreak': 'yes'}
+run 661: {'page': 16, 'para': 59, 'line': 27, 'text': 'sehr bald wieder über diesen Punkt zurecht.', 'bold': False, 'isbreak': 'yes'}
+run 662: {'page': 16, 'para': 60, 'line': 28, 'text': 'So weit von der Nothwendigkeit der beobach-', 'bold': False, 'isbreak': 'no'}
+run 663: {'page': 16, 'para': 60, 'line': 29, 'text': 'tenden Methode; nur noch ein Wort von ihren ', 'bold': False, 'isbreak': 'yes'}
+run 664: {'page': 16, 'para': 60, 'line': 30, 'text': 'Schwierigkeiten. Das meiste bey ihr beruhet auf ', 'bold': False, 'isbreak': 'yes'}
+run 665: {'page': 16, 'para': 60, 'line': 31, 'text': 'einer richtigen Beobachtung der einzelnen Wir-', 'bold': False, 'isbreak': 'no'}
+run 666: {'page': 16, 'para': 60, 'line': 32, 'text': 'kungen, auf ihrer Zergliederung, und dann beson-', 'bold': False, 'isbreak': 'no'}
+run 667: {'page': 16, 'para': 60, 'line': 33, 'text': 'ders auf ihrer Vergleichung, wodurch einzelne', 'bold': False, 'isbreak': 'yes'}
+run 668: {'page': 16, 'para': 61, 'line': 34, 'text': 'Sätze', 'bold': False, 'isbreak': 'yes'}
+run 669: {'page': 17, 'para': 62, 'line': 1, 'text': '', 'bold': False, 'isbreak': 'yes'}
+run 670: {'page': 17, 'para': 62, 'line': 1, 'text': '[', 'bold': False, 'isbreak': 'yes'}
+run 671: {'page': 17, 'para': 62, 'line': 1, 'text': 'XVII] Vorrede.', 'bold': False, 'isbreak': 'yes'}
+run 672: {'page': 17, 'para': 63, 'line': 2, 'text': 'Sätze zu Allgemeinsätzen der Erfahrung erho-', 'bold': False, 'isbreak': 'no'}
+run 673: {'page': 17, 'para': 63, 'line': 3, 'text': 'ben werden. Jede dieser Operationen hat ', 'bold': False, 'isbreak': 'yes'}
+run 674: {'page': 17, 'para': 63, 'line': 4, 'text': 'ihre Hindernisse. Es giebt bey dem innern ', 'bold': False, 'isbreak': 'yes'}
+run 675: {'page': 17, 'para': 63, 'line': 5, 'text': 'Sinn, wenn nicht mehrere, doch ergiebigere ', 'bold': False, 'isbreak': 'yes'}
+run 676: {'page': 17, 'para': 63, 'line': 6, 'text': 'Quellen zu Blendwerken, als bey dem äußern; ', 'bold': False, 'isbreak': 'yes'}
+run 677: {'page': 17, 'para': 63, 'line': 7, 'text': 'wogegen ich kein Mittel weiß, das wirksam ', 'bold': False, 'isbreak': 'yes'}
+run 678: {'page': 17, 'para': 63, 'line': 8, 'text': 'genug wäre, um sich dafür zu verwahren, als ', 'bold': False, 'isbreak': 'yes'}
+run 679: {'page': 17, 'para': 63, 'line': 9, 'text': 'die Wiederholung derselbigen Beobachtung, ', 'bold': False, 'isbreak': 'yes'}
+run 680: {'page': 17, 'para': 63, 'line': 10, 'text': 'sowohl unter gleichen, als unter verschiedenen ', 'bold': False, 'isbreak': 'yes'}
+run 681: {'page': 17, 'para': 63, 'line': 11, 'text': 'Umständen, und jedesmal mit dem festen Ent-', 'bold': False, 'isbreak': 'no'}
+run 682: {'page': 17, 'para': 63, 'line': 12, 'text': 'schluß vorgenommen, das, was wirkliche Em-', 'bold': False, 'isbreak': 'no'}
+run 683: {'page': 17, 'para': 63, 'line': 13, 'text': 'pfindung ist, von dem, was hinzu gedichtet ', 'bold': False, 'isbreak': 'yes'}
+run 684: {'page': 17, 'para': 63, 'line': 14, 'text': 'wird, auszufühlen, und jenes stark gewahr ', 'bold': False, 'isbreak': 'yes'}
+run 685: {'page': 17, 'para': 63, 'line': 15, 'text': 'zu nehmen. Wer dieß nicht kann, ist zum ', 'bold': False, 'isbreak': 'yes'}
+run 686: {'page': 17, 'para': 63, 'line': 16, 'text': 'Beobachter der Seele nicht aufgelegt.', 'bold': False, 'isbreak': 'yes'}
+run 687: {'page': 17, 'para': 64, 'line': 17, 'text': 'Das schlimmste ist, daß man sich am mei-', 'bold': False, 'isbreak': 'no'}
+run 688: {'page': 17, 'para': 64, 'line': 18, 'text': 'sten vor der Seelenkraft in Acht zu nehmen ', 'bold': False, 'isbreak': 'yes'}
+run 689: {'page': 17, 'para': 64, 'line': 19, 'text': 'hat, die sonsten die besten Dienste thun kann, ', 'bold': False, 'isbreak': 'yes'}
+run 690: {'page': 17, 'para': 64, 'line': 20, 'text': 'und auch wirklich thun muß, wenn der Blick ', 'bold': False, 'isbreak': 'yes'}
+run 691: {'page': 17, 'para': 64, 'line': 21, 'text': 'in uns selbst etwas eindringen soll. Es ist die ', 'bold': False, 'isbreak': 'yes'}
+run 692: {'page': 17, 'para': 64, 'line': 22, 'text': 'Phantasie, und noch näher die selbstthätige ', 'bold': False, 'isbreak': 'yes'}
+run 693: {'page': 17, 'para': 64, 'line': 23, 'text': 'Dichtkraft, deren Eingebungen nur zu leicht ', 'bold': False, 'isbreak': 'yes'}
+run 694: {'page': 17, 'para': 64, 'line': 24, 'text': 'mit Beobachtungen, und mit Begriffen aus ', 'bold': False, 'isbreak': 'yes'}
+run 695: {'page': 17, 'para': 64, 'line': 25, 'text': 'Beobachtungen verwechselt werden. Indem ', 'bold': False, 'isbreak': 'yes'}
+run 696: {'page': 17, 'para': 64, 'line': 26, 'text': 'der Verstand das wirklich Vorhandene oder ', 'bold': False, 'isbreak': 'yes'}
+run 697: {'page': 17, 'para': 64, 'line': 27, 'text': 'Gefühlte gewahrnimmt, bemerket, und nach-', 'bold': False, 'isbreak': 'no'}
+run 698: {'page': 17, 'para': 64, 'line': 28, 'text': 'her eins mit dem andern vergleichet, so wirket ', 'bold': False, 'isbreak': 'yes'}
+run 699: {'page': 17, 'para': 64, 'line': 29, 'text': 'die selbstthätige Phantasie zur Seite, löset ', 'bold': False, 'isbreak': 'yes'}
+run 700: {'page': 17, 'para': 64, 'line': 30, 'text': 'Bilder auf, und vermischt sie wieder, und ', 'bold': False, 'isbreak': 'yes'}
+run 701: {'page': 17, 'para': 64, 'line': 31, 'text': 'webet fremde Ideen hinein, die in der Em-', 'bold': False, 'isbreak': 'no'}
+run 702: {'page': 17, 'para': 64, 'line': 32, 'text': 'pfindung nicht enthalten waren. Alsdenn ent-', 'bold': False, 'isbreak': 'no'}
+run 703: {'page': 17, 'para': 64, 'line': 33, 'text': 'stehet eine Vorstellung in uns, die eine getreue', 'bold': False, 'isbreak': 'yes'}
+run 704: {'page': 17, 'para': 65, 'line': 34, 'text': 'Abbil', 'bold': False, 'isbreak': 'yes'}
+run 705: {'page': 17, 'para': 66, 'line': 35, 'text': 'I. Band. b', 'bold': False, 'isbreak': 'yes'}
+run 706: {'page': 18, 'para': 66, 'line': 1, 'text': '', 'bold': False, 'isbreak': 'yes'}
+run 707: {'page': 18, 'para': 66, 'line': 1, 'text': '[', 'bold': False, 'isbreak': 'yes'}
+run 708: {'page': 18, 'para': 66, 'line': 1, 'text': 'XVIII] Vorrede.', 'bold': False, 'isbreak': 'yes'}
+run 709: {'page': 18, 'para': 67, 'line': 2, 'text': 'Abbildung des Wirklichen, oft ein Gemein-', 'bold': False, 'isbreak': 'no'}
+run 710: {'page': 18, 'para': 67, 'line': 3, 'text': 'begriff aus mehrern einzelnen Empfindungen ', 'bold': False, 'isbreak': 'yes'}
+run 711: {'page': 18, 'para': 67, 'line': 4, 'text': 'zu seyn scheinet, und die wir geneigt sind, da-', 'bold': False, 'isbreak': 'no'}
+run 712: {'page': 18, 'para': 67, 'line': 5, 'text': 'für anzunehmen, weil sie ein Kind unsers ', 'bold': False, 'isbreak': 'yes'}
+run 713: {'page': 18, 'para': 67, 'line': 6, 'text': 'Witzes ist. Je lebhafter die Phantasie ist, ', 'bold': False, 'isbreak': 'yes'}
+run 714: {'page': 18, 'para': 67, 'line': 7, 'text': 'desto häufiger sind solche Meteoren, und den-', 'bold': False, 'isbreak': 'no'}
+run 715: {'page': 18, 'para': 67, 'line': 8, 'text': 'noch siehet man auch ohne eine starke Phanta-', 'bold': False, 'isbreak': 'no'}
+run 716: {'page': 18, 'para': 67, 'line': 9, 'text': 'sie nichts. Hier muß sich nun der wahre Be-', 'bold': False, 'isbreak': 'no'}
+run 717: {'page': 18, 'para': 67, 'line': 10, 'text': 'obachtungsgeist zeigen, und jene starke Phan-', 'bold': False, 'isbreak': 'no'}
+run 718: {'page': 18, 'para': 67, 'line': 11, 'text': 'tasie auf die Darstellung des Wirklichen ein-', 'bold': False, 'isbreak': 'no'}
+run 719: {'page': 18, 'para': 67, 'line': 12, 'text': 'zuschränken wissen. Es ist schwer, sich in ', 'bold': False, 'isbreak': 'yes'}
+run 720: {'page': 18, 'para': 67, 'line': 13, 'text': 'Hinsicht dieser Suggestionen der Dichtkraft ', 'bold': False, 'isbreak': 'yes'}
+run 721: {'page': 18, 'para': 67, 'line': 14, 'text': 'allemal so zu benehmen, wie man soll. Sie ', 'bold': False, 'isbreak': 'yes'}
+run 722: {'page': 18, 'para': 67, 'line': 15, 'text': 'können scharfe Bemerkungen eines Genies ', 'bold': False, 'isbreak': 'yes'}
+run 723: {'page': 18, 'para': 67, 'line': 16, 'text': 'seyn, die richtig sind, aber eben so wohl auch ', 'bold': False, 'isbreak': 'yes'}
+run 724: {'page': 18, 'para': 67, 'line': 17, 'text': 'nur Irrwische, die uns mißleiten. Ein Be-', 'bold': False, 'isbreak': 'no'}
+run 725: {'page': 18, 'para': 67, 'line': 18, 'text': 'griff von einer wirklichen Sache, den der Ver-', 'bold': False, 'isbreak': 'no'}
+run 726: {'page': 18, 'para': 67, 'line': 19, 'text': 'stand aus Empfindungen bildet, seinen noth-', 'bold': False, 'isbreak': 'no'}
+run 727: {'page': 18, 'para': 67, 'line': 20, 'text': 'wendigen Denkgesetzen gemäß, ist etwas an-', 'bold': False, 'isbreak': 'no'}
+run 728: {'page': 18, 'para': 67, 'line': 21, 'text': 'ders als eine Idee der Dichtkraft, die nur ', 'bold': False, 'isbreak': 'yes'}
+run 729: {'page': 18, 'para': 67, 'line': 22, 'text': 'durch die Empfindungen ', 'bold': False, 'isbreak': 'yes'}
+run 730: {'page': 18, 'para': 67, 'line': 22, 'text': 'veranlasset', 'bold': True, 'isbreak': 'yes'}
+run 731: {'page': 18, 'para': 67, 'line': 22, 'text': ' wird, und ', 'bold': False, 'isbreak': 'yes'}
+run 732: {'page': 18, 'para': 67, 'line': 23, 'text': 'nur nebenher während des Gefühls entstehet. ', 'bold': False, 'isbreak': 'yes'}
+run 733: {'page': 18, 'para': 67, 'line': 24, 'text': 'Imgleichen ist eine Folgerung unserer Ver-', 'bold': False, 'isbreak': 'no'}
+run 734: {'page': 18, 'para': 67, 'line': 25, 'text': 'nunft aus der Empfindung etwas anders, als ', 'bold': False, 'isbreak': 'yes'}
+run 735: {'page': 18, 'para': 67, 'line': 26, 'text': 'eine Idee, die von der Phantasie der Empfin-', 'bold': False, 'isbreak': 'no'}
+run 736: {'page': 18, 'para': 67, 'line': 27, 'text': 'dung als eine Folge von ihr zugesetzet wird. ', 'bold': False, 'isbreak': 'yes'}
+run 737: {'page': 18, 'para': 67, 'line': 28, 'text': 'Oftmals kommt man darüber nicht zur Ge-', 'bold': False, 'isbreak': 'no'}
+run 738: {'page': 18, 'para': 67, 'line': 29, 'text': 'wißheit, als bis das ganze Verfahren mehr-', 'bold': False, 'isbreak': 'no'}
+run 739: {'page': 18, 'para': 67, 'line': 30, 'text': 'malen wiederholet, und sorgfältig zergliedert ', 'bold': False, 'isbreak': 'yes'}
+run 740: {'page': 18, 'para': 67, 'line': 31, 'text': 'worden ist. ', 'bold': False, 'isbreak': 'no'}
+run 741: {'page': 18, 'para': 67, 'line': 31, 'text': 'Ueberhaupt', 'bold': False, 'isbreak': 'no'}
+run 742: {'page': 18, 'para': 67, 'line': 31, 'text': 'Überhaupt', 'bold': False, 'isbreak': 'no'}
+run 743: {'page': 18, 'para': 67, 'line': 31, 'text': ' aber haben solche Dich-', 'bold': False, 'isbreak': 'no'}
+run 744: {'page': 18, 'para': 67, 'line': 32, 'text': 'tungen einen Werth, wenn sie von wahren ', 'bold': False, 'isbreak': 'yes'}
+run 745: {'page': 18, 'para': 67, 'line': 33, 'text': 'Genies herrühren. Auch bloße Einfälle von', 'bold': False, 'isbreak': 'yes'}
+run 746: {'page': 18, 'para': 68, 'line': 34, 'text': 'diesen', 'bold': False, 'isbreak': 'yes'}
+run 747: {'page': 19, 'para': 69, 'line': 1, 'text': '', 'bold': False, 'isbreak': 'yes'}
+run 748: {'page': 19, 'para': 69, 'line': 1, 'text': '[', 'bold': False, 'isbreak': 'yes'}
+run 749: {'page': 19, 'para': 69, 'line': 1, 'text': 'XIX] Vorrede.', 'bold': False, 'isbreak': 'yes'}
+run 750: {'page': 19, 'para': 70, 'line': 2, 'text': 'diesen eröffnen neue Aussichten für den lang-', 'bold': False, 'isbreak': 'no'}
+run 751: {'page': 19, 'para': 70, 'line': 3, 'text': 'sam forschenden Beobachter, und geben ihm ', 'bold': False, 'isbreak': 'yes'}
+run 752: {'page': 19, 'para': 70, 'line': 4, 'text': 'Gelegenheit, Wege zu finden, wo sein Gang ', 'bold': False, 'isbreak': 'yes'}
+run 753: {'page': 19, 'para': 70, 'line': 5, 'text': 'leichter ist. Der Systemmacher hat sie zu ', 'bold': False, 'isbreak': 'yes'}
+run 754: {'page': 19, 'para': 70, 'line': 6, 'text': 'fürchten, da sie oft mit Gewalt durch seine ', 'bold': False, 'isbreak': 'yes'}
+run 755: {'page': 19, 'para': 70, 'line': 7, 'text': 'Gewebe von Betrachtungen hindurch fahren, ', 'bold': False, 'isbreak': 'yes'}
+run 756: {'page': 19, 'para': 70, 'line': 8, 'text': 'und es zerreißen; aber richtiges Raisonne-', 'bold': False, 'isbreak': 'no'}
+run 757: {'page': 19, 'para': 70, 'line': 9, 'text': 'ment, auf wahre Beobachtungen gebauet, ', 'bold': False, 'isbreak': 'yes'}
+run 758: {'page': 19, 'para': 70, 'line': 10, 'text': 'kann dabey sicher seyn. Dieß läßt sich nicht ', 'bold': False, 'isbreak': 'yes'}
+run 759: {'page': 19, 'para': 70, 'line': 11, 'text': 'von Einfällen umwerfen.', 'bold': False, 'isbreak': 'yes'}
+run 760: {'page': 19, 'para': 71, 'line': 12, 'text': 'Eine der vornehmsten Operationen bey der ', 'bold': False, 'isbreak': 'yes'}
+run 761: {'page': 19, 'para': 71, 'line': 13, 'text': 'beobachtenden Methode bestehet in der Ver-', 'bold': False, 'isbreak': 'no'}
+run 762: {'page': 19, 'para': 71, 'line': 14, 'text': 'allgemeinerung der besondern Erfahrungs-', 'bold': False, 'isbreak': 'no'}
+run 763: {'page': 19, 'para': 71, 'line': 15, 'text': 'sätze, die aus einzelnen Fällen gezogen sind. ', 'bold': False, 'isbreak': 'yes'}
+run 764: {'page': 19, 'para': 71, 'line': 16, 'text': 'Hievon hängt die Stärke der Methode ab. ', 'bold': False, 'isbreak': 'yes'}
+run 765: {'page': 19, 'para': 71, 'line': 17, 'text': 'Die Beobachtung hat für sich allein nur mit ', 'bold': False, 'isbreak': 'yes'}
+run 766: {'page': 19, 'para': 71, 'line': 18, 'text': 'dem Individuellen zu thun. Was hierinn ', 'bold': False, 'isbreak': 'yes'}
+run 767: {'page': 19, 'para': 71, 'line': 19, 'text': 'enthalten ist, die Art, wie es hervorgebracht ', 'bold': False, 'isbreak': 'yes'}
+run 768: {'page': 19, 'para': 71, 'line': 20, 'text': 'wird, und das Gesetz, wornach die Ursachen ', 'bold': False, 'isbreak': 'yes'}
+run 769: {'page': 19, 'para': 71, 'line': 21, 'text': 'wirken, das lehret die Beobachtung. Aber ', 'bold': False, 'isbreak': 'yes'}
+run 770: {'page': 19, 'para': 71, 'line': 22, 'text': 'dasselbige wird auf ganze Gattungen von Din-', 'bold': False, 'isbreak': 'no'}
+run 771: {'page': 19, 'para': 71, 'line': 23, 'text': 'gen übertragen, von denen man weiß, daß ', 'bold': False, 'isbreak': 'yes'}
+run 772: {'page': 19, 'para': 71, 'line': 24, 'text': 'sie den beobachteten ähnlich sind. Ist es die ', 'bold': False, 'isbreak': 'yes'}
+run 773: {'page': 19, 'para': 71, 'line': 25, 'text': 'Vergleichung, welche diese ', 'bold': False, 'isbreak': 'yes'}
+run 774: {'page': 19, 'para': 71, 'line': 25, 'text': 'Aehnlichkeit', 'bold': False, 'isbreak': 'yes'}
+run 775: {'page': 19, 'para': 71, 'line': 25, 'text': 'Ähnlichkeit', 'bold': False, 'isbreak': 'yes'}
+run 776: {'page': 19, 'para': 71, 'line': 25, 'text': ' in ', 'bold': False, 'isbreak': 'yes'}
+run 777: {'page': 19, 'para': 71, 'line': 26, 'text': 'ihrem ganzen Umfange zeiget, oder, erstrecket ', 'bold': False, 'isbreak': 'yes'}
+run 778: {'page': 19, 'para': 71, 'line': 27, 'text': 'sich die beobachtete ', 'bold': False, 'isbreak': 'no'}
+run 779: {'page': 19, 'para': 71, 'line': 27, 'text': 'Aehnlichkeit', 'bold': False, 'isbreak': 'no'}
+run 780: {'page': 19, 'para': 71, 'line': 27, 'text': 'Ähnlichkeit', 'bold': False, 'isbreak': 'no'}
+run 781: {'page': 19, 'para': 71, 'line': 27, 'text': ' auf die wesent-', 'bold': False, 'isbreak': 'no'}
+run 782: {'page': 19, 'para': 71, 'line': 28, 'text': 'lichen Beschaffenheiten, von welchen auf die ', 'bold': False, 'isbreak': 'yes'}
+run 783: {'page': 19, 'para': 71, 'line': 29, 'text': '', 'bold': False, 'isbreak': 'yes'}
+run 784: {'page': 19, 'para': 71, 'line': 29, 'text': 'Aehnlichkeit', 'bold': False, 'isbreak': 'yes'}
+run 785: {'page': 19, 'para': 71, 'line': 29, 'text': 'Ähnlichkeit', 'bold': False, 'isbreak': 'yes'}
+run 786: {'page': 19, 'para': 71, 'line': 29, 'text': ' in den übrigen Beschaffenheiten ', 'bold': False, 'isbreak': 'yes'}
+run 787: {'page': 19, 'para': 71, 'line': 30, 'text': 'geschlossen werden kann, wie von der ', 'bold': False, 'isbreak': 'no'}
+run 788: {'page': 19, 'para': 71, 'line': 30, 'text': 'Aehnlichkeit', 'bold': False, 'isbreak': 'no'}
+run 789: {'page': 19, 'para': 71, 'line': 30, 'text': 'Ähnlich', 'bold': False, 'isbreak': 'no'}
+run 790: {'page': 19, 'para': 71, 'line': 30, 'text': '-', 'bold': False, 'isbreak': 'no'}
+run 791: {'page': 19, 'para': 71, 'line': 31, 'text': '', 'bold': False, 'isbreak': 'no'}
+run 792: {'page': 19, 'para': 71, 'line': 31, 'text': 'keit', 'bold': False, 'isbreak': 'no'}
+run 793: {'page': 19, 'para': 71, 'line': 31, 'text': ' der Ursachen, auf die ', 'bold': False, 'isbreak': 'no'}
+run 794: {'page': 19, 'para': 71, 'line': 31, 'text': 'Aehnlichkeit', 'bold': False, 'isbreak': 'no'}
+run 795: {'page': 19, 'para': 71, 'line': 31, 'text': 'Ähnlichkeit', 'bold': False, 'isbreak': 'no'}
+run 796: {'page': 19, 'para': 71, 'line': 31, 'text': ' der Wir-', 'bold': False, 'isbreak': 'no'}
+run 797: {'page': 19, 'para': 71, 'line': 32, 'text': 'kungsgesetze und der Wirkungen, und umge-', 'bold': False, 'isbreak': 'no'}
+run 798: {'page': 19, 'para': 71, 'line': 33, 'text': 'kehrt, so hat die Allgemeinheit der Sätze ihre', 'bold': False, 'isbreak': 'yes'}
+run 799: {'page': 19, 'para': 72, 'line': 34, 'text': 'nicht', 'bold': False, 'isbreak': 'yes'}
+run 800: {'page': 19, 'para': 73, 'line': 35, 'text': 'b 2', 'bold': False, 'isbreak': 'yes'}
+run 801: {'page': 20, 'para': 73, 'line': 1, 'text': '', 'bold': False, 'isbreak': 'yes'}
+run 802: {'page': 20, 'para': 73, 'line': 1, 'text': '[', 'bold': False, 'isbreak': 'yes'}
+run 803: {'page': 20, 'para': 73, 'line': 1, 'text': 'XX] Vorrede.', 'bold': False, 'isbreak': 'yes'}
+run 804: {'page': 20, 'para': 74, 'line': 2, 'text': 'nicht zu bezweifelnde völlige Gewißheit. Kann ', 'bold': False, 'isbreak': 'yes'}
+run 805: {'page': 20, 'para': 74, 'line': 3, 'text': 'jene ', 'bold': False, 'isbreak': 'yes'}
+run 806: {'page': 20, 'para': 74, 'line': 3, 'text': 'Aehnlichkeit', 'bold': False, 'isbreak': 'yes'}
+run 807: {'page': 20, 'para': 74, 'line': 3, 'text': 'Ähnlichkeit', 'bold': False, 'isbreak': 'yes'}
+run 808: {'page': 20, 'para': 74, 'line': 3, 'text': ' nur in Hinsicht einiger Stücke ', 'bold': False, 'isbreak': 'yes'}
+run 809: {'page': 20, 'para': 74, 'line': 4, 'text': 'beobachtet werden, so ist die ', 'bold': False, 'isbreak': 'yes'}
+run 810: {'page': 20, 'para': 74, 'line': 4, 'text': 'Uebertragung', 'bold': False, 'isbreak': 'yes'}
+run 811: {'page': 20, 'para': 74, 'line': 4, 'text': 'Übertragung', 'bold': True, 'isbreak': 'yes'}
+run 812: {'page': 20, 'para': 74, 'line': 4, 'text': ' ', 'bold': True, 'isbreak': 'yes'}
+run 813: {'page': 20, 'para': 74, 'line': 5, 'text': 'nach der Analogie', 'bold': True, 'isbreak': 'no'}
+run 814: {'page': 20, 'para': 74, 'line': 5, 'text': ' nur wahrscheinlich; dage-', 'bold': False, 'isbreak': 'no'}
+run 815: {'page': 20, 'para': 74, 'line': 6, 'text': 'gen ist sie eine pure Hypothese, wenn sie auf ', 'bold': False, 'isbreak': 'yes'}
+run 816: {'page': 20, 'para': 74, 'line': 7, 'text': 'nichts mehr beruhet, als auf die bloße Mög-', 'bold': False, 'isbreak': 'no'}
+run 817: {'page': 20, 'para': 74, 'line': 8, 'text': 'lichkeit, daß es mit andern sich eben so verhal-', 'bold': False, 'isbreak': 'no'}
+run 818: {'page': 20, 'para': 74, 'line': 9, 'text': 'ten könne, als es sich mit dem verhält, was ', 'bold': False, 'isbreak': 'yes'}
+run 819: {'page': 20, 'para': 74, 'line': 10, 'text': 'unmittelbar beobachtet ist. Bey der Gränze ', 'bold': False, 'isbreak': 'yes'}
+run 820: {'page': 20, 'para': 74, 'line': 11, 'text': 'zwischen der vollen Gewißheit und der Wahr-', 'bold': False, 'isbreak': 'no'}
+run 821: {'page': 20, 'para': 74, 'line': 12, 'text': 'scheinlichkeit darf es so genau nicht genommen ', 'bold': False, 'isbreak': 'yes'}
+run 822: {'page': 20, 'para': 74, 'line': 13, 'text': 'werden, aber desto mehr ist darauf zu sehen, ', 'bold': False, 'isbreak': 'yes'}
+run 823: {'page': 20, 'para': 74, 'line': 14, 'text': 'daß nicht das bloße So seyn können, mit der ', 'bold': False, 'isbreak': 'yes'}
+run 824: {'page': 20, 'para': 74, 'line': 15, 'text': 'Wahrscheinlichkeit verwechselt werde, daß es ', 'bold': False, 'isbreak': 'yes'}
+run 825: {'page': 20, 'para': 74, 'line': 16, 'text': 'so sey. Die letztere setzet gewisse Anzeigen in ', 'bold': False, 'isbreak': 'yes'}
+run 826: {'page': 20, 'para': 74, 'line': 17, 'text': 'den Beobachtungen voraus. In jenem Fall ', 'bold': False, 'isbreak': 'yes'}
+run 827: {'page': 20, 'para': 74, 'line': 18, 'text': 'wird auf eine Hypothese gebauet, aber in dem ', 'bold': False, 'isbreak': 'yes'}
+run 828: {'page': 20, 'para': 74, 'line': 19, 'text': 'letztern wird ein Schluß aus der Analogie ', 'bold': False, 'isbreak': 'yes'}
+run 829: {'page': 20, 'para': 74, 'line': 20, 'text': 'gemacht, der desto wahrscheinlicher ist, je be-', 'bold': False, 'isbreak': 'no'}
+run 830: {'page': 20, 'para': 74, 'line': 21, 'text': 'stimmter die Anzeigen sind, aus denen man die ', 'bold': False, 'isbreak': 'yes'}
+run 831: {'page': 20, 'para': 74, 'line': 22, 'text': '', 'bold': False, 'isbreak': 'no'}
+run 832: {'page': 20, 'para': 74, 'line': 22, 'text': 'Aehnlichkeit', 'bold': False, 'isbreak': 'no'}
+run 833: {'page': 20, 'para': 74, 'line': 22, 'text': 'Ähnlichkeit', 'bold': False, 'isbreak': 'no'}
+run 834: {'page': 20, 'para': 74, 'line': 22, 'text': ' gefolgert hat. Hier ist auch zu-', 'bold': False, 'isbreak': 'no'}
+run 835: {'page': 20, 'para': 74, 'line': 23, 'text': 'weilen der sorgfältigste Beobachter in Gefahr, ', 'bold': False, 'isbreak': 'yes'}
+run 836: {'page': 20, 'para': 74, 'line': 24, 'text': 'unvermerkt auf leere Vermuthungen zu gera-', 'bold': False, 'isbreak': 'no'}
+run 837: {'page': 20, 'para': 74, 'line': 25, 'text': 'then. Es kommen hievon gleich in der ersten ', 'bold': False, 'isbreak': 'yes'}
+run 838: {'page': 20, 'para': 74, 'line': 26, 'text': 'Untersuchung Beyspiele vor. Mit unsern ', 'bold': False, 'isbreak': 'yes'}
+run 839: {'page': 20, 'para': 74, 'line': 27, 'text': 'Ideen von den Farben hat es dieselbige Be-', 'bold': False, 'isbreak': 'no'}
+run 840: {'page': 20, 'para': 74, 'line': 28, 'text': 'schaffenheit, wie mit den Ideen von den Fi-', 'bold': False, 'isbreak': 'no'}
+run 841: {'page': 20, 'para': 74, 'line': 29, 'text': 'guren, die das Gesicht giebet; sie haben einer-', 'bold': False, 'isbreak': 'no'}
+run 842: {'page': 20, 'para': 74, 'line': 30, 'text': 'ley Natur, einerley Bestandtheile, einerley ', 'bold': False, 'isbreak': 'yes'}
+run 843: {'page': 20, 'para': 74, 'line': 31, 'text': 'Entstehungsart. Dieß wird durch die Ver-', 'bold': False, 'isbreak': 'no'}
+run 844: {'page': 20, 'para': 74, 'line': 32, 'text': 'gleichung zur vollen Gewißheit gebracht. Nun ', 'bold': False, 'isbreak': 'yes'}
+run 845: {'page': 20, 'para': 74, 'line': 33, 'text': 'sind auch die Vorstellungen des Gehörs gleich-', 'bold': False, 'isbreak': 'no'}
+run 846: {'page': 20, 'para': 75, 'line': 34, 'text': 'falls', 'bold': False, 'isbreak': 'yes'}
+run 847: {'page': 21, 'para': 76, 'line': 1, 'text': '', 'bold': False, 'isbreak': 'yes'}
+run 848: {'page': 21, 'para': 76, 'line': 1, 'text': '[', 'bold': False, 'isbreak': 'yes'}
+run 849: {'page': 21, 'para': 76, 'line': 1, 'text': 'XXI] Vorrede.', 'bold': False, 'isbreak': 'yes'}
+run 850: {'page': 21, 'para': 77, 'line': 2, 'text': 'falls Vorstellungen von einerley Natur mit den ', 'bold': False, 'isbreak': 'yes'}
+run 851: {'page': 21, 'para': 77, 'line': 3, 'text': 'Ideen des Gesichts, nur das Objektivische ab-', 'bold': False, 'isbreak': 'no'}
+run 852: {'page': 21, 'para': 77, 'line': 4, 'text': 'gerechnet, und das, was von dem Unterschied ', 'bold': False, 'isbreak': 'yes'}
+run 853: {'page': 21, 'para': 77, 'line': 5, 'text': 'der Sinnglieder abhängt. Auch bis hieher ', 'bold': False, 'isbreak': 'yes'}
+run 854: {'page': 21, 'para': 77, 'line': 6, 'text': 'führt die Beobachtung mit Sicherheit. Aber ', 'bold': False, 'isbreak': 'yes'}
+run 855: {'page': 21, 'para': 77, 'line': 7, 'text': 'wenn man dieß weiter ausdehnet, und nach ', 'bold': False, 'isbreak': 'yes'}
+run 856: {'page': 21, 'para': 77, 'line': 8, 'text': 'der Analogie folgert, daß es mit allen Arten ', 'bold': False, 'isbreak': 'yes'}
+run 857: {'page': 21, 'para': 77, 'line': 9, 'text': 'von Ideen aus dem äußern Sinn die nämliche ', 'bold': False, 'isbreak': 'yes'}
+run 858: {'page': 21, 'para': 77, 'line': 10, 'text': 'Beschaffenheit habe, und noch weiter, daß es ', 'bold': False, 'isbreak': 'yes'}
+run 859: {'page': 21, 'para': 77, 'line': 11, 'text': 'auch mit den Ideen der Seele von sich selbst ', 'bold': False, 'isbreak': 'yes'}
+run 860: {'page': 21, 'para': 77, 'line': 12, 'text': 'und ihren innern Beschaffenheiten sich so ver-', 'bold': False, 'isbreak': 'no'}
+run 861: {'page': 21, 'para': 77, 'line': 13, 'text': 'halte, so zeigen sich neue Schwierigkeiten, da ', 'bold': False, 'isbreak': 'yes'}
+run 862: {'page': 21, 'para': 77, 'line': 14, 'text': 'die letztern sich auch auf eine andere Art er-', 'bold': False, 'isbreak': 'no'}
+run 863: {'page': 21, 'para': 77, 'line': 15, 'text': 'klären lassen. Alsdenn muß man bey einer ', 'bold': False, 'isbreak': 'yes'}
+run 864: {'page': 21, 'para': 77, 'line': 16, 'text': 'Hypothese stehen bleiben, oder Data in den ', 'bold': False, 'isbreak': 'yes'}
+run 865: {'page': 21, 'para': 77, 'line': 17, 'text': 'Empfindungen aufsuchen, welche diese ', 'bold': False, 'isbreak': 'no'}
+run 866: {'page': 21, 'para': 77, 'line': 17, 'text': 'Aehn', 'bold': False, 'isbreak': 'no'}
+run 867: {'page': 21, 'para': 77, 'line': 17, 'text': '-', 'bold': False, 'isbreak': 'no'}
+run 868: {'page': 21, 'para': 77, 'line': 18, 'text': '', 'bold': False, 'isbreak': 'yes'}
+run 869: {'page': 21, 'para': 77, 'line': 18, 'text': 'lichkeit', 'bold': False, 'isbreak': 'yes'}
+run 870: {'page': 21, 'para': 77, 'line': 18, 'text': 'Ähnlichkeit', 'bold': False, 'isbreak': 'yes'}
+run 871: {'page': 21, 'para': 77, 'line': 18, 'text': ' zum mindesten in solchen und so vielen ', 'bold': False, 'isbreak': 'yes'}
+run 872: {'page': 21, 'para': 77, 'line': 19, 'text': 'Punkten bestätigen, daß eine Wahrscheinlich-', 'bold': False, 'isbreak': 'no'}
+run 873: {'page': 21, 'para': 77, 'line': 20, 'text': 'keit daraus erwächset, sie können auch in Hin-', 'bold': False, 'isbreak': 'no'}
+run 874: {'page': 21, 'para': 77, 'line': 21, 'text': 'sicht der übrigen angenommen werden, die ', 'bold': False, 'isbreak': 'yes'}
+run 875: {'page': 21, 'para': 77, 'line': 22, 'text': 'man nicht beobachten kann. Ich habe in sol-', 'bold': False, 'isbreak': 'no'}
+run 876: {'page': 21, 'para': 77, 'line': 23, 'text': 'chen Fällen mirs zur Regel gemacht, diese An-', 'bold': False, 'isbreak': 'no'}
+run 877: {'page': 21, 'para': 77, 'line': 24, 'text': 'zeigen oder Data, jedesmal, so weit ich konn-', 'bold': False, 'isbreak': 'no'}
+run 878: {'page': 21, 'para': 77, 'line': 25, 'text': 'te, aufzusuchen.', 'bold': False, 'isbreak': 'yes'}
+run 879: {'page': 21, 'para': 78, 'line': 26, 'text': 'Wenn ', 'bold': False, 'isbreak': 'no'}
+run 880: {'page': 21, 'para': 78, 'line': 26, 'text': 'Leibnitz', 'bold': True, 'isbreak': 'no'}
+run 881: {'page': 21, 'para': 78, 'line': 26, 'text': ' sagte, man könne der Er-', 'bold': False, 'isbreak': 'no'}
+run 882: {'page': 21, 'para': 78, 'line': 27, 'text': 'fahrungen zu viele aufsammlen, und die Phi-', 'bold': False, 'isbreak': 'no'}
+run 883: {'page': 21, 'para': 78, 'line': 28, 'text': 'losophie als die Einsicht ihres Zusammen-', 'bold': False, 'isbreak': 'no'}
+run 884: {'page': 21, 'para': 78, 'line': 29, 'text': 'hangs, dadurch hindern, so hatte er ohne ', 'bold': False, 'isbreak': 'yes'}
+run 885: {'page': 21, 'para': 78, 'line': 30, 'text': 'Zweifel in so ferne Recht, als die Rücksicht ', 'bold': False, 'isbreak': 'yes'}
+run 886: {'page': 21, 'para': 78, 'line': 31, 'text': 'auf gar zu viele und zu sehr unterschiedene Fälle ', 'bold': False, 'isbreak': 'yes'}
+run 887: {'page': 21, 'para': 78, 'line': 32, 'text': 'es schwer macht, ein allgemeines Gesetz aus ', 'bold': False, 'isbreak': 'yes'}
+run 888: {'page': 21, 'para': 78, 'line': 33, 'text': 'ihnen abzusondern. Die Menge der kleinen', 'bold': False, 'isbreak': 'yes'}
+run 889: {'page': 21, 'para': 79, 'line': 34, 'text': 'Ver', 'bold': False, 'isbreak': 'yes'}
+run 890: {'page': 21, 'para': 80, 'line': 35, 'text': 'b 3', 'bold': False, 'isbreak': 'yes'}
+run 891: {'page': 22, 'para': 80, 'line': 1, 'text': '', 'bold': False, 'isbreak': 'yes'}
+run 892: {'page': 22, 'para': 80, 'line': 1, 'text': '[', 'bold': False, 'isbreak': 'yes'}
+run 893: {'page': 22, 'para': 80, 'line': 1, 'text': 'XXII] Vorrede.', 'bold': False, 'isbreak': 'yes'}
+run 894: {'page': 22, 'para': 81, 'line': 2, 'text': 'Verschiedenheiten in den Einzelnen, verhindert ', 'bold': False, 'isbreak': 'yes'}
+run 895: {'page': 22, 'para': 81, 'line': 3, 'text': 'die ', 'bold': False, 'isbreak': 'yes'}
+run 896: {'page': 22, 'para': 81, 'line': 3, 'text': 'Uebersicht', 'bold': False, 'isbreak': 'yes'}
+run 897: {'page': 22, 'para': 81, 'line': 3, 'text': 'Übersicht', 'bold': False, 'isbreak': 'yes'}
+run 898: {'page': 22, 'para': 81, 'line': 3, 'text': ' des Ganzen und die Entdeckung ', 'bold': False, 'isbreak': 'yes'}
+run 899: {'page': 22, 'para': 81, 'line': 4, 'text': 'des ', 'bold': False, 'isbreak': 'no'}
+run 900: {'page': 22, 'para': 81, 'line': 4, 'text': 'Aehnlichen', 'bold': False, 'isbreak': 'no'}
+run 901: {'page': 22, 'para': 81, 'line': 4, 'text': 'Ähnlichen', 'bold': False, 'isbreak': 'no'}
+run 902: {'page': 22, 'para': 81, 'line': 4, 'text': '. Aber wenn aus einigen an-', 'bold': False, 'isbreak': 'no'}
+run 903: {'page': 22, 'para': 81, 'line': 5, 'text': 'gestellten Vergleichungen allgemeine Begriffe ', 'bold': False, 'isbreak': 'yes'}
+run 904: {'page': 22, 'para': 81, 'line': 6, 'text': 'und Regeln abstrahirt sind, und solche ausge-', 'bold': False, 'isbreak': 'no'}
+run 905: {'page': 22, 'para': 81, 'line': 7, 'text': 'dehnet und auf andere Erfahrungen angewen-', 'bold': False, 'isbreak': 'no'}
+run 906: {'page': 22, 'para': 81, 'line': 8, 'text': 'det werden sollen, so kann man der Erfahrun-', 'bold': False, 'isbreak': 'no'}
+run 907: {'page': 22, 'para': 81, 'line': 9, 'text': 'gen nicht zu viel haben, um hierinn sicher zu ', 'bold': False, 'isbreak': 'yes'}
+run 908: {'page': 22, 'para': 81, 'line': 10, 'text': 'gehen.', 'bold': False, 'isbreak': 'yes'}
+run 909: {'page': 22, 'para': 82, 'line': 11, 'text': 'Der Gebrauch der Analogie enthält den ', 'bold': False, 'isbreak': 'yes'}
+run 910: {'page': 22, 'para': 82, 'line': 12, 'text': 'Schluß, daß eine Sache, die der andern in ', 'bold': False, 'isbreak': 'yes'}
+run 911: {'page': 22, 'para': 82, 'line': 13, 'text': 'Hinsicht einiger Beschaffenheiten ähnlich ist, ', 'bold': False, 'isbreak': 'yes'}
+run 912: {'page': 22, 'para': 82, 'line': 14, 'text': 'es auch in Hinsicht mehrerer seyn werde, ohne ', 'bold': False, 'isbreak': 'yes'}
+run 913: {'page': 22, 'para': 82, 'line': 15, 'text': 'daß eine nothwendige Verbindung zwischen ', 'bold': False, 'isbreak': 'yes'}
+run 914: {'page': 22, 'para': 82, 'line': 16, 'text': 'diesen letztern Beschaffenheiten und den erstern ', 'bold': False, 'isbreak': 'yes'}
+run 915: {'page': 22, 'para': 82, 'line': 17, 'text': 'einleuchte. Denn wo dieß Statt findet, da ', 'bold': False, 'isbreak': 'yes'}
+run 916: {'page': 22, 'para': 82, 'line': 18, 'text': 'hat die Analogie nur zuerst auf den Weg ge-', 'bold': False, 'isbreak': 'no'}
+run 917: {'page': 22, 'para': 82, 'line': 19, 'text': 'wiesen, aber die Folgerung, die aus ihr ge-', 'bold': False, 'isbreak': 'no'}
+run 918: {'page': 22, 'para': 82, 'line': 20, 'text': 'macht ist, wird durch einen richtigen Schluß ', 'bold': False, 'isbreak': 'yes'}
+run 919: {'page': 22, 'para': 82, 'line': 21, 'text': 'zur Gewißheit gebracht.', 'bold': False, 'isbreak': 'yes'}
+run 920: {'page': 22, 'para': 83, 'line': 22, 'text': 'Wer nur einigermaßen die Werke der Na-', 'bold': False, 'isbreak': 'no'}
+run 921: {'page': 22, 'para': 83, 'line': 23, 'text': 'tur kennet, weiß es, wie oft die Analogie ein ', 'bold': False, 'isbreak': 'yes'}
+run 922: {'page': 22, 'para': 83, 'line': 24, 'text': 'richtiger Wegweiser gewesen ist, und auch, wie ', 'bold': False, 'isbreak': 'yes'}
+run 923: {'page': 22, 'para': 83, 'line': 25, 'text': 'oft sie irrig geleitet hat. Hr. ', 'bold': False, 'isbreak': 'yes'}
+run 924: {'page': 22, 'para': 83, 'line': 25, 'text': 'Bonnet', 'bold': True, 'isbreak': 'yes'}
+run 925: {'page': 22, 'para': 83, 'line': 25, 'text': ' wünschte ', 'bold': False, 'isbreak': 'yes'}
+run 926: {'page': 22, 'para': 83, 'line': 26, 'text': 'deswegen, daß aus der Vergleichung dieser ', 'bold': False, 'isbreak': 'yes'}
+run 927: {'page': 22, 'para': 83, 'line': 27, 'text': 'verschiedenen Fälle allgemeine Maximen über ', 'bold': False, 'isbreak': 'yes'}
+run 928: {'page': 22, 'para': 83, 'line': 28, 'text': 'ihren Gebrauch aufgesuchet werden möchten. ', 'bold': False, 'isbreak': 'yes'}
+run 929: {'page': 22, 'para': 83, 'line': 29, 'text': 'Ohne Zweifel würden diese ein vortrefliches ', 'bold': False, 'isbreak': 'yes'}
+run 930: {'page': 22, 'para': 83, 'line': 30, 'text': 'Stück einer ', 'bold': False, 'isbreak': 'no'}
+run 931: {'page': 22, 'para': 83, 'line': 30, 'text': 'logischen', 'bold': True, 'isbreak': 'no'}
+run 932: {'page': 22, 'para': 83, 'line': 30, 'text': ' ', 'bold': False, 'isbreak': 'no'}
+run 933: {'page': 22, 'para': 83, 'line': 30, 'text': 'Vermuthungskunst', 'bold': True, 'isbreak': 'no'}
+run 934: {'page': 22, 'para': 83, 'line': 30, 'text': ' ab-', 'bold': False, 'isbreak': 'no'}
+run 935: {'page': 22, 'para': 83, 'line': 31, 'text': 'geben, woran es noch fehlet, obgleich ein jeder ', 'bold': False, 'isbreak': 'yes'}
+run 936: {'page': 22, 'para': 83, 'line': 32, 'text': 'Mensch von gutem Verstande etwas davon ', 'bold': False, 'isbreak': 'yes'}
+run 937: {'page': 22, 'para': 83, 'line': 33, 'text': 'besitzet, und in seiner Sphäre von Kenntnissen', 'bold': False, 'isbreak': 'yes'}
+run 938: {'page': 22, 'para': 84, 'line': 34, 'text': 'oft', 'bold': False, 'isbreak': 'yes'}
+run 939: {'page': 23, 'para': 85, 'line': 1, 'text': '', 'bold': False, 'isbreak': 'yes'}
+run 940: {'page': 23, 'para': 85, 'line': 1, 'text': '[', 'bold': False, 'isbreak': 'yes'}
+run 941: {'page': 23, 'para': 85, 'line': 1, 'text': 'XXIII] Vorrede.', 'bold': False, 'isbreak': 'yes'}
+run 942: {'page': 23, 'para': 86, 'line': 2, 'text': 'oft glücklich anwendet. Die Quelle, worauf ', 'bold': False, 'isbreak': 'yes'}
+run 943: {'page': 23, 'para': 86, 'line': 3, 'text': 'Hr. ', 'bold': False, 'isbreak': 'no'}
+run 944: {'page': 23, 'para': 86, 'line': 3, 'text': 'Bonnet', 'bold': True, 'isbreak': 'no'}
+run 945: {'page': 23, 'para': 86, 'line': 3, 'text': ' verwiesen hat, um solche Bemer-', 'bold': False, 'isbreak': 'no'}
+run 946: {'page': 23, 'para': 86, 'line': 4, 'text': 'kungen zu sammeln, ist auch die ergiebigste; ', 'bold': False, 'isbreak': 'yes'}
+run 947: {'page': 23, 'para': 86, 'line': 5, 'text': 'nämlich die Beobachtung der ', 'bold': False, 'isbreak': 'yes'}
+run 948: {'page': 23, 'para': 86, 'line': 5, 'text': 'Aehnlichkeiten', 'bold': False, 'isbreak': 'yes'}
+run 949: {'page': 23, 'para': 86, 'line': 5, 'text': 'Ähnlichkeiten', 'bold': False, 'isbreak': 'yes'}
+run 950: {'page': 23, 'para': 86, 'line': 5, 'text': ' in ', 'bold': False, 'isbreak': 'yes'}
+run 951: {'page': 23, 'para': 86, 'line': 6, 'text': 'den wirklichen Dingen. Aber dennoch erwarte ', 'bold': False, 'isbreak': 'yes'}
+run 952: {'page': 23, 'para': 86, 'line': 7, 'text': 'ich nicht, daß man auf diesem Wege etwas ', 'bold': False, 'isbreak': 'yes'}
+run 953: {'page': 23, 'para': 86, 'line': 8, 'text': 'mehr als Materialien und einzelne Beyspiele ', 'bold': False, 'isbreak': 'yes'}
+run 954: {'page': 23, 'para': 86, 'line': 9, 'text': 'sammlen werde, die nie zu einem Ganzen wer-', 'bold': False, 'isbreak': 'no'}
+run 955: {'page': 23, 'para': 86, 'line': 10, 'text': 'den können, wenn nicht eine allgemeine Phi-', 'bold': False, 'isbreak': 'no'}
+run 956: {'page': 23, 'para': 86, 'line': 11, 'text': 'losophie, über die Beziehungen aller Arten von ', 'bold': False, 'isbreak': 'yes'}
+run 957: {'page': 23, 'para': 86, 'line': 12, 'text': 'Beschaffenheiten in den Dingen auf einander, ', 'bold': False, 'isbreak': 'yes'}
+run 958: {'page': 23, 'para': 86, 'line': 13, 'text': 'zu Hülfe kommt. Ohne diese wird man zum ', 'bold': False, 'isbreak': 'yes'}
+run 959: {'page': 23, 'para': 86, 'line': 14, 'text': 'mindesten nicht alles recht deutlich übersehen, ', 'bold': False, 'isbreak': 'yes'}
+run 960: {'page': 23, 'para': 86, 'line': 15, 'text': 'worauf es ankommt. Wie und wie weit fol-', 'bold': False, 'isbreak': 'no'}
+run 961: {'page': 23, 'para': 86, 'line': 16, 'text': 'get z. B. die ', 'bold': False, 'isbreak': 'yes'}
+run 962: {'page': 23, 'para': 86, 'line': 16, 'text': 'Aehnlichkeit', 'bold': False, 'isbreak': 'yes'}
+run 963: {'page': 23, 'para': 86, 'line': 16, 'text': 'Ähnlichkeit', 'bold': False, 'isbreak': 'yes'}
+run 964: {'page': 23, 'para': 86, 'line': 16, 'text': ' in den Wirkungen ', 'bold': False, 'isbreak': 'yes'}
+run 965: {'page': 23, 'para': 86, 'line': 17, 'text': 'der ', 'bold': False, 'isbreak': 'no'}
+run 966: {'page': 23, 'para': 86, 'line': 17, 'text': 'Aehnlichkeit', 'bold': False, 'isbreak': 'no'}
+run 967: {'page': 23, 'para': 86, 'line': 17, 'text': 'Ähnlichkeit', 'bold': False, 'isbreak': 'no'}
+run 968: {'page': 23, 'para': 86, 'line': 17, 'text': ' in den Ursachen? und umge-', 'bold': False, 'isbreak': 'no'}
+run 969: {'page': 23, 'para': 86, 'line': 18, 'text': 'kehrt diese jener? Wie weit folgt die ', 'bold': False, 'isbreak': 'no'}
+run 970: {'page': 23, 'para': 86, 'line': 18, 'text': 'Aehn', 'bold': False, 'isbreak': 'no'}
+run 971: {'page': 23, 'para': 86, 'line': 18, 'text': '-', 'bold': False, 'isbreak': 'no'}
+run 972: {'page': 23, 'para': 86, 'line': 19, 'text': '', 'bold': False, 'isbreak': 'yes'}
+run 973: {'page': 23, 'para': 86, 'line': 19, 'text': 'lichkeit', 'bold': False, 'isbreak': 'yes'}
+run 974: {'page': 23, 'para': 86, 'line': 19, 'text': 'Ähnlichkeit', 'bold': False, 'isbreak': 'yes'}
+run 975: {'page': 23, 'para': 86, 'line': 19, 'text': ' in dem ', 'bold': False, 'isbreak': 'yes'}
+run 976: {'page': 23, 'para': 86, 'line': 19, 'text': 'Innern', 'bold': True, 'isbreak': 'yes'}
+run 977: {'page': 23, 'para': 86, 'line': 19, 'text': ' der ', 'bold': False, 'isbreak': 'yes'}
+run 978: {'page': 23, 'para': 86, 'line': 19, 'text': 'Aehnlichkeit', 'bold': False, 'isbreak': 'yes'}
+run 979: {'page': 23, 'para': 86, 'line': 19, 'text': 'Ähnlichkeit', 'bold': False, 'isbreak': 'yes'}
+run 980: {'page': 23, 'para': 86, 'line': 19, 'text': ' in dem ', 'bold': False, 'isbreak': 'yes'}
+run 981: {'page': 23, 'para': 86, 'line': 20, 'text': '', 'bold': False, 'isbreak': 'no'}
+run 982: {'page': 23, 'para': 86, 'line': 20, 'text': 'Aeußern', 'bold': True, 'isbreak': 'no'}
+run 983: {'page': 23, 'para': 86, 'line': 20, 'text': 'Äußern', 'bold': True, 'isbreak': 'no'}
+run 984: {'page': 23, 'para': 86, 'line': 20, 'text': '? Von welcher Größe von ', 'bold': False, 'isbreak': 'no'}
+run 985: {'page': 23, 'para': 86, 'line': 20, 'text': 'Aehnlichkeit', 'bold': False, 'isbreak': 'no'}
+run 986: {'page': 23, 'para': 86, 'line': 20, 'text': 'Ähnlich', 'bold': False, 'isbreak': 'no'}
+run 987: {'page': 23, 'para': 86, 'line': 20, 'text': '-', 'bold': False, 'isbreak': 'no'}
+run 988: {'page': 23, 'para': 86, 'line': 21, 'text': '', 'bold': False, 'isbreak': 'yes'}
+run 989: {'page': 23, 'para': 86, 'line': 21, 'text': 'keit', 'bold': False, 'isbreak': 'yes'}
+run 990: {'page': 23, 'para': 86, 'line': 21, 'text': ' läßt sich auf eine völlige oder doch auf eine ', 'bold': False, 'isbreak': 'yes'}
+run 991: {'page': 23, 'para': 86, 'line': 22, 'text': 'noch weiter sich erstreckende, und von welcher ', 'bold': False, 'isbreak': 'yes'}
+run 992: {'page': 23, 'para': 86, 'line': 23, 'text': 'Gattung von ', 'bold': False, 'isbreak': 'yes'}
+run 993: {'page': 23, 'para': 86, 'line': 23, 'text': 'Aehnlichkeiten', 'bold': False, 'isbreak': 'yes'}
+run 994: {'page': 23, 'para': 86, 'line': 23, 'text': 'Ähnlichkeiten', 'bold': False, 'isbreak': 'yes'}
+run 995: {'page': 23, 'para': 86, 'line': 23, 'text': ' auf eine andere ', 'bold': False, 'isbreak': 'yes'}
+run 996: {'page': 23, 'para': 86, 'line': 24, 'text': 'fortschließen? Denn diese Frage: wie wahr-', 'bold': False, 'isbreak': 'no'}
+run 997: {'page': 23, 'para': 86, 'line': 25, 'text': 'scheinlich es sey, daß eine ', 'bold': False, 'isbreak': 'yes'}
+run 998: {'page': 23, 'para': 86, 'line': 25, 'text': 'Aehnlichkeit', 'bold': False, 'isbreak': 'yes'}
+run 999: {'page': 23, 'para': 86, 'line': 25, 'text': 'Ähnlichkeit', 'bold': False, 'isbreak': 'yes'}
+run 1000: {'page': 23, 'para': 86, 'line': 25, 'text': ' in einer ', 'bold': False, 'isbreak': 'yes'}
+run 1001: {'page': 23, 'para': 86, 'line': 26, 'text': 'gewissen Gattung von Beschaffenheiten, mit ', 'bold': False, 'isbreak': 'yes'}
+run 1002: {'page': 23, 'para': 86, 'line': 27, 'text': 'einer ', 'bold': False, 'isbreak': 'yes'}
+run 1003: {'page': 23, 'para': 86, 'line': 27, 'text': 'Aehnlichkeit', 'bold': False, 'isbreak': 'yes'}
+run 1004: {'page': 23, 'para': 86, 'line': 27, 'text': 'Ähnlichkeit', 'bold': False, 'isbreak': 'yes'}
+run 1005: {'page': 23, 'para': 86, 'line': 27, 'text': ' in einer andern Gattung von ', 'bold': False, 'isbreak': 'yes'}
+run 1006: {'page': 23, 'para': 86, 'line': 28, 'text': 'Beschaffenheiten verbunden sey? ist von einer ', 'bold': False, 'isbreak': 'yes'}
+run 1007: {'page': 23, 'para': 86, 'line': 29, 'text': 'andern Frage: wie weit mit dieser oder jener ', 'bold': False, 'isbreak': 'yes'}
+run 1008: {'page': 23, 'para': 86, 'line': 30, 'text': '', 'bold': False, 'isbreak': 'yes'}
+run 1009: {'page': 23, 'para': 86, 'line': 30, 'text': 'besondern', 'bold': True, 'isbreak': 'yes'}
+run 1010: {'page': 23, 'para': 86, 'line': 30, 'text': ' Beschaffenheit eine andere besondere ', 'bold': False, 'isbreak': 'yes'}
+run 1011: {'page': 23, 'para': 86, 'line': 31, 'text': 'wahrscheinlich vergesellschaftet sey? unterschie-', 'bold': False, 'isbreak': 'no'}
+run 1012: {'page': 23, 'para': 86, 'line': 32, 'text': 'den. Es giebt in den einzelnen Beyspielen ', 'bold': False, 'isbreak': 'yes'}
+run 1013: {'page': 23, 'para': 86, 'line': 33, 'text': '', 'bold': False, 'isbreak': 'yes'}
+run 1014: {'page': 23, 'para': 86, 'line': 33, 'text': 'allgemeine', 'bold': True, 'isbreak': 'yes'}
+run 1015: {'page': 23, 'para': 86, 'line': 33, 'text': ' Gründe der Analogie; und es', 'bold': False, 'isbreak': 'yes'}
+run 1016: {'page': 23, 'para': 87, 'line': 34, 'text': 'giebt', 'bold': False, 'isbreak': 'yes'}
+run 1017: {'page': 23, 'para': 88, 'line': 35, 'text': 'b 4', 'bold': False, 'isbreak': 'yes'}
+run 1018: {'page': 24, 'para': 88, 'line': 1, 'text': '', 'bold': False, 'isbreak': 'yes'}
+run 1019: {'page': 24, 'para': 88, 'line': 1, 'text': '[', 'bold': False, 'isbreak': 'yes'}
+run 1020: {'page': 24, 'para': 88, 'line': 1, 'text': 'XXIV] Vorrede.', 'bold': False, 'isbreak': 'yes'}
+run 1021: {'page': 24, 'para': 89, 'line': 2, 'text': 'giebt ', 'bold': False, 'isbreak': 'yes'}
+run 1022: {'page': 24, 'para': 89, 'line': 2, 'text': 'besondere', 'bold': True, 'isbreak': 'yes'}
+run 1023: {'page': 24, 'para': 89, 'line': 2, 'text': '. Solche mit einiger Voll', 'bold': False, 'isbreak': 'yes'}
+run 1024: {'page': 24, 'para': 89, 'line': 3, 'text': 'ständigkeit zu übersehen, dient die Spekulation ', 'bold': False, 'isbreak': 'yes'}
+run 1025: {'page': 24, 'para': 89, 'line': 4, 'text': 'des Metaphysikers als das Eine Auge, und ', 'bold': False, 'isbreak': 'yes'}
+run 1026: {'page': 24, 'para': 89, 'line': 5, 'text': 'die Beobachtung der Natur als das zweyte; ', 'bold': False, 'isbreak': 'yes'}
+run 1027: {'page': 24, 'para': 89, 'line': 6, 'text': 'wenn gleich dieß letztere das fertigste ist, wo-', 'bold': False, 'isbreak': 'no'}
+run 1028: {'page': 24, 'para': 89, 'line': 7, 'text': 'mit man am öftersten allein siehet. Es haben ', 'bold': False, 'isbreak': 'yes'}
+run 1029: {'page': 24, 'para': 89, 'line': 8, 'text': 'doch auch die Logiker und Metaphysiker durch ', 'bold': False, 'isbreak': 'yes'}
+run 1030: {'page': 24, 'para': 89, 'line': 9, 'text': 'ihre allgemeine Betrachtungen wirklich hierinn ', 'bold': False, 'isbreak': 'yes'}
+run 1031: {'page': 24, 'para': 89, 'line': 10, 'text': 'etwas vorgearbeitet, und ich wollte nur bey-', 'bold': False, 'isbreak': 'no'}
+run 1032: {'page': 24, 'para': 89, 'line': 11, 'text': 'läufig erinnern, daß man ihre Bemühungen ', 'bold': False, 'isbreak': 'yes'}
+run 1033: {'page': 24, 'para': 89, 'line': 12, 'text': 'nicht für so ganz unbedeutend anzusehen habe.', 'bold': False, 'isbreak': 'yes'}
+run 1034: {'page': 24, 'para': 90, 'line': 13, 'text': 'Als ein Beyspiel einer besondern Maxime ', 'bold': False, 'isbreak': 'yes'}
+run 1035: {'page': 24, 'para': 90, 'line': 14, 'text': 'bey dem Gebrauch der Analogie, wie Hr. ', 'bold': False, 'isbreak': 'no'}
+run 1036: {'page': 24, 'para': 90, 'line': 14, 'text': 'Bon-', 'bold': True, 'isbreak': 'no'}
+run 1037: {'page': 24, 'para': 90, 'line': 15, 'text': 'net', 'bold': True, 'isbreak': 'no'}
+run 1038: {'page': 24, 'para': 90, 'line': 15, 'text': ' sie wünschte, kann vielleicht die nachstehen-', 'bold': False, 'isbreak': 'no'}
+run 1039: {'page': 24, 'para': 90, 'line': 16, 'text': 'de Bemerkung dienen, die uns oft bey psycho-', 'bold': False, 'isbreak': 'no'}
+run 1040: {'page': 24, 'para': 90, 'line': 17, 'text': 'logischen Beobachtungen an die Hand gegeben ', 'bold': False, 'isbreak': 'yes'}
+run 1041: {'page': 24, 'para': 90, 'line': 18, 'text': 'wird. Schließt man nach der Analogie, so ', 'bold': False, 'isbreak': 'yes'}
+run 1042: {'page': 24, 'para': 90, 'line': 19, 'text': 'wird vorausgesetzt, daß die Natur einförmig ', 'bold': False, 'isbreak': 'yes'}
+run 1043: {'page': 24, 'para': 90, 'line': 20, 'text': 'und sich im Innern ähnlich sey, von der wir ', 'bold': False, 'isbreak': 'yes'}
+run 1044: {'page': 24, 'para': 90, 'line': 21, 'text': 'doch auch zugleich wissen, daß sie die Abwech-', 'bold': False, 'isbreak': 'no'}
+run 1045: {'page': 24, 'para': 90, 'line': 22, 'text': 'selung und Mannigfaltigkeit bis ins Unendli-', 'bold': False, 'isbreak': 'no'}
+run 1046: {'page': 24, 'para': 90, 'line': 23, 'text': 'che liebet. Das letztere offenbaret sich am er-', 'bold': False, 'isbreak': 'no'}
+run 1047: {'page': 24, 'para': 90, 'line': 24, 'text': 'sten und am häufigsten in den ', 'bold': False, 'isbreak': 'yes'}
+run 1048: {'page': 24, 'para': 90, 'line': 24, 'text': 'Größen', 'bold': True, 'isbreak': 'yes'}
+run 1049: {'page': 24, 'para': 90, 'line': 24, 'text': ', in ', 'bold': False, 'isbreak': 'yes'}
+run 1050: {'page': 24, 'para': 90, 'line': 25, 'text': '', 'bold': False, 'isbreak': 'no'}
+run 1051: {'page': 24, 'para': 90, 'line': 25, 'text': 'Graden', 'bold': True, 'isbreak': 'no'}
+run 1052: {'page': 24, 'para': 90, 'line': 25, 'text': ' und ', 'bold': False, 'isbreak': 'no'}
+run 1053: {'page': 24, 'para': 90, 'line': 25, 'text': 'Stufen', 'bold': True, 'isbreak': 'no'}
+run 1054: {'page': 24, 'para': 90, 'line': 25, 'text': '; die Einförmigkeit fin-', 'bold': False, 'isbreak': 'no'}
+run 1055: {'page': 24, 'para': 90, 'line': 26, 'text': 'det mehr in den absoluten ', 'bold': False, 'isbreak': 'yes'}
+run 1056: {'page': 24, 'para': 90, 'line': 26, 'text': 'Qualitäten', 'bold': True, 'isbreak': 'yes'}
+run 1057: {'page': 24, 'para': 90, 'line': 26, 'text': ' Statt. ', 'bold': False, 'isbreak': 'yes'}
+run 1058: {'page': 24, 'para': 90, 'line': 27, 'text': 'Je mehr man die Wirkungen der Natur stu-', 'bold': False, 'isbreak': 'no'}
+run 1059: {'page': 24, 'para': 90, 'line': 28, 'text': 'diert, je mehr nähert man sich der großen leib-', 'bold': False, 'isbreak': 'no'}
+run 1060: {'page': 24, 'para': 90, 'line': 29, 'text': 'nitzischen Idee, die Mannigfaltigkeit in den ', 'bold': False, 'isbreak': 'yes'}
+run 1061: {'page': 24, 'para': 90, 'line': 30, 'text': 'Dingen bestehe am Ende nur in einem ', 'bold': False, 'isbreak': 'yes'}
+run 1062: {'page': 24, 'para': 90, 'line': 30, 'text': 'Mehr', 'bold': True, 'isbreak': 'yes'}
+run 1063: {'page': 24, 'para': 90, 'line': 30, 'text': ' ', 'bold': False, 'isbreak': 'yes'}
+run 1064: {'page': 24, 'para': 90, 'line': 31, 'text': 'und ', 'bold': False, 'isbreak': 'yes'}
+run 1065: {'page': 24, 'para': 90, 'line': 31, 'text': 'Weniger', 'bold': True, 'isbreak': 'yes'}
+run 1066: {'page': 24, 'para': 90, 'line': 31, 'text': ' in den Größen', 'bold': False, 'isbreak': 'yes'}
+run 1067: {'page': 24, 'para': 90, 'line': 31, 'text': ',', 'bold': False, 'isbreak': 'yes'}
+run 1068: {'page': 24, 'para': 90, 'line': 31, 'text': ' der Grundkräfte, ', 'bold': False, 'isbreak': 'yes'}
+run 1069: {'page': 24, 'para': 90, 'line': 32, 'text': 'wobey die Kräfte selbst einerleyartig sind, und ', 'bold': False, 'isbreak': 'yes'}
+run 1070: {'page': 24, 'para': 90, 'line': 33, 'text': 'dieselbigen allgemeinen Gesetze befolgen. Aber', 'bold': False, 'isbreak': 'yes'}
+run 1071: {'page': 24, 'para': 91, 'line': 34, 'text': 'bis', 'bold': False, 'isbreak': 'yes'}
+run 1072: {'page': 25, 'para': 92, 'line': 1, 'text': '', 'bold': False, 'isbreak': 'yes'}
+run 1073: {'page': 25, 'para': 92, 'line': 1, 'text': '[', 'bold': False, 'isbreak': 'yes'}
+run 1074: {'page': 25, 'para': 92, 'line': 1, 'text': 'XXV] Vorrede.', 'bold': False, 'isbreak': 'yes'}
+run 1075: {'page': 25, 'para': 93, 'line': 2, 'text': 'bis dahin kann man nicht hinaufgehen, weder ', 'bold': False, 'isbreak': 'yes'}
+run 1076: {'page': 25, 'para': 93, 'line': 3, 'text': 'in der Naturlehre noch in der Psychologie. ', 'bold': False, 'isbreak': 'yes'}
+run 1077: {'page': 25, 'para': 93, 'line': 4, 'text': 'Wenn man auch zugeben wollte, daß wir von ', 'bold': False, 'isbreak': 'yes'}
+run 1078: {'page': 25, 'para': 93, 'line': 5, 'text': 'dieser einförmigen Urkraft der Dinge einen ', 'bold': False, 'isbreak': 'yes'}
+run 1079: {'page': 25, 'para': 93, 'line': 6, 'text': 'Begrif hätten, und daß solche eine vorstellende ', 'bold': False, 'isbreak': 'yes'}
+run 1080: {'page': 25, 'para': 93, 'line': 7, 'text': 'Kraft sey, wofür sie ', 'bold': False, 'isbreak': 'no'}
+run 1081: {'page': 25, 'para': 93, 'line': 7, 'text': 'Leibnitz', 'bold': True, 'isbreak': 'no'}
+run 1082: {'page': 25, 'para': 93, 'line': 7, 'text': ' ansah, so kön-', 'bold': False, 'isbreak': 'no'}
+run 1083: {'page': 25, 'para': 93, 'line': 8, 'text': 'nen wir doch nimmermehr in den Stand kom-', 'bold': False, 'isbreak': 'no'}
+run 1084: {'page': 25, 'para': 93, 'line': 9, 'text': 'men, die Erscheinungen der Körper bis dahin ', 'bold': False, 'isbreak': 'yes'}
+run 1085: {'page': 25, 'para': 93, 'line': 10, 'text': 'aufzulösen. Eine solche Analysis bleibet nur ', 'bold': False, 'isbreak': 'yes'}
+run 1086: {'page': 25, 'para': 93, 'line': 11, 'text': 'dem Verstand des Unendlichen vorbehalten. ', 'bold': False, 'isbreak': 'yes'}
+run 1087: {'page': 25, 'para': 93, 'line': 12, 'text': 'Unsre Erkenntniß von der wirklichen Welt er-', 'bold': False, 'isbreak': 'no'}
+run 1088: {'page': 25, 'para': 93, 'line': 13, 'text': 'fodert es, eine zwiefache Grundverschiedenheit ', 'bold': False, 'isbreak': 'yes'}
+run 1089: {'page': 25, 'para': 93, 'line': 14, 'text': 'in den Dingen anzunehmen, eine absolute in ', 'bold': False, 'isbreak': 'yes'}
+run 1090: {'page': 25, 'para': 93, 'line': 15, 'text': 'den ', 'bold': False, 'isbreak': 'no'}
+run 1091: {'page': 25, 'para': 93, 'line': 15, 'text': 'Grundkräften', 'bold': True, 'isbreak': 'no'}
+run 1092: {'page': 25, 'para': 93, 'line': 15, 'text': ' und ihren ', 'bold': False, 'isbreak': 'no'}
+run 1093: {'page': 25, 'para': 93, 'line': 15, 'text': 'Beschaffenhei', 'bold': True, 'isbreak': 'no'}
+run 1094: {'page': 25, 'para': 93, 'line': 15, 'text': '-', 'bold': False, 'isbreak': 'no'}
+run 1095: {'page': 25, 'para': 93, 'line': 16, 'text': '', 'bold': False, 'isbreak': 'yes'}
+run 1096: {'page': 25, 'para': 93, 'line': 16, 'text': 'ten', 'bold': True, 'isbreak': 'yes'}
+run 1097: {'page': 25, 'para': 93, 'line': 16, 'text': ', und noch eine andere in den ', 'bold': False, 'isbreak': 'yes'}
+run 1098: {'page': 25, 'para': 93, 'line': 16, 'text': 'Quantitäten', 'bold': True, 'isbreak': 'yes'}
+run 1099: {'page': 25, 'para': 93, 'line': 16, 'text': '.', 'bold': False, 'isbreak': 'yes'}
+run 1100: {'page': 25, 'para': 94, 'line': 17, 'text': 'Nun sage ich, „wo wir von einem Dinge ', 'bold': False, 'isbreak': 'yes'}
+run 1101: {'page': 25, 'para': 94, 'line': 18, 'text': '„auf ein anders schließen, weil gewisse Anzei-', 'bold': False, 'isbreak': 'no'}
+run 1102: {'page': 25, 'para': 94, 'line': 19, 'text': '„chen der Analogie vorhanden sind, da ist es ', 'bold': False, 'isbreak': 'yes'}
+run 1103: {'page': 25, 'para': 94, 'line': 20, 'text': '„immer zu vermuthen, daß sie verschieden sind ', 'bold': False, 'isbreak': 'yes'}
+run 1104: {'page': 25, 'para': 94, 'line': 21, 'text': '„in Hinsicht alles dessen, wobey es auf ein ', 'bold': False, 'isbreak': 'yes'}
+run 1105: {'page': 25, 'para': 94, 'line': 22, 'text': '„Mehr oder Weniger ankommt, aber dagegen ', 'bold': False, 'isbreak': 'yes'}
+run 1106: {'page': 25, 'para': 94, 'line': 23, 'text': '„einerley sind in Hinsicht der ', 'bold': False, 'isbreak': 'yes'}
+run 1107: {'page': 25, 'para': 94, 'line': 23, 'text': 'Qualitäten', 'bold': True, 'isbreak': 'yes'}
+run 1108: {'page': 25, 'para': 94, 'line': 23, 'text': '.‟ ', 'bold': False, 'isbreak': 'yes'}
+run 1109: {'page': 25, 'para': 94, 'line': 24, 'text': 'Hat man beobachtete Objekte aufgelöset, und ', 'bold': False, 'isbreak': 'yes'}
+run 1110: {'page': 25, 'para': 94, 'line': 25, 'text': 'ihre Einrichtung aus der Verbindung ihrer ', 'bold': False, 'isbreak': 'yes'}
+run 1111: {'page': 25, 'para': 94, 'line': 26, 'text': 'Bestandtheile und deren Beziehungen auf ein-', 'bold': False, 'isbreak': 'no'}
+run 1112: {'page': 25, 'para': 94, 'line': 27, 'text': 'ander begriffen, so kommt es darauf an, daß ', 'bold': False, 'isbreak': 'yes'}
+run 1113: {'page': 25, 'para': 94, 'line': 28, 'text': 'man alles absondere, was eine Größe ist, was ', 'bold': False, 'isbreak': 'yes'}
+run 1114: {'page': 25, 'para': 94, 'line': 29, 'text': 'auf Zahl, Menge, Graden der Stärke, Länge ', 'bold': False, 'isbreak': 'yes'}
+run 1115: {'page': 25, 'para': 94, 'line': 30, 'text': 'und Kürze der Zeit, Größen der Ausdehnung ', 'bold': False, 'isbreak': 'yes'}
+run 1116: {'page': 25, 'para': 94, 'line': 31, 'text': 'u. s. w. beruhet; alsdenn kann es eine Regel ', 'bold': False, 'isbreak': 'yes'}
+run 1117: {'page': 25, 'para': 94, 'line': 32, 'text': 'seyn, daß ein anders Objekt in Hinsicht der ', 'bold': False, 'isbreak': 'yes'}
+run 1118: {'page': 25, 'para': 94, 'line': 33, 'text': 'übrigen absoluten Qualitäten mit dem ersten,', 'bold': False, 'isbreak': 'yes'}
+run 1119: {'page': 25, 'para': 95, 'line': 34, 'text': 'gleich', 'bold': False, 'isbreak': 'yes'}
+run 1120: {'page': 25, 'para': 96, 'line': 35, 'text': 'b 5', 'bold': False, 'isbreak': 'yes'}
+run 1121: {'page': 26, 'para': 96, 'line': 1, 'text': '', 'bold': False, 'isbreak': 'yes'}
+run 1122: {'page': 26, 'para': 96, 'line': 1, 'text': '[', 'bold': False, 'isbreak': 'yes'}
+run 1123: {'page': 26, 'para': 96, 'line': 1, 'text': 'XXVI] Vorrede.', 'bold': False, 'isbreak': 'yes'}
+run 1124: {'page': 26, 'para': 97, 'line': 2, 'text': 'gleichartig und von einerley Natur, in Hin-', 'bold': False, 'isbreak': 'no'}
+run 1125: {'page': 26, 'para': 97, 'line': 3, 'text': 'sicht der Größen aber verschieden seyn werde, ', 'bold': False, 'isbreak': 'yes'}
+run 1126: {'page': 26, 'para': 97, 'line': 4, 'text': 'wenn nämlich sonsten Gründe zu einem analo-', 'bold': False, 'isbreak': 'no'}
+run 1127: {'page': 26, 'para': 97, 'line': 5, 'text': 'gischen Schluß vorhanden sind. So ist es, ', 'bold': False, 'isbreak': 'yes'}
+run 1128: {'page': 26, 'para': 97, 'line': 6, 'text': 'um nur in der Psychologie zu bleiben, wahr-', 'bold': False, 'isbreak': 'no'}
+run 1129: {'page': 26, 'para': 97, 'line': 7, 'text': 'scheinlicher, was aber doch auch näher bewie-', 'bold': False, 'isbreak': 'no'}
+run 1130: {'page': 26, 'para': 97, 'line': 8, 'text': 'sen werden kann, daß bey allen Arten von ', 'bold': False, 'isbreak': 'yes'}
+run 1131: {'page': 26, 'para': 97, 'line': 9, 'text': 'Vorstellungen eben dieselbige Kraftanwendun-', 'bold': False, 'isbreak': 'no'}
+run 1132: {'page': 26, 'para': 97, 'line': 10, 'text': 'gen der Seele vorgehen, und daß sie alle nach ', 'bold': False, 'isbreak': 'yes'}
+run 1133: {'page': 26, 'para': 97, 'line': 11, 'text': 'einem allgemeinen Gesetz gemacht werden, als ', 'bold': False, 'isbreak': 'yes'}
+run 1134: {'page': 26, 'para': 97, 'line': 12, 'text': 'daß hierinn die Eine Gattung wesentlich von ', 'bold': False, 'isbreak': 'yes'}
+run 1135: {'page': 26, 'para': 97, 'line': 13, 'text': 'der andern unterschieden sey; so wie es auch ', 'bold': False, 'isbreak': 'yes'}
+run 1136: {'page': 26, 'para': 97, 'line': 14, 'text': 'dagegen gewiß ist, daß die Länge, Größe und ', 'bold': False, 'isbreak': 'yes'}
+run 1137: {'page': 26, 'para': 97, 'line': 15, 'text': 'Stärke der einzelnen Seelenveränderungen ', 'bold': False, 'isbreak': 'yes'}
+run 1138: {'page': 26, 'para': 97, 'line': 16, 'text': 'bey ihnen verschieden sind. Schließen wir von ', 'bold': False, 'isbreak': 'yes'}
+run 1139: {'page': 26, 'para': 97, 'line': 17, 'text': 'Menschenseelen auf Thierseelen, so ist es solan-', 'bold': False, 'isbreak': 'no'}
+run 1140: {'page': 26, 'para': 97, 'line': 18, 'text': 'ge wahrscheinlich, daß ihr Unterschied nur ein ', 'bold': False, 'isbreak': 'yes'}
+run 1141: {'page': 26, 'para': 97, 'line': 19, 'text': '', 'bold': False, 'isbreak': 'yes'}
+run 1142: {'page': 26, 'para': 97, 'line': 19, 'text': 'Stufenunterschied', 'bold': True, 'isbreak': 'yes'}
+run 1143: {'page': 26, 'para': 97, 'line': 19, 'text': ' sey, bis ihre ', 'bold': False, 'isbreak': 'yes'}
+run 1144: {'page': 26, 'para': 97, 'line': 19, 'text': 'Aeußerungen', 'bold': False, 'isbreak': 'yes'}
+run 1145: {'page': 26, 'para': 97, 'line': 19, 'text': 'Äußerungen', 'bold': False, 'isbreak': 'yes'}
+run 1146: {'page': 26, 'para': 97, 'line': 19, 'text': ' ', 'bold': False, 'isbreak': 'yes'}
+run 1147: {'page': 26, 'para': 97, 'line': 20, 'text': 'uns auf eine weiter gehende Wesensungleich-', 'bold': False, 'isbreak': 'no'}
+run 1148: {'page': 26, 'para': 97, 'line': 21, 'text': 'artigkeit hinweisen. Solche Auflösungen der ', 'bold': False, 'isbreak': 'yes'}
+run 1149: {'page': 26, 'para': 97, 'line': 22, 'text': 'Seelenkräfte, wobey das Charakteristische jed-', 'bold': False, 'isbreak': 'no'}
+run 1150: {'page': 26, 'para': 97, 'line': 23, 'text': 'weder Klasse, die äußere Verschiedenheit aus ', 'bold': False, 'isbreak': 'yes'}
+run 1151: {'page': 26, 'para': 97, 'line': 24, 'text': 'den Gegenständen bey Seite gesetzt, auf ein ', 'bold': False, 'isbreak': 'yes'}
+run 1152: {'page': 26, 'para': 97, 'line': 25, 'text': 'Mehr und Weniger reduciret wird, haben eine ', 'bold': False, 'isbreak': 'yes'}
+run 1153: {'page': 26, 'para': 97, 'line': 26, 'text': 'stärkere Vermuthung für sich, als andere.', 'bold': False, 'isbreak': 'yes'}
+run 1154: {'page': 26, 'para': 98, 'line': 27, 'text': 'Da es aber schwer ist, und bey den fortge-', 'bold': False, 'isbreak': 'no'}
+run 1155: {'page': 26, 'para': 98, 'line': 28, 'text': 'setzten Auflösungen so gar unmöglich wird, die ', 'bold': False, 'isbreak': 'yes'}
+run 1156: {'page': 26, 'para': 98, 'line': 29, 'text': 'Quantitäten, und was daraus folget, von ', 'bold': False, 'isbreak': 'yes'}
+run 1157: {'page': 26, 'para': 98, 'line': 30, 'text': 'dem, was eine Qualität ist, genau abzuson-', 'bold': False, 'isbreak': 'no'}
+run 1158: {'page': 26, 'para': 98, 'line': 31, 'text': 'dern, so ist es begreiflich, daß eine solche Ma-', 'bold': False, 'isbreak': 'no'}
+run 1159: {'page': 26, 'para': 98, 'line': 32, 'text': 'xime, wie die hier gegebene ist, nicht erlaube, ', 'bold': False, 'isbreak': 'yes'}
+run 1160: {'page': 26, 'para': 98, 'line': 33, 'text': 'ihr blindlings zu folgen, noch uns der Mühe', 'bold': False, 'isbreak': 'yes'}
+run 1161: {'page': 26, 'para': 99, 'line': 34, 'text': 'über ', 'bold': False, 'isbreak': 'yes'}
+run 1162: {'page': 27, 'para': 99, 'line': 1, 'text': '', 'bold': False, 'isbreak': 'yes'}
+run 1163: {'page': 27, 'para': 99, 'line': 1, 'text': '[', 'bold': False, 'isbreak': 'yes'}
+run 1164: {'page': 27, 'para': 99, 'line': 1, 'text': 'XXVII] Vorrede.', 'bold': False, 'isbreak': 'yes'}
+run 1165: {'page': 27, 'para': 100, 'line': 2, 'text': 'überhebe, sorgfältig auf alle Umstände zurück ', 'bold': False, 'isbreak': 'yes'}
+run 1166: {'page': 27, 'para': 100, 'line': 3, 'text': 'zu sehen, worunter wir sie anwenden. Ver-', 'bold': False, 'isbreak': 'no'}
+run 1167: {'page': 27, 'para': 100, 'line': 4, 'text': 'schiedene neuere Philosophen finden die ', 'bold': False, 'isbreak': 'no'}
+run 1168: {'page': 27, 'para': 100, 'line': 4, 'text': 'Mate-', 'bold': True, 'isbreak': 'no'}
+run 1169: {'page': 27, 'para': 100, 'line': 5, 'text': 'rialität', 'bold': True, 'isbreak': 'yes'}
+run 1170: {'page': 27, 'para': 100, 'line': 5, 'text': ' der Seele, der Analogie, der Natur ', 'bold': False, 'isbreak': 'yes'}
+run 1171: {'page': 27, 'para': 100, 'line': 6, 'text': 'und der Stufenleiter der Dinge gemäßer, als ', 'bold': False, 'isbreak': 'yes'}
+run 1172: {'page': 27, 'para': 100, 'line': 7, 'text': 'ihre wesentliche ', 'bold': False, 'isbreak': 'yes'}
+run 1173: {'page': 27, 'para': 100, 'line': 7, 'text': 'Verschiedenartigkeit', 'bold': True, 'isbreak': 'yes'}
+run 1174: {'page': 27, 'para': 100, 'line': 7, 'text': ' von dem ', 'bold': False, 'isbreak': 'yes'}
+run 1175: {'page': 27, 'para': 100, 'line': 8, 'text': 'Körper. Die Natur gehet herauf von gröbe-', 'bold': False, 'isbreak': 'no'}
+run 1176: {'page': 27, 'para': 100, 'line': 9, 'text': 'rer zu feinerer Organisation in ihren zusam-', 'bold': False, 'isbreak': 'no'}
+run 1177: {'page': 27, 'para': 100, 'line': 10, 'text': 'mengesetzten Wesen, aber von der Organisa-', 'bold': False, 'isbreak': 'no'}
+run 1178: {'page': 27, 'para': 100, 'line': 11, 'text': 'tion zur Immaterialität scheinet ein Sprung zu ', 'bold': False, 'isbreak': 'yes'}
+run 1179: {'page': 27, 'para': 100, 'line': 12, 'text': 'seyn, der sich nicht wohl von ihr erwarten läßt. ', 'bold': False, 'isbreak': 'yes'}
+run 1180: {'page': 27, 'para': 100, 'line': 13, 'text': 'Mich deucht, es lasse sich dieselbige Art zu ', 'bold': False, 'isbreak': 'no'}
+run 1181: {'page': 27, 'para': 100, 'line': 13, 'text': 'schliessen', 'bold': False, 'isbreak': 'no'}
+run 1182: {'page': 27, 'para': 100, 'line': 13, 'text': 'schließ', 'bold': False, 'isbreak': 'no'}
+run 1183: {'page': 27, 'para': 100, 'line': 13, 'text': '-', 'bold': False, 'isbreak': 'no'}
+run 1184: {'page': 27, 'para': 100, 'line': 14, 'text': '', 'bold': False, 'isbreak': 'no'}
+run 1185: {'page': 27, 'para': 100, 'line': 14, 'text': 'en', 'bold': False, 'isbreak': 'no'}
+run 1186: {'page': 27, 'para': 100, 'line': 14, 'text': ' umkehren, und eben so gut für die Imma-', 'bold': False, 'isbreak': 'no'}
+run 1187: {'page': 27, 'para': 100, 'line': 15, 'text': 'terialität der Seele gebrauchen, als gegen sie, ', 'bold': False, 'isbreak': 'yes'}
+run 1188: {'page': 27, 'para': 100, 'line': 16, 'text': 'und vielleicht noch besser. Fangen wir bey den ', 'bold': False, 'isbreak': 'yes'}
+run 1189: {'page': 27, 'para': 100, 'line': 17, 'text': 'Pflanzen und organisirten nicht beseelten We-', 'bold': False, 'isbreak': 'no'}
+run 1190: {'page': 27, 'para': 100, 'line': 18, 'text': 'sen an, und gehen zu den Thieren über', 'bold': False, 'isbreak': 'no'}
+run 1191: {'page': 27, 'para': 100, 'line': 18, 'text': ',', 'bold': False, 'isbreak': 'no'}
+run 1192: {'page': 27, 'para': 100, 'line': 18, 'text': ';', 'bold': False, 'isbreak': 'no'}
+run 1193: {'page': 27, 'para': 100, 'line': 18, 'text': ' so se-', 'bold': False, 'isbreak': 'no'}
+run 1194: {'page': 27, 'para': 100, 'line': 19, 'text': 'hen wir auf Wesen, in welchen das ', 'bold': False, 'isbreak': 'yes'}
+run 1195: {'page': 27, 'para': 100, 'line': 19, 'text': 'innere ', 'bold': True, 'isbreak': 'yes'}
+run 1196: {'page': 27, 'para': 100, 'line': 20, 'text': 'Princip', 'bold': True, 'isbreak': 'yes'}
+run 1197: {'page': 27, 'para': 100, 'line': 20, 'text': ' ihrer Lebensbewegungen durch alle ', 'bold': False, 'isbreak': 'yes'}
+run 1198: {'page': 27, 'para': 100, 'line': 21, 'text': 'Theile des ', 'bold': False, 'isbreak': 'yes'}
+run 1199: {'page': 27, 'para': 100, 'line': 21, 'text': 'Ganzen', 'bold': True, 'isbreak': 'yes'}
+run 1200: {'page': 27, 'para': 100, 'line': 21, 'text': ' fast gleichförmig vertheilet ', 'bold': False, 'isbreak': 'yes'}
+run 1201: {'page': 27, 'para': 100, 'line': 22, 'text': 'ist, andere Wesen in der Stufenleiter stehen, ', 'bold': False, 'isbreak': 'yes'}
+run 1202: {'page': 27, 'para': 100, 'line': 23, 'text': 'wo solches mehr auf gewisse innere Theile, auf ', 'bold': False, 'isbreak': 'yes'}
+run 1203: {'page': 27, 'para': 100, 'line': 24, 'text': 'ein Gehirn, oder auf ein Fibern- und Nerven-', 'bold': False, 'isbreak': 'no'}
+run 1204: {'page': 27, 'para': 100, 'line': 25, 'text': 'system zusammengezogen ist. In den Poly-', 'bold': False, 'isbreak': 'no'}
+run 1205: {'page': 27, 'para': 100, 'line': 26, 'text': 'pen sind die Principe der Empfindlichkeit und ', 'bold': False, 'isbreak': 'yes'}
+run 1206: {'page': 27, 'para': 100, 'line': 27, 'text': 'der Bewegung wie in den Pflanzen allenthal-', 'bold': False, 'isbreak': 'no'}
+run 1207: {'page': 27, 'para': 100, 'line': 28, 'text': 'ben verbreitet, aber in den Polypen sind sie ', 'bold': False, 'isbreak': 'yes'}
+run 1208: {'page': 27, 'para': 100, 'line': 29, 'text': 'mehr und genauer mit einander zu Einem ', 'bold': False, 'isbreak': 'yes'}
+run 1209: {'page': 27, 'para': 100, 'line': 30, 'text': 'Ganzen vereinigt, haben mehr Gemeinschaft ', 'bold': False, 'isbreak': 'yes'}
+run 1210: {'page': 27, 'para': 100, 'line': 31, 'text': 'mit einander, und machen ein inniger verbun-', 'bold': False, 'isbreak': 'no'}
+run 1211: {'page': 27, 'para': 100, 'line': 32, 'text': 'denes Eins aus, als die vegetirende Kraft in ', 'bold': False, 'isbreak': 'yes'}
+run 1212: {'page': 27, 'para': 100, 'line': 33, 'text': 'den Pflanzen, die ', 'bold': False, 'isbreak': 'yes'}
+run 1213: {'page': 27, 'para': 100, 'line': 33, 'text': 'mehr', 'bold': True, 'isbreak': 'yes'}
+run 1214: {'page': 27, 'para': 100, 'line': 33, 'text': ' in jedem Theil für sich', 'bold': False, 'isbreak': 'yes'}
+run 1215: {'page': 27, 'para': 101, 'line': 34, 'text': 'abge- ', 'bold': False, 'isbreak': 'no'}
+run 1216: {'page': 28, 'para': 101, 'line': 1, 'text': '', 'bold': False, 'isbreak': 'yes'}
+run 1217: {'page': 28, 'para': 101, 'line': 1, 'text': '[', 'bold': False, 'isbreak': 'yes'}
+run 1218: {'page': 28, 'para': 101, 'line': 1, 'text': 'XXVIII] Vorrede.', 'bold': False, 'isbreak': 'yes'}
+run 1219: {'page': 28, 'para': 102, 'line': 2, 'text': 'abgesondert ist, ob sie gleich auch hier ein Eins ', 'bold': False, 'isbreak': 'yes'}
+run 1220: {'page': 28, 'para': 102, 'line': 3, 'text': 'ausmacht, und einen gewissen Hauptsitz hat. ', 'bold': False, 'isbreak': 'yes'}
+run 1221: {'page': 28, 'para': 102, 'line': 4, 'text': 'Dieser Unterschied kann allerdings auf ein ', 'bold': False, 'isbreak': 'yes'}
+run 1222: {'page': 28, 'para': 102, 'line': 5, 'text': 'Mehr oder Weniger beruhen und Stufenver-', 'bold': False, 'isbreak': 'no'}
+run 1223: {'page': 28, 'para': 102, 'line': 6, 'text': 'schiedenheit seyn. In den Insekten, die sich ', 'bold': False, 'isbreak': 'yes'}
+run 1224: {'page': 28, 'para': 102, 'line': 7, 'text': 'nicht aus jeden Stücken wieder ergänzen, schei-', 'bold': False, 'isbreak': 'no'}
+run 1225: {'page': 28, 'para': 102, 'line': 8, 'text': 'net, das Nervensystem schon irgendwo eine ', 'bold': False, 'isbreak': 'yes'}
+run 1226: {'page': 28, 'para': 102, 'line': 9, 'text': 'besondere Stelle zu haben, wo das vornehmste ', 'bold': False, 'isbreak': 'yes'}
+run 1227: {'page': 28, 'para': 102, 'line': 10, 'text': 'Princip der Thierheit seinen Sitz hat. In ', 'bold': False, 'isbreak': 'yes'}
+run 1228: {'page': 28, 'para': 102, 'line': 11, 'text': 'den Thieren mit einem eigentlichen Gehirn geht ', 'bold': False, 'isbreak': 'yes'}
+run 1229: {'page': 28, 'para': 102, 'line': 12, 'text': 'dieß noch weiter. Diese sind in einem höhern ', 'bold': False, 'isbreak': 'yes'}
+run 1230: {'page': 28, 'para': 102, 'line': 13, 'text': 'Grade ', 'bold': False, 'isbreak': 'yes'}
+run 1231: {'page': 28, 'para': 102, 'line': 13, 'text': 'Einheiten', 'bold': True, 'isbreak': 'yes'}
+run 1232: {'page': 28, 'para': 102, 'line': 13, 'text': '. Denn sie haben Einen ', 'bold': False, 'isbreak': 'yes'}
+run 1233: {'page': 28, 'para': 102, 'line': 14, 'text': 'Mittelpunkt, wohin alle Eindrücke von außen ', 'bold': False, 'isbreak': 'yes'}
+run 1234: {'page': 28, 'para': 102, 'line': 15, 'text': 'sich vereinigen, und woher alle Thätigkeiten ', 'bold': False, 'isbreak': 'yes'}
+run 1235: {'page': 28, 'para': 102, 'line': 16, 'text': 'von innen herausgehen. Wenn man nun in ', 'bold': False, 'isbreak': 'yes'}
+run 1236: {'page': 28, 'para': 102, 'line': 17, 'text': 'dieser Stufenleiter hinaufsteiget, der Analo-', 'bold': False, 'isbreak': 'no'}
+run 1237: {'page': 28, 'para': 102, 'line': 18, 'text': 'gie der Natur, und ihrer Mannigfaltigkeit in ', 'bold': False, 'isbreak': 'yes'}
+run 1238: {'page': 28, 'para': 102, 'line': 19, 'text': 'allen, wobey ein Mehr und Weniger statt fin-', 'bold': False, 'isbreak': 'no'}
+run 1239: {'page': 28, 'para': 102, 'line': 20, 'text': 'det, gemäß, so meine ich, man müsse von selbst ', 'bold': False, 'isbreak': 'yes'}
+run 1240: {'page': 28, 'para': 102, 'line': 21, 'text': 'Eine Gattung von zusammengesetzten Wesen ', 'bold': False, 'isbreak': 'yes'}
+run 1241: {'page': 28, 'para': 102, 'line': 22, 'text': 'vermuthen, wo dieser Mittelpunkt der Empfin-', 'bold': False, 'isbreak': 'no'}
+run 1242: {'page': 28, 'para': 102, 'line': 23, 'text': 'dungen und der Bewegungen, das regierende ', 'bold': False, 'isbreak': 'yes'}
+run 1243: {'page': 28, 'para': 102, 'line': 24, 'text': 'Princip des Systems oder die Entelechia des-', 'bold': False, 'isbreak': 'no'}
+run 1244: {'page': 28, 'para': 102, 'line': 25, 'text': 'selben, oder, in der Sprache der Chemisten, ', 'bold': False, 'isbreak': 'yes'}
+run 1245: {'page': 28, 'para': 102, 'line': 26, 'text': 'der ', 'bold': False, 'isbreak': 'yes'}
+run 1246: {'page': 28, 'para': 102, 'line': 26, 'text': 'Spiritus Rector', 'bold': False, 'isbreak': 'yes'}
+run 1247: {'page': 28, 'para': 102, 'line': 26, 'text': '[', 'bold': False, 'isbreak': 'yes'}
+run 1248: {'page': 28, 'para': 102, 'line': 26, 'text': '[note: in Latin letters]], eine völlige das ist eine ', 'bold': False, 'isbreak': 'yes'}
+run 1249: {'page': 28, 'para': 102, 'line': 27, 'text': '', 'bold': False, 'isbreak': 'no'}
+run 1250: {'page': 28, 'para': 102, 'line': 27, 'text': 'substanzielle Einheit', 'bold': True, 'isbreak': 'no'}
+run 1251: {'page': 28, 'para': 102, 'line': 27, 'text': ' sey oder Ein für sich be-', 'bold': False, 'isbreak': 'no'}
+run 1252: {'page': 28, 'para': 102, 'line': 28, 'text': 'stehendes Ding. Die Demokratie führt durch ', 'bold': False, 'isbreak': 'yes'}
+run 1253: {'page': 28, 'para': 102, 'line': 29, 'text': 'eine Stufenleiter über die Aristokratie zur Mo-', 'bold': False, 'isbreak': 'no'}
+run 1254: {'page': 28, 'para': 102, 'line': 30, 'text': 'narchie. Warum nicht auf eine ähnliche Art ', 'bold': False, 'isbreak': 'yes'}
+run 1255: {'page': 28, 'para': 102, 'line': 31, 'text': 'die Pflanzen- und Polypenorganisation zu der ', 'bold': False, 'isbreak': 'yes'}
+run 1256: {'page': 28, 'para': 102, 'line': 32, 'text': 'Menschlichen? In jener ist es ein ganzes Ag-', 'bold': False, 'isbreak': 'no'}
+run 1257: {'page': 28, 'para': 102, 'line': 33, 'text': 'gregat von Wesen in Verbindung mit einan- ', 'bold': False, 'isbreak': 'no'}
+run 1258: {'page': 28, 'para': 103, 'line': 34, 'text': 'der,', 'bold': False, 'isbreak': 'yes'}
+run 1259: {'page': 29, 'para': 104, 'line': 1, 'text': '', 'bold': False, 'isbreak': 'yes'}
+run 1260: {'page': 29, 'para': 104, 'line': 1, 'text': '[', 'bold': False, 'isbreak': 'yes'}
+run 1261: {'page': 29, 'para': 104, 'line': 1, 'text': 'XXIX] Vorrede.', 'bold': False, 'isbreak': 'yes'}
+run 1262: {'page': 29, 'para': 105, 'line': 2, 'text': 'der, davon jedwedes einzelne einen fast glei-', 'bold': False, 'isbreak': 'no'}
+run 1263: {'page': 29, 'para': 105, 'line': 3, 'text': 'chen Antheil an dem ganzen regierenden Prin-', 'bold': False, 'isbreak': 'no'}
+run 1264: {'page': 29, 'para': 105, 'line': 4, 'text': 'cip hat; in diesem ist eine einzige Substanz, ', 'bold': False, 'isbreak': 'yes'}
+run 1265: {'page': 29, 'para': 105, 'line': 5, 'text': 'die als Ich die Herrschaft führt, oder doch we-', 'bold': False, 'isbreak': 'no'}
+run 1266: {'page': 29, 'para': 105, 'line': 6, 'text': 'nigstens überwiegende Vorzüge hat. Wenn ', 'bold': False, 'isbreak': 'yes'}
+run 1267: {'page': 29, 'para': 105, 'line': 7, 'text': 'der Mensch auf dieser äußersten Stufe stehet, ', 'bold': False, 'isbreak': 'yes'}
+run 1268: {'page': 29, 'para': 105, 'line': 8, 'text': 'so ist es wiederum der Analogie der Natur ge-', 'bold': False, 'isbreak': 'no'}
+run 1269: {'page': 29, 'para': 105, 'line': 9, 'text': 'mäß, nach welcher keine einzelne Beschaffen-', 'bold': False, 'isbreak': 'no'}
+run 1270: {'page': 29, 'para': 105, 'line': 10, 'text': 'heit Einer Gattung von Dingen allein zu-', 'bold': False, 'isbreak': 'no'}
+run 1271: {'page': 29, 'para': 105, 'line': 11, 'text': 'kommt, daß dieselbige Einheit einer Seele, als ', 'bold': False, 'isbreak': 'yes'}
+run 1272: {'page': 29, 'para': 105, 'line': 12, 'text': 'herrschenden Substanz, auch in noch mehrern ', 'bold': False, 'isbreak': 'yes'}
+run 1273: {'page': 29, 'para': 105, 'line': 13, 'text': 'Thierarten vorhanden sey, obgleich die Herr-', 'bold': False, 'isbreak': 'no'}
+run 1274: {'page': 29, 'para': 105, 'line': 14, 'text': 'schaft der Seele in ihnen mehr eingeschränkt ist, ', 'bold': False, 'isbreak': 'yes'}
+run 1275: {'page': 29, 'para': 105, 'line': 15, 'text': 'wobey eine unendliche Mannigfaltigkeit in ', 'bold': False, 'isbreak': 'yes'}
+run 1276: {'page': 29, 'para': 105, 'line': 16, 'text': 'Graden Statt finden kann.', 'bold': False, 'isbreak': 'yes'}
+run 1277: {'page': 29, 'para': 106, 'line': 17, 'text': 'So sorgfältig ich übrigens die Einmischung ', 'bold': False, 'isbreak': 'yes'}
+run 1278: {'page': 29, 'para': 106, 'line': 18, 'text': 'der Hypothesen unter den Erfahrungssätzen zu ', 'bold': False, 'isbreak': 'yes'}
+run 1279: {'page': 29, 'para': 106, 'line': 19, 'text': 'vermeiden gesucht, so habe ich deswegen mich ', 'bold': False, 'isbreak': 'yes'}
+run 1280: {'page': 29, 'para': 106, 'line': 20, 'text': 'doch nicht enthalten, Folgerungen und Schlüs-', 'bold': False, 'isbreak': 'no'}
+run 1281: {'page': 29, 'para': 106, 'line': 21, 'text': 'se aus den Beobachtungen zu ziehen, und sie ', 'bold': False, 'isbreak': 'yes'}
+run 1282: {'page': 29, 'para': 106, 'line': 22, 'text': 'dadurch zu verbinden. Auch habe ichs mir hie ', 'bold': False, 'isbreak': 'yes'}
+run 1283: {'page': 29, 'para': 106, 'line': 23, 'text': 'und da erlaubet, eine Anwendung von allge-', 'bold': False, 'isbreak': 'no'}
+run 1284: {'page': 29, 'para': 106, 'line': 24, 'text': 'meinen Betrachtungen zu machen. Die Er-', 'bold': False, 'isbreak': 'no'}
+run 1285: {'page': 29, 'para': 106, 'line': 25, 'text': 'fahrungen sind jedesmal von den Raisonne-', 'bold': False, 'isbreak': 'no'}
+run 1286: {'page': 29, 'para': 106, 'line': 26, 'text': 'ments', 'bold': False, 'isbreak': 'no'}
+run 1287: {'page': 29, 'para': 106, 'line': 26, 'text': ',', 'bold': False, 'isbreak': 'no'}
+run 1288: {'page': 29, 'para': 106, 'line': 26, 'text': ' die man über sie anstellet, zu unter-', 'bold': False, 'isbreak': 'no'}
+run 1289: {'page': 29, 'para': 106, 'line': 27, 'text': 'scheiden, aber es ist hier desto mehr erlaubet, ', 'bold': False, 'isbreak': 'yes'}
+run 1290: {'page': 29, 'para': 106, 'line': 28, 'text': 'sie darunter zu mischen, da man in der Psycho-', 'bold': False, 'isbreak': 'no'}
+run 1291: {'page': 29, 'para': 106, 'line': 29, 'text': 'logie an simpeln Aufzählungen der Begeben-', 'bold': False, 'isbreak': 'no'}
+run 1292: {'page': 29, 'para': 106, 'line': 30, 'text': 'heiten noch nicht so gewöhnt ist, als in der Na-', 'bold': False, 'isbreak': 'no'}
+run 1293: {'page': 29, 'para': 106, 'line': 31, 'text': 'turlehre. Zum Theil ist es hier auch schwe-', 'bold': False, 'isbreak': 'no'}
+run 1294: {'page': 29, 'para': 106, 'line': 32, 'text': 'rer, die Raisonnements so strenge abzusondern. ', 'bold': False, 'isbreak': 'yes'}
+run 1295: {'page': 29, 'para': 106, 'line': 33, 'text': 'Sollte eine völlige Umarbeitung der Seelen-', 'bold': False, 'isbreak': 'no'}
+run 1296: {'page': 29, 'para': 107, 'line': 34, 'text': 'lehre', 'bold': False, 'isbreak': 'yes'}
+run 1297: {'page': 30, 'para': 108, 'line': 1, 'text': '', 'bold': False, 'isbreak': 'yes'}
+run 1298: {'page': 30, 'para': 108, 'line': 1, 'text': '[', 'bold': False, 'isbreak': 'yes'}
+run 1299: {'page': 30, 'para': 108, 'line': 1, 'text': 'XXX] Vorrede.', 'bold': False, 'isbreak': 'yes'}
+run 1300: {'page': 30, 'para': 109, 'line': 2, 'text': 'lehre noch einmal es nöthig machen, auch hier-', 'bold': False, 'isbreak': 'no'}
+run 1301: {'page': 30, 'para': 109, 'line': 3, 'text': 'inn genauer die Methoden der Naturlehrer zu ', 'bold': False, 'isbreak': 'yes'}
+run 1302: {'page': 30, 'para': 109, 'line': 4, 'text': 'befolgen, so kann es vor der Hand doch nicht ', 'bold': False, 'isbreak': 'yes'}
+run 1303: {'page': 30, 'para': 109, 'line': 5, 'text': 'schaden, daß zugleich raisonnirt und beobach-', 'bold': False, 'isbreak': 'no'}
+run 1304: {'page': 30, 'para': 109, 'line': 6, 'text': 'tet wird. Am Ende sind es doch die Reflexio-', 'bold': False, 'isbreak': 'no'}
+run 1305: {'page': 30, 'para': 109, 'line': 7, 'text': 'nen und Schlüsse, die die simpeln Beobach-', 'bold': False, 'isbreak': 'no'}
+run 1306: {'page': 30, 'para': 109, 'line': 8, 'text': 'tungen erst recht brauchbar machen, und ohne ', 'bold': False, 'isbreak': 'yes'}
+run 1307: {'page': 30, 'para': 109, 'line': 9, 'text': 'die wir beständig nur auf der äußern Flä-', 'bold': False, 'isbreak': 'no'}
+run 1308: {'page': 30, 'para': 109, 'line': 10, 'text': 'che der Dinge bleiben müßten. Aber meine ', 'bold': False, 'isbreak': 'yes'}
+run 1309: {'page': 30, 'para': 109, 'line': 11, 'text': 'Absicht in diesen Versuchen hat es erfodert, ', 'bold': False, 'isbreak': 'yes'}
+run 1310: {'page': 30, 'para': 109, 'line': 12, 'text': 'theils die eingestreueten Raisonnements nir-', 'bold': False, 'isbreak': 'no'}
+run 1311: {'page': 30, 'para': 109, 'line': 13, 'text': 'gends weiter zu verfolgen, als bis dahin, wo ', 'bold': False, 'isbreak': 'yes'}
+run 1312: {'page': 30, 'para': 109, 'line': 14, 'text': 'ihre ', 'bold': False, 'isbreak': 'yes'}
+run 1313: {'page': 30, 'para': 109, 'line': 14, 'text': 'Uebereinstimmung', 'bold': False, 'isbreak': 'yes'}
+run 1314: {'page': 30, 'para': 109, 'line': 14, 'text': 'Übereinstimmung', 'bold': False, 'isbreak': 'yes'}
+run 1315: {'page': 30, 'para': 109, 'line': 14, 'text': ' mit den Erfahrungen ', 'bold': False, 'isbreak': 'yes'}
+run 1316: {'page': 30, 'para': 109, 'line': 15, 'text': 'noch offenbar ist; theils sie nicht anders anzu-', 'bold': False, 'isbreak': 'no'}
+run 1317: {'page': 30, 'para': 109, 'line': 16, 'text': 'bringen, als wo ich glaubte, daß sie und ihre ', 'bold': False, 'isbreak': 'yes'}
+run 1318: {'page': 30, 'para': 109, 'line': 17, 'text': 'Gründe eben so evident seyn würden, als die ', 'bold': False, 'isbreak': 'yes'}
+run 1319: {'page': 30, 'para': 109, 'line': 18, 'text': 'Beobachtungen selbst. Der Geist des Sy-', 'bold': False, 'isbreak': 'no'}
+run 1320: {'page': 30, 'para': 109, 'line': 19, 'text': 'stems verleitet sonsten eben so sehr, als die ', 'bold': False, 'isbreak': 'yes'}
+run 1321: {'page': 30, 'para': 109, 'line': 20, 'text': 'Phantasie, und ich habe es so lebhaft gefühlet, ', 'bold': False, 'isbreak': 'yes'}
+run 1322: {'page': 30, 'para': 109, 'line': 21, 'text': 'wie schwer es sey, unser Inneres so zu sehen, ', 'bold': False, 'isbreak': 'yes'}
+run 1323: {'page': 30, 'para': 109, 'line': 22, 'text': 'wie es ist, daß es mich nicht befremden wird, ', 'bold': False, 'isbreak': 'yes'}
+run 1324: {'page': 30, 'para': 109, 'line': 23, 'text': 'wenn man finden sollte, ich hätte hie und da ', 'bold': False, 'isbreak': 'yes'}
+run 1325: {'page': 30, 'para': 109, 'line': 24, 'text': 'ein Raisonnement für eine Beobachtung angese-', 'bold': False, 'isbreak': 'no'}
+run 1326: {'page': 30, 'para': 109, 'line': 25, 'text': 'hen.', 'bold': False, 'isbreak': 'yes'}
+run 1327: {'page': 30, 'para': 110, 'line': 26, 'text': 'Ich wiederhole die Erklärung, daß es ', 'bold': False, 'isbreak': 'yes'}
+run 1328: {'page': 30, 'para': 110, 'line': 27, 'text': 'mein fester Vorsatz gewesen sey, auf nichts zu ', 'bold': False, 'isbreak': 'yes'}
+run 1329: {'page': 30, 'para': 110, 'line': 28, 'text': 'fußen, als was entweder unmittelbare Beob-', 'bold': False, 'isbreak': 'no'}
+run 1330: {'page': 30, 'para': 110, 'line': 29, 'text': 'achtung selbst ist, oder evidente und durch die ', 'bold': False, 'isbreak': 'yes'}
+run 1331: {'page': 30, 'para': 110, 'line': 30, 'text': '', 'bold': False, 'isbreak': 'no'}
+run 1332: {'page': 30, 'para': 110, 'line': 30, 'text': 'Uebereinstimmung', 'bold': False, 'isbreak': 'no'}
+run 1333: {'page': 30, 'para': 110, 'line': 30, 'text': 'Übereinstimmung', 'bold': False, 'isbreak': 'no'}
+run 1334: {'page': 30, 'para': 110, 'line': 30, 'text': ' der Beobachtungen bestä-', 'bold': False, 'isbreak': 'no'}
+run 1335: {'page': 30, 'para': 110, 'line': 31, 'text': 'tigte Vernunft. Diese Absicht vor Augen, ', 'bold': False, 'isbreak': 'yes'}
+run 1336: {'page': 30, 'para': 110, 'line': 32, 'text': 'habe ichs versuchet, die Fähigkeiten der Seele ', 'bold': False, 'isbreak': 'yes'}
+run 1337: {'page': 30, 'para': 110, 'line': 33, 'text': 'in die einfachsten Vermögen aufzulösen, und', 'bold': False, 'isbreak': 'yes'}
+run 1338: {'page': 30, 'para': 111, 'line': 34, 'text': 'zu', 'bold': False, 'isbreak': 'yes'}
+run 1339: {'page': 31, 'para': 112, 'line': 1, 'text': '', 'bold': False, 'isbreak': 'yes'}
+run 1340: {'page': 31, 'para': 112, 'line': 1, 'text': '[', 'bold': False, 'isbreak': 'yes'}
+run 1341: {'page': 31, 'para': 112, 'line': 1, 'text': 'XXXI] Vorrede.', 'bold': False, 'isbreak': 'yes'}
+run 1342: {'page': 31, 'para': 113, 'line': 2, 'text': 'zu den ersten Anfängen dieser Vermögen in der ', 'bold': False, 'isbreak': 'yes'}
+run 1343: {'page': 31, 'para': 113, 'line': 3, 'text': 'Grundkraft mich so weit hin zu nähern, als ', 'bold': False, 'isbreak': 'yes'}
+run 1344: {'page': 31, 'para': 113, 'line': 4, 'text': 'ichs möglich fand. Mit den Erkenntnißfähig-', 'bold': False, 'isbreak': 'no'}
+run 1345: {'page': 31, 'para': 113, 'line': 5, 'text': 'keiten ist der Anfang gemacht. Hier haben ', 'bold': False, 'isbreak': 'yes'}
+run 1346: {'page': 31, 'para': 113, 'line': 6, 'text': 'fast alle Psychologen den Eingang zu dem In-', 'bold': False, 'isbreak': 'no'}
+run 1347: {'page': 31, 'para': 113, 'line': 7, 'text': 'nern der Seele am offensten gefunden, und es ', 'bold': False, 'isbreak': 'yes'}
+run 1348: {'page': 31, 'para': 113, 'line': 8, 'text': 'beweiset der Erfolg, daß wirklich die Seele ', 'bold': False, 'isbreak': 'yes'}
+run 1349: {'page': 31, 'para': 113, 'line': 9, 'text': 'sich an dieser Seite am deutlichsten äußere, da ', 'bold': False, 'isbreak': 'yes'}
+run 1350: {'page': 31, 'para': 113, 'line': 10, 'text': 'keine andere Art von ihren ', 'bold': False, 'isbreak': 'yes'}
+run 1351: {'page': 31, 'para': 113, 'line': 10, 'text': 'Aeußerungen', 'bold': False, 'isbreak': 'yes'}
+run 1352: {'page': 31, 'para': 113, 'line': 10, 'text': 'Äußerungen', 'bold': False, 'isbreak': 'yes'}
+run 1353: {'page': 31, 'para': 113, 'line': 10, 'text': ' sich ', 'bold': False, 'isbreak': 'yes'}
+run 1354: {'page': 31, 'para': 113, 'line': 11, 'text': 'so gut zergliedern lässet, als Vorstellungen ', 'bold': False, 'isbreak': 'yes'}
+run 1355: {'page': 31, 'para': 113, 'line': 12, 'text': 'und Gedanken.', 'bold': False, 'isbreak': 'yes'}
+run 1356: {'page': 31, 'para': 114, 'line': 13, 'text': 'Diese ersten Untersuchungen setzen uns in ', 'bold': False, 'isbreak': 'yes'}
+run 1357: {'page': 31, 'para': 114, 'line': 14, 'text': 'den Stand, besser die neuern Hypothesen über ', 'bold': False, 'isbreak': 'yes'}
+run 1358: {'page': 31, 'para': 114, 'line': 15, 'text': 'die Natur unsers Seelenwesens zu beurtheilen. ', 'bold': False, 'isbreak': 'yes'}
+run 1359: {'page': 31, 'para': 114, 'line': 16, 'text': 'Die ', 'bold': False, 'isbreak': 'yes'}
+run 1360: {'page': 31, 'para': 114, 'line': 16, 'text': 'Bonnetische', 'bold': True, 'isbreak': 'yes'}
+run 1361: {'page': 31, 'para': 114, 'line': 16, 'text': ' verdient vor andern die ', 'bold': False, 'isbreak': 'yes'}
+run 1362: {'page': 31, 'para': 114, 'line': 17, 'text': 'sorgfältigste Prüfung. Sie kann die ', 'bold': False, 'isbreak': 'no'}
+run 1363: {'page': 31, 'para': 114, 'line': 17, 'text': 'Bonne-', 'bold': True, 'isbreak': 'no'}
+run 1364: {'page': 31, 'para': 114, 'line': 18, 'text': 'tische', 'bold': True, 'isbreak': 'yes'}
+run 1365: {'page': 31, 'para': 114, 'line': 18, 'text': ' heißen, ob gleich Hr. Bonnet nicht der ', 'bold': False, 'isbreak': 'yes'}
+run 1366: {'page': 31, 'para': 114, 'line': 19, 'text': 'erste ist, der sie vorgetragen hat. Denn wenn ', 'bold': False, 'isbreak': 'yes'}
+run 1367: {'page': 31, 'para': 114, 'line': 20, 'text': 'man bis auf ihre erste Anlage zurück gehen ', 'bold': False, 'isbreak': 'yes'}
+run 1368: {'page': 31, 'para': 114, 'line': 21, 'text': 'wollte, so würde sich solche, wie fast zu allen ', 'bold': False, 'isbreak': 'yes'}
+run 1369: {'page': 31, 'para': 114, 'line': 22, 'text': 'andern von den Neuern weiter entwickelten ', 'bold': False, 'isbreak': 'yes'}
+run 1370: {'page': 31, 'para': 114, 'line': 23, 'text': 'Ideen, bey den alten Philosophen schon fin-', 'bold': False, 'isbreak': 'no'}
+run 1371: {'page': 31, 'para': 114, 'line': 24, 'text': 'den lassen. Die aristotelische Idee von der ', 'bold': False, 'isbreak': 'yes'}
+run 1372: {'page': 31, 'para': 114, 'line': 25, 'text': 'Seele als einer ', 'bold': False, 'isbreak': 'no'}
+run 1373: {'page': 31, 'para': 114, 'line': 25, 'text': 'substanziellen Form', 'bold': True, 'isbreak': 'no'}
+run 1374: {'page': 31, 'para': 114, 'line': 25, 'text': ' des thie-', 'bold': False, 'isbreak': 'no'}
+run 1375: {'page': 31, 'para': 114, 'line': 26, 'text': 'rischen Körpers scheint nicht weit von der neuen ', 'bold': False, 'isbreak': 'yes'}
+run 1376: {'page': 31, 'para': 114, 'line': 27, 'text': 'Idee, die sie zu einer substanziellen Kraft des ', 'bold': False, 'isbreak': 'yes'}
+run 1377: {'page': 31, 'para': 114, 'line': 28, 'text': 'Gehirns macht, entfernet zu seyn. Gleich-', 'bold': False, 'isbreak': 'no'}
+run 1378: {'page': 31, 'para': 114, 'line': 29, 'text': 'wohl kann Hr. ', 'bold': False, 'isbreak': 'yes'}
+run 1379: {'page': 31, 'para': 114, 'line': 29, 'text': 'Bonnet', 'bold': True, 'isbreak': 'yes'}
+run 1380: {'page': 31, 'para': 114, 'line': 29, 'text': ', so viel ich weiß, auf ', 'bold': False, 'isbreak': 'yes'}
+run 1381: {'page': 31, 'para': 114, 'line': 30, 'text': 'die Ehre Anspruch machen, diese Hypothese ', 'bold': False, 'isbreak': 'yes'}
+run 1382: {'page': 31, 'para': 114, 'line': 31, 'text': 'aufs genaueste bestimmet, sie deutlich und aus-', 'bold': False, 'isbreak': 'no'}
+run 1383: {'page': 31, 'para': 114, 'line': 32, 'text': 'führlich entwickelt, zur Erklärung der beson-', 'bold': False, 'isbreak': 'no'}
+run 1384: {'page': 31, 'para': 114, 'line': 33, 'text': 'dern psychologischen Erfahrungen angewendet,', 'bold': False, 'isbreak': 'yes'}
+run 1385: {'page': 31, 'para': 115, 'line': 34, 'text': 'und', 'bold': False, 'isbreak': 'yes'}
+run 1386: {'page': 32, 'para': 116, 'line': 1, 'text': '', 'bold': False, 'isbreak': 'yes'}
+run 1387: {'page': 32, 'para': 116, 'line': 1, 'text': '[', 'bold': False, 'isbreak': 'yes'}
+run 1388: {'page': 32, 'para': 116, 'line': 1, 'text': 'XXXII] Vorrede.', 'bold': False, 'isbreak': 'yes'}
+run 1389: {'page': 32, 'para': 117, 'line': 2, 'text': 'und durch seinen darstellenden Vortrag faßlich ', 'bold': False, 'isbreak': 'yes'}
+run 1390: {'page': 32, 'para': 117, 'line': 3, 'text': 'und bekannter gemacht zu haben. Sie scheint ', 'bold': False, 'isbreak': 'yes'}
+run 1391: {'page': 32, 'para': 117, 'line': 4, 'text': 'immer mehr Beyfall zu finden, und vielleicht ', 'bold': False, 'isbreak': 'yes'}
+run 1392: {'page': 32, 'para': 117, 'line': 5, 'text': 'mehr, als sie nach meiner ', 'bold': False, 'isbreak': 'yes'}
+run 1393: {'page': 32, 'para': 117, 'line': 5, 'text': 'Ueberzeugung', 'bold': False, 'isbreak': 'yes'}
+run 1394: {'page': 32, 'para': 117, 'line': 5, 'text': 'Überzeugung', 'bold': False, 'isbreak': 'yes'}
+run 1395: {'page': 32, 'para': 117, 'line': 5, 'text': ' sollte, ', 'bold': False, 'isbreak': 'yes'}
+run 1396: {'page': 32, 'para': 117, 'line': 6, 'text': 'da sie, wie ich meine dargethan zu haben, nicht ', 'bold': False, 'isbreak': 'yes'}
+run 1397: {'page': 32, 'para': 117, 'line': 7, 'text': 'ganz hinreichet, die Beobachtungen zu erklä-', 'bold': False, 'isbreak': 'no'}
+run 1398: {'page': 32, 'para': 117, 'line': 8, 'text': 'ren, und aufs höchste nur Eine Seite unserer ', 'bold': False, 'isbreak': 'yes'}
+run 1399: {'page': 32, 'para': 117, 'line': 9, 'text': 'Seelennatur richtig darstellet. So viel räu-', 'bold': False, 'isbreak': 'no'}
+run 1400: {'page': 32, 'para': 117, 'line': 10, 'text': 'me ich ihr aber gerne ein, daß ihre Schwäche ', 'bold': False, 'isbreak': 'yes'}
+run 1401: {'page': 32, 'para': 117, 'line': 11, 'text': 'nicht so offenbar auffallend ist, als einige ihrer ', 'bold': False, 'isbreak': 'yes'}
+run 1402: {'page': 32, 'para': 117, 'line': 12, 'text': 'Gegner sich überreden. Es wird oft wieder-', 'bold': False, 'isbreak': 'no'}
+run 1403: {'page': 32, 'para': 117, 'line': 13, 'text': 'holet, das Gehirn sey als ein weicher, oder ', 'bold': False, 'isbreak': 'yes'}
+run 1404: {'page': 32, 'para': 117, 'line': 14, 'text': 'gar flüßiger Körper unfähig, bleibende Spu-', 'bold': False, 'isbreak': 'no'}
+run 1405: {'page': 32, 'para': 117, 'line': 15, 'text': 'ren von den Eindrücken der Dinge zu erhalten,', 'bold': False, 'isbreak': 'yes'}
+run 1406: {'page': 32, 'para': 117, 'line': 16, 'text': 'und ', 'bold': False, 'isbreak': 'yes'}
+run 1407: {'page': 32, 'para': 117, 'line': 16, 'text': 'können', 'bold': False, 'isbreak': 'yes'}
+run 1408: {'page': 32, 'para': 117, 'line': 16, 'text': 'könne', 'bold': False, 'isbreak': 'yes'}
+run 1409: {'page': 32, 'para': 117, 'line': 16, 'text': ' so wenig materielle Ideen nach ', 'bold': False, 'isbreak': 'yes'}
+run 1410: {'page': 32, 'para': 117, 'line': 17, 'text': '', 'bold': False, 'isbreak': 'yes'}
+run 1411: {'page': 32, 'para': 117, 'line': 17, 'text': 'bonnetischer', 'bold': True, 'isbreak': 'yes'}
+run 1412: {'page': 32, 'para': 117, 'line': 17, 'text': ' Vorstellung in sich haben, als ', 'bold': False, 'isbreak': 'yes'}
+run 1413: {'page': 32, 'para': 117, 'line': 18, 'text': 'das Wasser die Figur eines Petschafts be-', 'bold': False, 'isbreak': 'no'}
+run 1414: {'page': 32, 'para': 117, 'line': 19, 'text': 'halten kann, das man seiner Oberfläche auf-', 'bold': False, 'isbreak': 'no'}
+run 1415: {'page': 32, 'para': 117, 'line': 20, 'text': 'drückt. Wenn dieß schon genug ist, die Un-', 'bold': False, 'isbreak': 'no'}
+run 1416: {'page': 32, 'para': 117, 'line': 21, 'text': 'möglichkeit der materiellen Ideen zu zeigen, so ', 'bold': False, 'isbreak': 'yes'}
+run 1417: {'page': 32, 'para': 117, 'line': 22, 'text': 'hat Hr. ', 'bold': False, 'isbreak': 'no'}
+run 1418: {'page': 32, 'para': 117, 'line': 22, 'text': 'Bonnet', 'bold': True, 'isbreak': 'no'}
+run 1419: {'page': 32, 'para': 117, 'line': 22, 'text': ' freilich eine große Absurdi-', 'bold': False, 'isbreak': 'no'}
+run 1420: {'page': 32, 'para': 117, 'line': 23, 'text': 'tät behauptet, wie man von einem Philoso-', 'bold': False, 'isbreak': 'no'}
+run 1421: {'page': 32, 'para': 117, 'line': 24, 'text': 'phen, der mit einer starken Beurtheilungskraft ', 'bold': False, 'isbreak': 'yes'}
+run 1422: {'page': 32, 'para': 117, 'line': 25, 'text': 'die ausgebreitetste Kenntniß der Natur verbin-', 'bold': False, 'isbreak': 'no'}
+run 1423: {'page': 32, 'para': 117, 'line': 26, 'text': 'det, nicht so leicht vermuthen sollte. So ver-', 'bold': False, 'isbreak': 'no'}
+run 1424: {'page': 32, 'para': 117, 'line': 27, 'text': 'hält sichs aber wohl nicht. Hr. ', 'bold': False, 'isbreak': 'no'}
+run 1425: {'page': 32, 'para': 117, 'line': 27, 'text': 'Bonnet', 'bold': True, 'isbreak': 'no'}
+run 1426: {'page': 32, 'para': 117, 'line': 27, 'text': ' wuß-', 'bold': False, 'isbreak': 'no'}
+run 1427: {'page': 32, 'para': 117, 'line': 28, 'text': 'te, was diese seine Widerleger nicht wissen, ', 'bold': False, 'isbreak': 'yes'}
+run 1428: {'page': 32, 'para': 117, 'line': 29, 'text': 'oder woran sie nicht denken, daß es weiche, ', 'bold': False, 'isbreak': 'yes'}
+run 1429: {'page': 32, 'para': 117, 'line': 30, 'text': 'gallertige und breyartige Körper gebe, und ', 'bold': False, 'isbreak': 'yes'}
+run 1430: {'page': 32, 'para': 117, 'line': 31, 'text': 'sogar solche, die dem Anschein nach flüßig sind, ', 'bold': False, 'isbreak': 'yes'}
+run 1431: {'page': 32, 'para': 117, 'line': 32, 'text': 'worinn sich nicht die mindeste Spur von Or-', 'bold': False, 'isbreak': 'no'}
+run 1432: {'page': 32, 'para': 117, 'line': 33, 'text': 'ganisation auch mit dem bewaffneten Auge', 'bold': False, 'isbreak': 'yes'}
+run 1433: {'page': 32, 'para': 118, 'line': 34, 'text': 'entde- ', 'bold': False, 'isbreak': 'no'}
+run 1434: {'page': 33, 'para': 118, 'line': 1, 'text': '', 'bold': False, 'isbreak': 'yes'}
+run 1435: {'page': 33, 'para': 118, 'line': 1, 'text': '[', 'bold': False, 'isbreak': 'yes'}
+run 1436: {'page': 33, 'para': 118, 'line': 1, 'text': 'XXXIII] Vorrede.', 'bold': False, 'isbreak': 'yes'}
+run 1437: {'page': 33, 'para': 119, 'line': 2, 'text': 'entdecken läßt, die doch nichts destoweniger ei-', 'bold': False, 'isbreak': 'no'}
+run 1438: {'page': 33, 'para': 119, 'line': 3, 'text': 'ne Anlage zu einem organisirten Körper, zu-', 'bold': False, 'isbreak': 'no'}
+run 1439: {'page': 33, 'para': 119, 'line': 4, 'text': 'weilen auch diesen schon ausgebildet mit allen ', 'bold': False, 'isbreak': 'yes'}
+run 1440: {'page': 33, 'para': 119, 'line': 5, 'text': 'seinen unterschiedenen Theilen in sich enthalten. ', 'bold': False, 'isbreak': 'yes'}
+run 1441: {'page': 33, 'para': 119, 'line': 6, 'text': 'Man darf nur ein Ey betrachten, um sich davon ', 'bold': False, 'isbreak': 'yes'}
+run 1442: {'page': 33, 'para': 119, 'line': 7, 'text': 'zu überzeugen, und wenn dieß noch nicht genug ', 'bold': False, 'isbreak': 'yes'}
+run 1443: {'page': 33, 'para': 119, 'line': 8, 'text': 'ist, so erwäge man den Versuch mit den Eyern ', 'bold': False, 'isbreak': 'yes'}
+run 1444: {'page': 33, 'para': 119, 'line': 9, 'text': 'der Spinnfliege, die nichts als eine flüßige, mil-', 'bold': False, 'isbreak': 'no'}
+run 1445: {'page': 33, 'para': 119, 'line': 10, 'text': 'chichte Substanz zu seyn scheinen, aber, nach-', 'bold': False, 'isbreak': 'no'}
+run 1446: {'page': 33, 'para': 119, 'line': 11, 'text': 'dem sie einige Minuten im heißen Wasser ge-', 'bold': False, 'isbreak': 'no'}
+run 1447: {'page': 33, 'para': 119, 'line': 12, 'text': 'kocht sind, und dann geöffnet werden, die un-', 'bold': False, 'isbreak': 'no'}
+run 1448: {'page': 33, 'para': 119, 'line': 13, 'text': 'ter dem Schein des Fluidums versteckten Nym-', 'bold': False, 'isbreak': 'no'}
+run 1449: {'page': 33, 'para': 119, 'line': 14, 'text': 'phen in ihren völligen Formen darstellen. *) ', 'bold': False, 'isbreak': 'yes'}
+run 1450: {'page': 33, 'para': 119, 'line': 15, 'text': 'Kann also auch nicht unter der breyartigen ', 'bold': False, 'isbreak': 'yes'}
+run 1451: {'page': 33, 'para': 119, 'line': 16, 'text': 'Gestalt des Hirnmarks eine wahre Organisa-', 'bold': False, 'isbreak': 'no'}
+run 1452: {'page': 33, 'para': 119, 'line': 17, 'text': 'tion versteckt seyn? Nach dem Urtheil des ', 'bold': False, 'isbreak': 'yes'}
+run 1453: {'page': 33, 'para': 119, 'line': 18, 'text': 'größten Physiologen, des Hrn. von ', 'bold': False, 'isbreak': 'yes'}
+run 1454: {'page': 33, 'para': 119, 'line': 18, 'text': 'Haller', 'bold': True, 'isbreak': 'yes'}
+run 1455: {'page': 33, 'para': 119, 'line': 18, 'text': ', ', 'bold': False, 'isbreak': 'yes'}
+run 1456: {'page': 33, 'para': 119, 'line': 19, 'text': 'macht die ', 'bold': False, 'isbreak': 'yes'}
+run 1457: {'page': 33, 'para': 119, 'line': 19, 'text': 'Aehnlichkeit', 'bold': False, 'isbreak': 'yes'}
+run 1458: {'page': 33, 'para': 119, 'line': 19, 'text': 'Ähnlichkeit', 'bold': False, 'isbreak': 'yes'}
+run 1459: {'page': 33, 'para': 119, 'line': 19, 'text': ' der ', 'bold': False, 'isbreak': 'yes'}
+run 1460: {'page': 33, 'para': 119, 'line': 19, 'text': 'Steife', 'bold': False, 'isbreak': 'yes'}
+run 1461: {'page': 33, 'para': 119, 'line': 19, 'text': 'Streifen', 'bold': False, 'isbreak': 'yes'}
+run 1462: {'page': 33, 'para': 119, 'line': 19, 'text': '[', 'bold': False, 'isbreak': 'yes'}
+run 1463: {'page': 33, 'para': 119, 'line': 19, 'text': '[note also in UMich]]', 'bold': False, 'isbreak': 'yes'}
+run 1464: {'page': 33, 'para': 119, 'line': 19, 'text': ' ', 'bold': False, 'isbreak': 'yes'}
+run 1465: {'page': 33, 'para': 119, 'line': 19, 'text': 'dieses Marks ', 'bold': False, 'isbreak': 'yes'}
+run 1466: {'page': 33, 'para': 119, 'line': 20, 'text': 'mit den Nerven es wahrscheinlich, daß es fase-', 'bold': False, 'isbreak': 'no'}
+run 1467: {'page': 33, 'para': 119, 'line': 21, 'text': 'richter Natur sey, obgleich neulich ein britti-', 'bold': False, 'isbreak': 'no'}
+run 1468: {'page': 33, 'para': 119, 'line': 22, 'text': 'scher Arzt Hr. ', 'bold': False, 'isbreak': 'yes'}
+run 1469: {'page': 33, 'para': 119, 'line': 22, 'text': 'Kirkland', 'bold': True, 'isbreak': 'yes'}
+run 1470: {'page': 33, 'para': 119, 'line': 22, 'text': ' dieß abgeläugnet hat, ', 'bold': False, 'isbreak': 'yes'}
+run 1471: {'page': 33, 'para': 119, 'line': 23, 'text': 'der es für einen bloßen Mukus, eine klebrichte ', 'bold': False, 'isbreak': 'yes'}
+run 1472: {'page': 33, 'para': 119, 'line': 24, 'text': 'Substanz angesehen haben will. Vielleicht ', 'bold': False, 'isbreak': 'yes'}
+run 1473: {'page': 33, 'para': 119, 'line': 25, 'text': 'lassen sich beide Meinungen gewissermaßen mit ', 'bold': False, 'isbreak': 'yes'}
+run 1474: {'page': 33, 'para': 119, 'line': 26, 'text': 'einander vereinigen. Aber in jedem Fall ist ', 'bold': False, 'isbreak': 'yes'}
+run 1475: {'page': 33, 'para': 119, 'line': 27, 'text': 'es ja offenbar, daß, obgleich keine sichtbare ', 'bold': False, 'isbreak': 'yes'}
+run 1476: {'page': 33, 'para': 119, 'line': 28, 'text': 'Festigkeit in den innern Theilen des Gehirns ', 'bold': False, 'isbreak': 'yes'}
+run 1477: {'page': 33, 'para': 119, 'line': 29, 'text': 'vorhanden ist, dennoch ein solcher Grad der ', 'bold': False, 'isbreak': 'yes'}
+run 1478: {'page': 33, 'para': 119, 'line': 30, 'text': 'Konsistenz, wie in den Eyern ist, da seyn könne,', 'bold': False, 'isbreak': 'yes'}
+run 1479: {'page': 33, 'para': 120, 'line': 31, 'text': 'die', 'bold': False, 'isbreak': 'yes'}
+run 1480: {'page': 33, 'para': 121, 'line': 32, 'text': '*) ', 'bold': False, 'isbreak': 'yes'}
+run 1481: {'page': 33, 'para': 121, 'line': 32, 'text': 'Bonnets', 'bold': True, 'isbreak': 'yes'}
+run 1482: {'page': 33, 'para': 121, 'line': 32, 'text': ' Betrachtungen über die organisirten Körper, ', 'bold': False, 'isbreak': 'yes'}
+run 1483: {'page': 33, 'para': 121, 'line': 33, 'text': 'Erster Th. 9tes Kap. Zweyter Th. 5tes Kap.', 'bold': False, 'isbreak': 'yes'}
+run 1484: {'page': 33, 'para': 122, 'line': 34, 'text': 'I. Band. c', 'bold': False, 'isbreak': 'yes'}
+run 1485: {'page': 34, 'para': 122, 'line': 1, 'text': '', 'bold': False, 'isbreak': 'yes'}
+run 1486: {'page': 34, 'para': 122, 'line': 1, 'text': '[', 'bold': False, 'isbreak': 'yes'}
+run 1487: {'page': 34, 'para': 122, 'line': 1, 'text': 'XXXIV] Vorrede.', 'bold': False, 'isbreak': 'yes'}
+run 1488: {'page': 34, 'para': 123, 'line': 2, 'text': 'die hinreichet, bestimmte Spuren von den dar-', 'bold': False, 'isbreak': 'no'}
+run 1489: {'page': 34, 'para': 123, 'line': 3, 'text': 'auf gemachten sinnlichen Eindrücken in sich zu ', 'bold': False, 'isbreak': 'yes'}
+run 1490: {'page': 34, 'para': 123, 'line': 4, 'text': 'erhalten. Das Wasser dagegen hat nichts ', 'bold': False, 'isbreak': 'yes'}
+run 1491: {'page': 34, 'para': 123, 'line': 5, 'text': 'Organisirtes, so wenig als ein jeder anderer ', 'bold': False, 'isbreak': 'yes'}
+run 1492: {'page': 34, 'para': 123, 'line': 6, 'text': 'Körper, der nichts mehr als flüßig ist, so daß ', 'bold': False, 'isbreak': 'yes'}
+run 1493: {'page': 34, 'para': 123, 'line': 7, 'text': 'die Vergleichung von dem auf das Wasser ge-', 'bold': False, 'isbreak': 'no'}
+run 1494: {'page': 34, 'para': 123, 'line': 8, 'text': 'druckten Petschaft von selbst wegfällt. Hr. ', 'bold': False, 'isbreak': 'yes'}
+run 1495: {'page': 34, 'para': 123, 'line': 9, 'text': '', 'bold': False, 'isbreak': 'no'}
+run 1496: {'page': 34, 'para': 123, 'line': 9, 'text': 'Bonnet', 'bold': True, 'isbreak': 'no'}
+run 1497: {'page': 34, 'para': 123, 'line': 9, 'text': ' ist diesem Einwurf nicht zuvor gekom-', 'bold': False, 'isbreak': 'no'}
+run 1498: {'page': 34, 'para': 123, 'line': 10, 'text': 'men, ohne Zweifel darum, weil er nicht ver-', 'bold': False, 'isbreak': 'no'}
+run 1499: {'page': 34, 'para': 123, 'line': 11, 'text': 'muthete, daß er ihm würde gemacht werden.', 'bold': False, 'isbreak': 'yes'}
+run 1500: {'page': 34, 'para': 124, 'line': 12, 'text': 'Indessen ist doch nicht zu läugnen, daß eben ', 'bold': False, 'isbreak': 'yes'}
+run 1501: {'page': 34, 'para': 124, 'line': 13, 'text': 'diese Weichheit des innern Gehirnmarks, nach ', 'bold': False, 'isbreak': 'yes'}
+run 1502: {'page': 34, 'para': 124, 'line': 14, 'text': 'dem jetzigen Stande unserer Kenntnisse, als ', 'bold': False, 'isbreak': 'yes'}
+run 1503: {'page': 34, 'para': 124, 'line': 15, 'text': 'eine Anzeige und auch wohl als ein Bestäti-', 'bold': False, 'isbreak': 'no'}
+run 1504: {'page': 34, 'para': 124, 'line': 16, 'text': 'gungsgrund einer von der bonnetischen ver-', 'bold': False, 'isbreak': 'no'}
+run 1505: {'page': 34, 'para': 124, 'line': 17, 'text': 'schiedenen Hypothese könne gebraucht werden, ', 'bold': False, 'isbreak': 'yes'}
+run 1506: {'page': 34, 'para': 124, 'line': 18, 'text': 'wenn anders Beobachtungen auf eine solche ', 'bold': False, 'isbreak': 'yes'}
+run 1507: {'page': 34, 'para': 124, 'line': 19, 'text': 'hinführen. Denn so könnte es doch auch wohl ', 'bold': False, 'isbreak': 'yes'}
+run 1508: {'page': 34, 'para': 124, 'line': 20, 'text': 'seyn, daß diese weichen und flüßigen Theile des ', 'bold': False, 'isbreak': 'yes'}
+run 1509: {'page': 34, 'para': 124, 'line': 21, 'text': 'Gehirns nichts anders in Hinsicht der mate-', 'bold': False, 'isbreak': 'no'}
+run 1510: {'page': 34, 'para': 124, 'line': 22, 'text': 'riellen Ideen sind, als was die Flüßigkeiten ', 'bold': False, 'isbreak': 'yes'}
+run 1511: {'page': 34, 'para': 124, 'line': 23, 'text': 'in dem Auge in Rücksicht auf die Bilder auf ', 'bold': False, 'isbreak': 'yes'}
+run 1512: {'page': 34, 'para': 124, 'line': 24, 'text': 'der Netzhaut sind. Wenn es gleich wahr-', 'bold': False, 'isbreak': 'no'}
+run 1513: {'page': 34, 'para': 124, 'line': 25, 'text': 'scheinlich ist, wie ichs dafür halte, daß es ma-', 'bold': False, 'isbreak': 'no'}
+run 1514: {'page': 34, 'para': 124, 'line': 26, 'text': 'terielle Ideen in dem Innern des Organs gebe, ', 'bold': False, 'isbreak': 'yes'}
+run 1515: {'page': 34, 'para': 124, 'line': 27, 'text': 'so folget noch nicht, daß man den Sitz dieser ', 'bold': False, 'isbreak': 'yes'}
+run 1516: {'page': 34, 'para': 124, 'line': 28, 'text': 'Ideen weiter in das Innere des Gehirns hin-', 'bold': False, 'isbreak': 'no'}
+run 1517: {'page': 34, 'para': 124, 'line': 29, 'text': 'einsetzen müsse, als bis dahin, wo die Anfänge ', 'bold': False, 'isbreak': 'yes'}
+run 1518: {'page': 34, 'para': 124, 'line': 30, 'text': 'der Nerven sind, und bis so weit ist doch ohne ', 'bold': False, 'isbreak': 'yes'}
+run 1519: {'page': 34, 'para': 124, 'line': 31, 'text': 'Zweifel eine Organisation vorhanden, und ', 'bold': False, 'isbreak': 'yes'}
+run 1520: {'page': 34, 'para': 124, 'line': 32, 'text': 'also auch die Möglichkeit, Spuren von den ', 'bold': False, 'isbreak': 'yes'}
+run 1521: {'page': 34, 'para': 124, 'line': 33, 'text': 'sinnlichen Eindrücken zu behalten. Vielleicht', 'bold': False, 'isbreak': 'yes'}
+run 1522: {'page': 34, 'para': 125, 'line': 34, 'text': 'lieget', 'bold': False, 'isbreak': 'yes'}
+run 1523: {'page': 35, 'para': 126, 'line': 1, 'text': '', 'bold': False, 'isbreak': 'yes'}
+run 1524: {'page': 35, 'para': 126, 'line': 1, 'text': '[', 'bold': False, 'isbreak': 'yes'}
+run 1525: {'page': 35, 'para': 126, 'line': 1, 'text': 'XXXV] Vorrede.', 'bold': False, 'isbreak': 'yes'}
+run 1526: {'page': 35, 'para': 127, 'line': 2, 'text': 'lieget also noch tiefer in das Gehirn hinein, oder ', 'bold': False, 'isbreak': 'yes'}
+run 1527: {'page': 35, 'para': 127, 'line': 3, 'text': 'noch näher zur Seele, die weiche Materie, die ', 'bold': False, 'isbreak': 'yes'}
+run 1528: {'page': 35, 'para': 127, 'line': 4, 'text': 'nichts mehr thut, als daß sie die Bewegungen ', 'bold': False, 'isbreak': 'yes'}
+run 1529: {'page': 35, 'para': 127, 'line': 5, 'text': 'von dem Organ zur Seele, und von der Seele ', 'bold': False, 'isbreak': 'yes'}
+run 1530: {'page': 35, 'para': 127, 'line': 6, 'text': 'zum Organ durchläßt, wozu es wohl nicht ', 'bold': False, 'isbreak': 'yes'}
+run 1531: {'page': 35, 'para': 127, 'line': 7, 'text': 'nöthig ist, daß sie selbst organisirt sey. Aber ', 'bold': False, 'isbreak': 'yes'}
+run 1532: {'page': 35, 'para': 127, 'line': 8, 'text': 'man begreift leicht, daß nun auch hierdurch die ', 'bold': False, 'isbreak': 'yes'}
+run 1533: {'page': 35, 'para': 127, 'line': 9, 'text': 'bonnetische Psychologie nicht widerlegt werde, ', 'bold': False, 'isbreak': 'yes'}
+run 1534: {'page': 35, 'para': 127, 'line': 10, 'text': 'so fern solche auf materiellen Ideen beruhet, ', 'bold': False, 'isbreak': 'yes'}
+run 1535: {'page': 35, 'para': 127, 'line': 11, 'text': 'sondern daß sie allenfalls nur in ihren nähern ', 'bold': False, 'isbreak': 'yes'}
+run 1536: {'page': 35, 'para': 127, 'line': 12, 'text': 'Bestimmungen nicht so zuverläßig sey, als in ', 'bold': False, 'isbreak': 'yes'}
+run 1537: {'page': 35, 'para': 127, 'line': 13, 'text': 'den ersten Grundsätzen.', 'bold': False, 'isbreak': 'yes'}
+run 1538: {'page': 35, 'para': 128, 'line': 14, 'text': 'Die Untersuchung über die ', 'bold': False, 'isbreak': 'yes'}
+run 1539: {'page': 35, 'para': 128, 'line': 14, 'text': 'Freyheit', 'bold': True, 'isbreak': 'yes'}
+run 1540: {'page': 35, 'para': 128, 'line': 14, 'text': ', die ', 'bold': False, 'isbreak': 'yes'}
+run 1541: {'page': 35, 'para': 128, 'line': 15, 'text': 'in einer erhöheten Selbstthätigkeit der Seele ', 'bold': False, 'isbreak': 'yes'}
+run 1542: {'page': 35, 'para': 128, 'line': 16, 'text': 'bestehet, hieng mit den vorhergehenden und ', 'bold': False, 'isbreak': 'yes'}
+run 1543: {'page': 35, 'para': 128, 'line': 17, 'text': 'den folgenden Betrachtungen über die mensch-', 'bold': False, 'isbreak': 'no'}
+run 1544: {'page': 35, 'para': 128, 'line': 18, 'text': 'liche Natur so genau zusammen, daß ich mich ', 'bold': False, 'isbreak': 'yes'}
+run 1545: {'page': 35, 'para': 128, 'line': 19, 'text': 'auf sie hätte einlassen müssen, wenn auch die ', 'bold': False, 'isbreak': 'yes'}
+run 1546: {'page': 35, 'para': 128, 'line': 20, 'text': 'bekannten Dunkelheiten in dieser Materie nicht ', 'bold': False, 'isbreak': 'yes'}
+run 1547: {'page': 35, 'para': 128, 'line': 21, 'text': 'besonders dazu gereizet hätten. Nirgends ', 'bold': False, 'isbreak': 'yes'}
+run 1548: {'page': 35, 'para': 128, 'line': 22, 'text': 'scheinet die Vernunft dem Gefühl, und, wenn ', 'bold': False, 'isbreak': 'yes'}
+run 1549: {'page': 35, 'para': 128, 'line': 23, 'text': 'man näher zusieht, selbst das Gefühl dem Ge-', 'bold': False, 'isbreak': 'no'}
+run 1550: {'page': 35, 'para': 128, 'line': 24, 'text': 'fühl so sehr zu widersprechen, als hier. Es ', 'bold': False, 'isbreak': 'yes'}
+run 1551: {'page': 35, 'para': 128, 'line': 25, 'text': 'muß nothwendig irgendwo ein falscher Schein ', 'bold': False, 'isbreak': 'yes'}
+run 1552: {'page': 35, 'para': 128, 'line': 26, 'text': 'dahinter stecken, die Ursache desselben mag nun ', 'bold': False, 'isbreak': 'yes'}
+run 1553: {'page': 35, 'para': 128, 'line': 27, 'text': 'da liegen, wo ich sie glaube gefunden zu haben, ', 'bold': False, 'isbreak': 'yes'}
+run 1554: {'page': 35, 'para': 128, 'line': 28, 'text': 'oder anderswo.', 'bold': False, 'isbreak': 'yes'}
+run 1555: {'page': 35, 'para': 129, 'line': 29, 'text': 'Der letzte Versuch über die ', 'bold': False, 'isbreak': 'yes'}
+run 1556: {'page': 35, 'para': 129, 'line': 29, 'text': 'Perfektibilität', 'bold': True, 'isbreak': 'yes'}
+run 1557: {'page': 35, 'para': 129, 'line': 29, 'text': ' ', 'bold': False, 'isbreak': 'yes'}
+run 1558: {'page': 35, 'para': 129, 'line': 30, 'text': 'und über die ', 'bold': False, 'isbreak': 'no'}
+run 1559: {'page': 35, 'para': 129, 'line': 30, 'text': 'Entwickelung', 'bold': True, 'isbreak': 'no'}
+run 1560: {'page': 35, 'para': 129, 'line': 30, 'text': ' ', 'bold': False, 'isbreak': 'no'}
+run 1561: {'page': 35, 'para': 129, 'line': 30, 'text': 'der', 'bold': True, 'isbreak': 'no'}
+run 1562: {'page': 35, 'para': 129, 'line': 30, 'text': ' ', 'bold': False, 'isbreak': 'no'}
+run 1563: {'page': 35, 'para': 129, 'line': 30, 'text': 'Seele', 'bold': True, 'isbreak': 'no'}
+run 1564: {'page': 35, 'para': 129, 'line': 30, 'text': ' ist ge-', 'bold': False, 'isbreak': 'no'}
+run 1565: {'page': 35, 'para': 129, 'line': 31, 'text': 'wissermaßen das Ziel, wohin die meisten der ', 'bold': False, 'isbreak': 'yes'}
+run 1566: {'page': 35, 'para': 129, 'line': 32, 'text': 'vorhergehenden Betrachtungen zusammen lau-', 'bold': False, 'isbreak': 'no'}
+run 1567: {'page': 35, 'para': 129, 'line': 33, 'text': 'fen. Bey dem großen Umfang dieses frucht-', 'bold': False, 'isbreak': 'no'}
+run 1568: {'page': 35, 'para': 130, 'line': 34, 'text': 'baren', 'bold': False, 'isbreak': 'yes'}
+run 1569: {'page': 35, 'para': 131, 'line': 35, 'text': 'c 2', 'bold': False, 'isbreak': 'yes'}
+run 1570: {'page': 36, 'para': 131, 'line': 1, 'text': '', 'bold': False, 'isbreak': 'yes'}
+run 1571: {'page': 36, 'para': 131, 'line': 1, 'text': '[', 'bold': False, 'isbreak': 'yes'}
+run 1572: {'page': 36, 'para': 131, 'line': 1, 'text': 'XXXVI] Vorrede.', 'bold': False, 'isbreak': 'yes'}
+run 1573: {'page': 36, 'para': 132, 'line': 2, 'text': 'baren Feldes habe ich mich auf Eine Strecke ', 'bold': False, 'isbreak': 'yes'}
+run 1574: {'page': 36, 'para': 132, 'line': 3, 'text': 'eingeschränkt. Ich habe mich nicht so wohl ', 'bold': False, 'isbreak': 'yes'}
+run 1575: {'page': 36, 'para': 132, 'line': 4, 'text': 'auf die Mittel eingelassen, wodurch der Mensch ', 'bold': False, 'isbreak': 'yes'}
+run 1576: {'page': 36, 'para': 132, 'line': 5, 'text': 'entwickelt wird, als vielmehr auf die Wir-', 'bold': False, 'isbreak': 'no'}
+run 1577: {'page': 36, 'para': 132, 'line': 6, 'text': 'kung dieser Mittel in seinem Innern, oder auf ', 'bold': False, 'isbreak': 'yes'}
+run 1578: {'page': 36, 'para': 132, 'line': 7, 'text': 'das, was die Vervollenkommung unserer Na-', 'bold': False, 'isbreak': 'no'}
+run 1579: {'page': 36, 'para': 132, 'line': 8, 'text': 'tur in dem Innern selbst ausmachet, die durch ', 'bold': False, 'isbreak': 'yes'}
+run 1580: {'page': 36, 'para': 132, 'line': 9, 'text': 'die ausbildenden Ursachen bewirket wird, und ', 'bold': False, 'isbreak': 'yes'}
+run 1581: {'page': 36, 'para': 132, 'line': 10, 'text': 'unter den mannichfaltigen Formen, worinn ', 'bold': False, 'isbreak': 'yes'}
+run 1582: {'page': 36, 'para': 132, 'line': 11, 'text': 'die Menschheit sich uns darstellet, enthalten ist. ', 'bold': False, 'isbreak': 'yes'}
+run 1583: {'page': 36, 'para': 132, 'line': 12, 'text': 'Dieß ist am Ende nichts anders, als eine deut-', 'bold': False, 'isbreak': 'no'}
+run 1584: {'page': 36, 'para': 132, 'line': 13, 'text': 'liche Auseinandersetzung dessen, was in dem Ge-', 'bold': False, 'isbreak': 'no'}
+run 1585: {'page': 36, 'para': 132, 'line': 14, 'text': 'fühl des Menschenfreundes begriffen ist, wenn ', 'bold': False, 'isbreak': 'yes'}
+run 1586: {'page': 36, 'para': 132, 'line': 15, 'text': 'er die Würde des Menschen und die Erhaben-', 'bold': False, 'isbreak': 'no'}
+run 1587: {'page': 36, 'para': 132, 'line': 16, 'text': 'heit der Tugend empfindet. Dieß Gefühl be-', 'bold': False, 'isbreak': 'no'}
+run 1588: {'page': 36, 'para': 132, 'line': 17, 'text': 'darf einer Leitung von der aufklärenden Ver-', 'bold': False, 'isbreak': 'no'}
+run 1589: {'page': 36, 'para': 132, 'line': 18, 'text': 'nunft. Ohne diese kann der edelste Vorsatz, ', 'bold': False, 'isbreak': 'yes'}
+run 1590: {'page': 36, 'para': 132, 'line': 19, 'text': 'deren ein Mensch fähig ist, der Vorsatz, an ', 'bold': False, 'isbreak': 'yes'}
+run 1591: {'page': 36, 'para': 132, 'line': 20, 'text': 'der Verbesserung der Menschheit zu arbeiten, ', 'bold': False, 'isbreak': 'yes'}
+run 1592: {'page': 36, 'para': 132, 'line': 21, 'text': 'eine falsche Richtung nehmen, und in einen ', 'bold': False, 'isbreak': 'yes'}
+run 1593: {'page': 36, 'para': 132, 'line': 22, 'text': 'schädlichen Eifer ausarten, sie in Eine von ih-', 'bold': False, 'isbreak': 'no'}
+run 1594: {'page': 36, 'para': 132, 'line': 23, 'text': 'ren besondern Formen hinein zu zwingen, die ', 'bold': False, 'isbreak': 'yes'}
+run 1595: {'page': 36, 'para': 132, 'line': 24, 'text': 'man als die alleinige für sie ansieht, in der sie ', 'bold': False, 'isbreak': 'yes'}
+run 1596: {'page': 36, 'para': 132, 'line': 25, 'text': 'eine innere Vollkommenheit besitzen könne.', 'bold': False, 'isbreak': 'yes'}
+run 1597: {'page': 36, 'para': 133, 'line': 26, 'text': 'Inhalt', 'bold': False, 'isbreak': 'yes'}
