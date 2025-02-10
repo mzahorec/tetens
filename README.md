@@ -20,6 +20,6 @@ Link to Tetens dropbox: https://www.dropbox.com/scl/fo/delphoqfh0mxvhssi3qb5/h?r
 
 # notes to self - MZ
  - vpn user: fsuid
- - vpn pass: *****s5******
- - site user: Z******
- - site pass: MZ******
+ - vpn pass: ?????s5??????
+ - site user: Z??????
+ - site pass: MZ??????
