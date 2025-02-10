@@ -3,10 +3,25 @@ Notes meeting with Courtney, Jose, Mike, Micah (2024/02/10)
     1. for sections, we could just have a key for each document that gives page number and line number for each section break
         could keep track of other information like this as well? what else might we need to track?
 
+        for section headings, we need to look into how TEI publisher reads headings
+
     2. with how I'm tagging it, bold isn't displaying
-        what about other kinds of elements? italics? strikethrough? notes?
+        what about other kinds of elements? italics? strikethrough? notes? underline?
+
+        it looks like we want to use <hi> instead of <emph>.. we should look at the Kant document examples in the existDB instance
+        Jose will look into which kind of tag works for bold, italics, etc.
+
+        for notes and strikethrough, we want to have hidden formatting, where we click on the item and it displays what's behind it
+        we want to look into what the options are for doing "pop-ups" or some other kind of option where 
+        even better: would be if it looks like the old version, then we can click and expand the revised version of the word/phrase
 
     3. Jose any advice about keeping track of split words (i.e., split at end of line)?
+
+        we can embed the word to search for (i.e., the actual, non-split word)
     
     4. discuss paragraph elements - not sure if from docx we can tell what is a genuine paragraph end versus, e.g., end of page
+
+        we want to find all cases where a page ends in a punctuation mark. Then we want to look at each of those manually and see if they are paragraph endings. If yes, we need to mark them and keep track of them. 
+
+        In all other cases, we treat the beginning paragraph on the next page as a continuation of the last paragraph on the previous page.
        
