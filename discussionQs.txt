@@ -1,0 +1,10 @@
+    1. for sections, we could just have a key for each document that gives page number and line number for each section break
+        could keep track of other information like this as well? what else might we need to track?
+
+    2. with how I'm tagging it, bold isn't displaying
+        what about other kinds of elements? italics? strikethrough? notes?
+
+    3. Jose any advice about keeping track of split words (i.e., split at end of line)?
+    
+    4. discuss paragraph elements - not sure if from docx we can tell what is a genuine paragraph end versus, e.g., end of page
+       
