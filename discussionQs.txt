@@ -1,3 +1,5 @@
+Notes meeting with Courtney, Jose, Mike, Micah (2024/02/10)
+
     1. for sections, we could just have a key for each document that gives page number and line number for each section break
         could keep track of other information like this as well? what else might we need to track?
 
