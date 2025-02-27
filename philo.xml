@@ -105,7 +105,7 @@
             <lb n="1" break="yes"/>[IV] Vorrede.
           </head>
         <lb n="2" break="yes"/> CONTINUE PARAGRAPH HERE? WHAT ABOUT THE PREVIOUS LINES THAT AREN'T ACTUALLY PARAGRAPH LINES? CONFUSING. AND SHOULD I USE "HEAD" ELEMENT FOR BOTTOM OF PREV PAGE??
-        <lb n="2" break="yes"/> <emph> test with just emph </emph> and a <emph rend="bold"> test with emph rend=bold </emph>
+        <lb n="2" break="yes"/> <hi> test with just hi </hi> and a <hi rend="bold"> test with hi rend=bold </hi>
       </p>
     </body>
   
