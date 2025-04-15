@@ -1,6 +1,7 @@
 from docx import Document
 import lxml.etree
 import lxml.builder
+import argparse
 
 def myread(myfilename):                 ## Read lines from docx file
     document = Document(myfilename)     ## then store them in a list
@@ -252,14 +253,17 @@ def writetxt(masterlist, filename):
 
 def main():
     print("starting program...\n")
-    masterlist = myread('/home/michael/Downloads/11_PV_Vorrede_pres (1).docx')
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--input', type=str, help='Input file path')
+    args = parser.parse_args()
+    masterlist = myread(args.input)
     #printdict(dictofpars)
     #dictoflists = splitlines(dictofpars)
     #printdict(dictoflists)
     basicxml = genxml()
     populatedxml = popuxml(basicxml,masterlist)
-    writetxt(masterlist, '/home/michael/Downloads/tetenstxt05.txt')
-    writexml(populatedxml,'/home/michael/Downloads/tetensxml05.xml')
+    writetxt(masterlist, './output-text.txt')
+    writexml(populatedxml,'./output-xml.xml')
     print("\nending program...")
 
 if __name__ == '__main__':
