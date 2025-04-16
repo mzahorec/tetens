@@ -9,8 +9,11 @@ def myread(myfilename):                 ## Read lines from docx file
     masterlist=[]
     pagecount = 1
     linecount = 0
+    isnewline = False
+    masterind = 0
     for parindex in range(len(listofpars)):
         linecount +=1
+        isnewline = True
         #print("para num: ", parindex)
         for runindex in range(len(listofpars[parindex].runs)):
             if listofpars[parindex].runs[runindex]._r.getchildren():
@@ -19,22 +22,38 @@ def myread(myfilename):                 ## Read lines from docx file
                     linecount=1
                 elif '\n' in listofpars[parindex].runs[runindex].text:
                     linecount+=1
-            #print("P", pagecount, "Line", linecount, repr(listofpars[parindex].runs[runindex].text), listofpars[parindex].runs[runindex].bold)
+                    isnewline=True
+            print("P", pagecount, "Line", linecount, repr(listofpars[parindex].runs[runindex].text), listofpars[parindex].runs[runindex].bold)
             
             bold = False
             if listofpars[parindex].runs[runindex].bold:
                 bold = True
                 
+            isbreak = "yes"
+            if isnewline and masterind>0:
+                if masterlist[masterind-1]["text"][-1] == "-" or masterlist[masterind-1]["text"][-2:] == "- ":
+                    isbreak = "no"
+
+            isstrike = False
+            if listofpars[parindex].runs[runindex].font.strike:
+                isstrike = True
+
+            
             #masterlist.append([pagecount,parindex,linecount,listofpars[parindex].runs[runindex].text.replace("\n",""), tag])
             curdict = {
                 "page":pagecount,
                 "para":parindex,
                 "line":linecount,
                 "text":listofpars[parindex].runs[runindex].text.replace("\n",""),
-                "bold":bold
+                "bold":bold,
+                "isbreak":isbreak,
+                "strikethrough":isstrike
             }
             masterlist.append(curdict)
-            
+            masterind+=1
+            isnewline=False
+    
+    '''        
     for index in range(len(masterlist)-1):
         #print("item",index,"is",masterlist[index])
         tempindex = index
@@ -50,7 +69,7 @@ def myread(myfilename):                 ## Read lines from docx file
     
     for index in range(len(masterlist)):
         print("item",index,"is",masterlist[index])
-        
+    '''
     return masterlist
     
 
