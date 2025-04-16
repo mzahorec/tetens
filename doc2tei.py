@@ -2,6 +2,8 @@ from docx import Document
 import lxml.etree
 import lxml.builder
 import argparse
+import os
+import glob
 
 def myread(myfilename):                 ## Read lines from docx file
     document = Document(myfilename)     ## then store them in a list
@@ -23,21 +25,26 @@ def myread(myfilename):                 ## Read lines from docx file
                 elif '\n' in listofpars[parindex].runs[runindex].text:
                     linecount+=1
                     isnewline=True
-            print("P", pagecount, "Line", linecount, repr(listofpars[parindex].runs[runindex].text), listofpars[parindex].runs[runindex].bold)
-            
-            bold = False
-            if listofpars[parindex].runs[runindex].bold:
-                bold = True
-                
+            #print("P", pagecount, "Line", linecount, repr(listofpars[parindex].runs[runindex].text), listofpars[parindex].runs[runindex].bold)
+
             isbreak = "yes"
             if isnewline and masterind>0:
-                if masterlist[masterind-1]["text"][-1] == "-" or masterlist[masterind-1]["text"][-2:] == "- ":
-                    isbreak = "no"
+                if len(masterlist[masterind-1]["text"])>1:
+                    if masterlist[masterind-1]["text"][-1] == "-" or masterlist[masterind-1]["text"][-2:] == "- ":
+                        isbreak = "no"
 
+            isbold = False
             isstrike = False
+            isunderline = False
+            isitalic = False
+            if listofpars[parindex].runs[runindex].bold:
+                isbold = True
             if listofpars[parindex].runs[runindex].font.strike:
                 isstrike = True
-
+            if listofpars[parindex].runs[runindex].font.strike:
+                isunderline = True
+            if listofpars[parindex].runs[runindex].italic:
+                isitalic = True
             
             #masterlist.append([pagecount,parindex,linecount,listofpars[parindex].runs[runindex].text.replace("\n",""), tag])
             curdict = {
@@ -45,9 +52,11 @@ def myread(myfilename):                 ## Read lines from docx file
                 "para":parindex,
                 "line":linecount,
                 "text":listofpars[parindex].runs[runindex].text.replace("\n",""),
-                "bold":bold,
                 "isbreak":isbreak,
-                "strikethrough":isstrike
+                "bold":isbold,
+                "strikethrough":isstrike,
+                "italic":isitalic,
+                "underline":isunderline
             }
             masterlist.append(curdict)
             masterind+=1
@@ -265,24 +274,34 @@ def writexml(myxml,filename):         ## write xml structure to file
     f.close()
 
 def writetxt(masterlist, filename):
+    os.makedirs(os.path.dirname(filename), exist_ok=True)
     with open(filename, "w") as f:
         for index in range(len(masterlist)):
             f.write( "run "+str(index)+": "+str(masterlist[index])+"\n" )
     
+def getfiles(indir, searchpattern):
+    return glob.glob(os.path.join(indir, searchpattern))
 
 def main():
     print("starting program...\n")
     parser = argparse.ArgumentParser()
-    parser.add_argument('--input', type=str, help='Input file path')
+    parser.add_argument('--inputdir', type=str, help='Input file directory')
+    parser.add_argument('--outputdir', type=str, help='Output file directory')
     args = parser.parse_args()
-    masterlist = myread(args.input)
-    #printdict(dictofpars)
-    #dictoflists = splitlines(dictofpars)
-    #printdict(dictoflists)
-    basicxml = genxml()
-    populatedxml = popuxml(basicxml,masterlist)
-    writetxt(masterlist, './output-text.txt')
-    writexml(populatedxml,'./output-xml.xml')
+
+    files = getfiles(args.inputdir, "*.docx")
+
+    if files:
+        for curfile in files:
+            print("About to work on: ", curfile)
+            masterlist = myread(curfile)
+            #printdict(dictofpars)
+            #dictoflists = splitlines(dictofpars)
+            #printdict(dictoflists)
+            basicxml = genxml()
+            populatedxml = popuxml(basicxml,masterlist)
+            writetxt(masterlist,   os.path.join(args.outputdir, os.path.basename(curfile)+ ".txt" ) )
+            writexml(populatedxml, os.path.join(args.outputdir, os.path.basename(curfile)+ ".xml" ) )
     print("\nending program...")
 
 if __name__ == '__main__':
