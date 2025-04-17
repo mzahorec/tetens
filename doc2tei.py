@@ -4,6 +4,7 @@ import lxml.builder
 import argparse
 import os
 import glob
+import sys
 
 def myread(myfilename):                 ## Read lines from docx file
     document = Document(myfilename)     ## then store them in a list
@@ -284,10 +285,18 @@ def getfiles(indir, searchpattern):
 
 def main():
     print("starting program...\n")
-    parser = argparse.ArgumentParser()
-    parser.add_argument('--inputdir', type=str, help='Input file directory')
-    parser.add_argument('--outputdir', type=str, help='Output file directory')
+    parser = argparse.ArgumentParser(
+        description = "converts a whole folder of docx files into TEI xml files (by the way, you should probably be using a virtual environment, if you aren't already using one)",
+        usage="\nYou need to provide input and output directories.\nRun the program as follows.\npython doc2tei.py --inputdir exampleinputfolder --outputdir exampleoutputfolder\n\n",
+        formatter_class=argparse.RawTextHelpFormatter
+    )
+    parser.add_argument('--inputdir', type=str, help='Input file directory', required=True)
+    parser.add_argument('--outputdir', type=str, help='Output file directory', required=True)
     args = parser.parse_args()
+
+    if not args.inputdir or not args.outputdir:
+        parser.print_help()
+        sys.exit("\nError: you need to provide input and output directories. Run the program as follows (by the way, you should probably be using a virtual environment):\npython doc2tei.py --inputdir exampleinputfolder --outputdir exampleoutputfolder ")
 
     files = getfiles(args.inputdir, "*.docx")
 
