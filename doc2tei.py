@@ -48,7 +48,7 @@ def myread(myfilename):                 ## Read lines from docx file
             if listofpars[parindex].runs[runindex].italic:
                 isitalic = True
                 
-            #note_match = re.search(r""
+            
             
             #masterlist.append([pagecount,parindex,linecount,listofpars[parindex].runs[runindex].text.replace("\n",""), tag])
             curdict = {
@@ -62,6 +62,14 @@ def myread(myfilename):                 ## Read lines from docx file
                 "italic":isitalic,
                 "underline":isunderline
             }
+            notepattern = r"\[\[(.*?)\]\]"
+            notes = re.search(notepattern, curdict["text"])
+            if notes:
+                curdict["note"] = notes
+                curdict["text"] = re.sub(note_pattern, "", curdict["text"])
+            else:
+                curdict["note"] = []
+            
             masterlist.append(curdict)
             masterind+=1
             isnewline=False
