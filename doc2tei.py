@@ -219,10 +219,15 @@ def popuxml(myxml,masterlist):      ## populate xml with source data
     for item in masterlist:
         #print(item)
         
-        #if item["page"]!=prevpage:              # make a new pb element (I *think* this only works properly
-        #    pbe = etree.Element("pb")           # if pb does not occur inside a <p> element)
-        #    pbe.set("n",str(item["page"]) )
-        #    cnav.append(pbe)                   THIS NEEDS FIXED!!!!!!!!!!!
+        if item["page"]!=prevpage:
+            if prevpara != -1:
+                body.append(p)              # close current <p> before ending page
+            pbe = etree.Element("pb")           
+            pbe.set("n",str(item["page"]) )
+            body.append(pbe)
+            p = etree.Element("p")          # start new <p> for next page
+            prevline = -1
+            curtext = ""
             
         if item["para"]!=prevpara:
             if prevpara != -1:
