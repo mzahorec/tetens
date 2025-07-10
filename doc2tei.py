@@ -5,6 +5,7 @@ import argparse
 import os
 import glob
 import sys
+import re
 
 def myread(myfilename):                 ## Read lines from docx file
     document = Document(myfilename)     ## then store them in a list
@@ -42,10 +43,12 @@ def myread(myfilename):                 ## Read lines from docx file
                 isbold = True
             if listofpars[parindex].runs[runindex].font.strike:
                 isstrike = True
-            if listofpars[parindex].runs[runindex].font.strike:
+            if listofpars[parindex].runs[runindex].font.underline:
                 isunderline = True
             if listofpars[parindex].runs[runindex].italic:
                 isitalic = True
+                
+            #note_match = re.search(r""
             
             #masterlist.append([pagecount,parindex,linecount,listofpars[parindex].runs[runindex].text.replace("\n",""), tag])
             curdict = {
@@ -216,8 +219,29 @@ def popuxml(myxml,masterlist):      ## populate xml with source data
     
     prevpara = prevline = prevpage = -1
     curtext = ""
-    for item in masterlist:
+    i = 0
+    while i < len(masterlist):
+        item = masterlist[i]
         #print(item)
+        
+        if item["strikethrough"] and i+1 < len(masterlist):
+            next_item = masterlist[i+1]
+            if next_item["underline"]:
+                if 'curelem' in locals():
+                    curelem.tail = curtext
+                    curtext = ""
+                choice = etree.SubElement(p, "choice")
+                sic = etree.SubElement(choice, "sic")
+                sic.text = item["text"]
+                corr = etree.SubElement(choice, "corr")
+                corr.text = next_item["text"]
+                curelem = choice
+                i += 2
+                prevpara = next_item["para"]
+                prevline = next_item["line"]
+                prevpage = next_item["page"]
+                continue
+        
         
         if item["page"]!=prevpage:
             if prevpara != -1:
@@ -250,6 +274,8 @@ def popuxml(myxml,masterlist):      ## populate xml with source data
             curelem = etree.SubElement(p, "lb", n=str(item["line"]))
             curelem.set("break",item["isbreak"])
          
+
+         
         if item["bold"]==True:
             if 'curelem' in locals():
                 curelem.tail = curtext
@@ -266,7 +292,7 @@ def popuxml(myxml,masterlist):      ## populate xml with source data
         prevpara = item["para"]
         prevline = item["line"]
         prevpage = item["page"]       
-            
+        i += 1    
             
             
             
