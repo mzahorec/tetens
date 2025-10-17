@@ -1,3 +1,38 @@
+Notes meeting with Courtney, Jose, Mike (2025/10/16)
+
+1. which HTML converter should I use?
+    -- the first one that Jose sent: Tei2html 
+    jhellingman/tei2html: XSLT stylesheets to convert TEI to HTML and ePub format.
+    but it sounds like Jose is taking the lead on this front, I should look at his GitHub repo about it
+
+2. do we want images embedded by the text?
+    yes but Courtney needs to find ones that we can use (with no IP concerns)
+
+3. things I think we want to do
+    - do we need to be able to search (ctrl-f or otherwise) for words and phrases split across lines? this seems potentially difficult
+    - we might be able to do this on the wordpress site-- however, we need to somehow ignore the newline character for searches across lines...
+
+notes:
+ -- Mike send Jose TEI files with notes properly marked 
+ -- enable the notes, the correction bubble, and the line numbers in the HTML
+ -- Courtney research images to potentially use in the online version
+
+ -- Mike and Jose both send GitHub repos to each other
+
+ -- Jose to look at newline character for searching
+
+ -- consider making an index/concordance for 
+
+
+
+
+
+
+
+
+
+
+
 Notes meeting with Courtney, Jose, Mike, Micah (2024/02/10)
 
     1. for sections, we could just have a key for each document that gives page number and line number for each section break
