@@ -27,6 +27,7 @@ def myread(myfilename):                 ## Read lines from docx file
                 elif '\n' in listofpars[parindex].runs[runindex].text:
                     linecount+=1
                     isnewline=True
+                    
             #print("P", pagecount, "Line", linecount, repr(listofpars[parindex].runs[runindex].text), listofpars[parindex].runs[runindex].bold)
 
             isbreak = "yes"
@@ -48,8 +49,6 @@ def myread(myfilename):                 ## Read lines from docx file
             if listofpars[parindex].runs[runindex].italic:
                 isitalic = True
                 
-            
-            
             #masterlist.append([pagecount,parindex,linecount,listofpars[parindex].runs[runindex].text.replace("\n",""), tag])
             curdict = {
                 "page":pagecount,
@@ -66,7 +65,7 @@ def myread(myfilename):                 ## Read lines from docx file
             notes = re.search(notepattern, curdict["text"])
             if notes:
                 curdict["note"] = notes
-                curdict["text"] = re.sub(note_pattern, "", curdict["text"])
+                curdict["text"] = re.sub(notepattern, "", curdict["text"])
             else:
                 curdict["note"] = []
             
@@ -169,62 +168,7 @@ def popuxml(myxml,masterlist):      ## populate xml with source data
     #count=0
     
     body = myxml.xpath('//tei:text//tei:body', namespaces={'tei': 'http://www.tei-c.org/ns/1.0'})[0]
-    
-    
-    '''
-    #print(dictoflists)
-    for x in range(len(dictoflists)):
-        #print(dictoflists[x])
-        #print("\n")
-        for y in range(len(dictoflists[x])):
-            count+=1
-            curel = ET.Element("p", linenum=str(count), paragraph=str(x+1), pagenum="??")
-            curel.text = dictoflists[x][y]
-            cnav.append(curel)
-    '''
-
-
-    '''
-    prevpara = prevline = prevpage = -1
-    curtext = ""
-    for item in masterlist:
-        print(item)
-        
-        if item["page"]!=prevpage:              # make a new pb element (I *think* this only works properly
-            pbe = etree.Element("pb")           # if pb does not occur inside a <p> element)
-            pbe.set("n",str(item["page"]) )
-            cnav.append(pbe)
-            
-        if item["para"]!=prevpara:
-            if prevpara != -1:
-                cnav.append(p)
-            p = etree.Element("p")
-                           
-        if item["bold"]==True:
-            if item["line"]==prevline:
-                
-            else:
-            
-        #elif item["strike"]:
-        #elif item["note"]:
-        
-        else:
-            if item["line"]==prevline:
-                curtext+=item["text"]
-            else:
-                curtext+=item["text"]
-                lbe = etree.SubElement(p, "lb", n=str(item["line"]))
-                lbe.set("break","yes")
-                lbe.tail = curtext
-                curtext = ""
-                
-                
-        
-        prevpara = item["para"]
-        prevline = item["line"]
-        prevpage = item["page"]
-    ''' 
-    
+       
     prevpara = prevline = prevpage = -1
     curtext = ""
     i = 0
@@ -249,6 +193,7 @@ def popuxml(myxml,masterlist):      ## populate xml with source data
                 prevline = next_item["line"]
                 prevpage = next_item["page"]
                 continue
+
         
         
         if item["page"]!=prevpage:
@@ -282,8 +227,6 @@ def popuxml(myxml,masterlist):      ## populate xml with source data
             curelem = etree.SubElement(p, "lb", n=str(item["line"]))
             curelem.set("break",item["isbreak"])
          
-
-         
         if item["bold"]==True:
             if 'curelem' in locals():
                 curelem.tail = curtext
@@ -292,6 +235,28 @@ def popuxml(myxml,masterlist):      ## populate xml with source data
             curelem.text = item["text"]
         else:
             curtext+=item["text"]
+            
+        if item.get("note"):
+            # Normalize to a list of strings
+            notes = item["note"]
+            if isinstance(notes, re.Match):
+                notes = [notes.group(1)]
+            elif isinstance(notes, str):
+                notes = [notes]
+
+            for note_text in notes:
+                # flush any accumulated text before inserting the note
+                if 'curelem' in locals() and curelem is not None:
+                    curelem.tail = (curelem.tail or "") + curtext
+                elif p.text is None:
+                    p.text = curtext
+                else:
+                    p.text += curtext
+                curtext = ""
+
+                note_elem = etree.SubElement(p, "note")
+                note_elem.text = note_text.strip()
+                curelem = note_elem  # track last inserted element
 
             
         #elif item["strike"]:
@@ -301,9 +266,7 @@ def popuxml(myxml,masterlist):      ## populate xml with source data
         prevline = item["line"]
         prevpage = item["page"]       
         i += 1    
-            
-            
-            
+                
     xmlstr = etree.tostring(myxml)
     return xmlstr
 
